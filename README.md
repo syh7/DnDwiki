@@ -21,3 +21,10 @@ The generic overview for the wiki is as follows
 
 This kotlin application can be run to automatically add pages to bookstack.  
 The bookstack API docs can be found at https://demo.bookstackapp.com/api/docs
+
+## Running this app
+
+1. Copy the `bookstack.properties.template` file
+2. Remove the `.template` from the name
+3. Fill in the empty values
+4. Run the `main`
