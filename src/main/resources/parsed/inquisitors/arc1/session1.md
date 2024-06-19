@@ -1,0 +1,1 @@
+this file originated in src\main\resources\raw\inquisitors\arc1\session1.md
