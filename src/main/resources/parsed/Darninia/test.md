@@ -2,11 +2,11 @@ itron
 itron
 [Itron](https://bookstack.hemels.me/books/Darninia/page/itron)
 Itron
-[Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) Illitris
+Faramar
+[Faramar Illitris](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris)
 Faramar
 Faramar
-Faramar
-[Ludwig](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris)
+Ludwig
 itron
 faramar illitris
 dit is andere tekst

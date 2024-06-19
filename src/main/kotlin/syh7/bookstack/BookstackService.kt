@@ -74,7 +74,7 @@ class BookstackService {
         return "${properties.url}/books/$book/page/$slug"
     }
 
-    private fun createTagUrlMap(keyChapterPageMap: Map<BookContentsChapter, List<DetailedPage>>, book: String): Map<String, String> {
+    private fun createTagUrlMap(keyChapterPageMap: Map<BookContentsChapter, List<DetailedPage>>, book: String): Map<List<String>, String> {
         return keyChapterPageMap.values.flatten()
             .mapNotNull {
                 val linkTags = getLinkTags(it)
@@ -82,9 +82,10 @@ class BookstackService {
                     null
                 } else {
                     val url = slugToFullUrl(book, it.slug)
-                    linkTags.map { tag -> tag to url }
+                    val sortedTags = linkTags.sortedByDescending { tag -> tag.length }
+                    sortedTags to url
                 }
-            }.flatten().toMap()
+            }.toMap()
     }
 
     private fun getLinkTags(page: DetailedPage): List<String> {

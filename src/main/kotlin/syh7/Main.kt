@@ -22,4 +22,5 @@ fun main() {
     // make sure full names are tagged first (if faramar illitris is written, the whole name should link, not just the first name)
     // make sure tags are done once per page instead of once per tag (if faramar links, faramar illitris should not also link)
     // backups
+    // tests!
 }

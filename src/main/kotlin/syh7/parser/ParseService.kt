@@ -16,8 +16,9 @@ class ParseService {
                 parsedFilePath.parent.createDirectories()
 
                 var rawText = rawFilePath.readText()
-                setup.tagUrlMap.forEach { (tag, url) ->
-                    rawText = rawText.replaceFirst(tag, "[$tag]($url)")
+                setup.tagUrlMap.forEach { (tags, url) ->
+                    tags.firstOrNull { rawText.contains(it) }
+                        ?.let { rawText = rawText.replaceFirst(it, "[$it]($url)") }
                 }
 
                 parsedFilePath.writeText(rawText)
