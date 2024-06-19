@@ -1,3 +1,7 @@
+# ignore secrets
+src/main/resources/bookstack.properties
+
+# generated classes
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
