@@ -1,8 +1,6 @@
 package syh7.bookstack.model
 
-import com.google.gson.JsonDeserializationContext
-import com.google.gson.JsonDeserializer
-import com.google.gson.JsonElement
+import com.google.gson.*
 import java.lang.reflect.Type
 
 interface BookContents {
@@ -54,5 +52,16 @@ class BookContentDeserializer : JsonDeserializer<BookContents> {
             "chapter" -> context.deserialize<BookContentsChapter>(json, BookContentsChapter::class.java)
             else -> throw IllegalStateException("unknown content type: $type")
         }
+    }
+}
+
+class BookContentSerializer : JsonSerializer<BookContents> {
+    override fun serialize(bookContents: BookContents, type: Type, context: JsonSerializationContext): JsonElement {
+        val jsonObject = context.serialize(bookContents).asJsonObject
+        when (bookContents) {
+            is BookContentsChapter -> jsonObject.addProperty("type", "chapter")
+            is BookContentsPage -> jsonObject.addProperty("type", "page")
+        }
+        return jsonObject
     }
 }
