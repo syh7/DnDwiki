@@ -5,6 +5,7 @@ import syh7.bookstack.CompleteBookSetup
 import syh7.bookstack.model.BookContentDeserializer
 import syh7.bookstack.model.BookContentSerializer
 import syh7.bookstack.model.BookContents
+import syh7.cacheService
 import java.nio.file.Files
 import java.nio.file.Paths
 import java.time.LocalDateTime
@@ -34,7 +35,7 @@ class CacheService {
         println("Wrote cache file $cacheFile")
     }
 
-    fun readCache(bookName: String): CompleteBookSetup? {
+    fun readCache(bookName: String): CompleteBookSetup {
         val folderName = bookName.lowercase()
         val cacheFolder = Paths.get(CACHE_FOLDER, folderName)
         val latestCache = Files.list(cacheFolder)
@@ -44,7 +45,7 @@ class CacheService {
         println("Reading cache from file $latestCache")
 
         val bookSetup = gson.fromJson(latestCache.readText(), CompleteBookSetup::class.java)
-        println("Read file to booksetup")
+        println("Parsed file $cacheService to booksetup")
         return bookSetup
     }
 

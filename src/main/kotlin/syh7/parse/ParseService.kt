@@ -9,7 +9,7 @@ class ParseService {
     @OptIn(ExperimentalPathApi::class)
     fun parseDirectory(setup: CompleteBookSetup) {
         println("walking $RAW_SESSION_FOLDER")
-        Paths.get(RAW_SESSION_FOLDER, setup.name).walk()
+        Paths.get(RAW_SESSION_FOLDER, setup.name.lowercase()).walk()
             .forEach { rawFilePath ->
                 println("walking $rawFilePath")
                 val parsedFilePath = Paths.get(rawFilePath.pathString.replace("raw", "parsed"))
