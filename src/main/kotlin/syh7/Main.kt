@@ -1,7 +1,7 @@
 package syh7
 
 import syh7.bookstack.BookstackService
-import syh7.parser.ParseService
+import syh7.parse.ParseService
 
 
 fun main() {

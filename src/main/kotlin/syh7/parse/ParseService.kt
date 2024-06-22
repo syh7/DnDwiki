@@ -1,4 +1,4 @@
-package syh7.parser
+package syh7.parse
 
 import syh7.bookstack.CompleteBookSetup
 import java.nio.file.Paths
