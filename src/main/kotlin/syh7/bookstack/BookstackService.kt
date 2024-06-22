@@ -2,14 +2,8 @@ package syh7.bookstack
 
 
 import syh7.bookstack.model.*
-import java.nio.file.Paths
-import java.time.LocalDateTime
-import java.time.format.DateTimeFormatter
-import kotlin.io.path.writeText
 
 class BookstackService {
-
-    private val dateTimeFormatter = DateTimeFormatter.ofPattern("yyyy-MM-dd_hh-mm")
 
     private val properties = BookstackProperties()
     private val bookstackClient = BookstackClient()
@@ -34,20 +28,9 @@ class BookstackService {
         return CompleteBookSetup(
             name = detailedBook.name,
             bookstackBook = detailedBook,
-//            emptyMap(), emptyMap()
             keyChapterPages = keyChapterPageMap,
             tagUrlMap = tagUrlMap
         )
-    }
-
-    fun createBackup(setup: CompleteBookSetup) {
-        val backupPath = Paths.get(BACKUP_LOCATION, setup.name, dateTimeFormatter.format(LocalDateTime.now()))
-
-        val bookText = backupPath.resolve(setup.name + ".txt")
-        bookText.writeText(setup.bookstackBook.toString())
-
-        val bookFolder = backupPath.resolve(setup.name).toFile()
-        bookFolder.mkdir()
     }
 
     private fun createChapterPageMap(book: DetailedBook): Map<BookContentsChapter, List<DetailedPage>> {
