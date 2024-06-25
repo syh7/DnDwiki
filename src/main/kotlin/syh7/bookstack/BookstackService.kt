@@ -1,7 +1,10 @@
 package syh7.bookstack
 
 
-import syh7.bookstack.model.*
+import syh7.bookstack.model.BookContentsChapter
+import syh7.bookstack.model.DetailedBook
+import syh7.bookstack.model.DetailedPage
+import syh7.bookstack.model.SimpleBookContainer
 
 class BookstackService {
 
@@ -12,8 +15,12 @@ class BookstackService {
         return bookstackClient.getBooks()
     }
 
-    fun retrieveBookSetup(book: SimpleBook): CompleteBookSetup {
-        val detailedBook = bookstackClient.getBook(book.id)
+    fun getExport(bookId: Int, exportOptions: ExportOptions): String {
+        return bookstackClient.getBookExport(bookId, exportOptions)
+    }
+
+    fun retrieveBookSetup(bookId: Int): CompleteBookSetup {
+        val detailedBook = bookstackClient.getBook(bookId)
 
         val keyChapterPageMap = createChapterPageMap(detailedBook)
         keyChapterPageMap.forEach { (chapter, pages) ->

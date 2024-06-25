@@ -46,6 +46,13 @@ class BookstackClient {
         return performRequest(request, DetailedBook::class.java)
     }
 
+    fun getBookExport(id: Int, exportOptions: ExportOptions): String {
+        val apiurl = "${properties.url}/api/books/$id/export/${exportOptions.name.lowercase()}"
+        val request = Request.Builder().get().url(apiurl).addHeader("Authorization", properties.tokenString).build()
+
+        return performRequest(request, String::class.java)
+    }
+
     private fun <T> performRequest(request: Request, clazz: Class<T>): T {
         client.newCall(request).execute().use { response ->
             if (response.isSuccessful) {
@@ -76,4 +83,11 @@ class BookstackClient {
         }
     }
 
+}
+
+enum class ExportOptions(val fileExtension: String) {
+    HTML(".html"),
+    PDF(".pdf"),
+    MARKDOWN(".md"),
+    PLAINTEXT(".txt"),
 }
