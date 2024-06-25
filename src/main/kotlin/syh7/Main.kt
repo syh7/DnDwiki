@@ -5,6 +5,9 @@ import syh7.bookstack.BookstackService
 import syh7.bookstack.CompleteBookSetup
 import syh7.cache.CacheService
 import syh7.parse.ParseService
+import syh7.util.log
+import syh7.util.lowerLogOffset
+import syh7.util.upLogOffset
 
 
 val bookstackService = BookstackService()
@@ -15,10 +18,12 @@ val backupService = BackupService()
 fun main() {
 
     val bookName = "Darninia"
+    log("Starting handling book $bookName")
     val bookSetup = getBookSetup(bookName)
 
-    println("Start parsing for book $bookName")
+    log("Start parsing for book $bookName")
     parseService.parseDirectory(bookSetup)
+    log("start backing up book $bookName")
     backupService.backupMarkdown(bookSetup)
 
     // TODO:
@@ -28,15 +33,18 @@ fun main() {
 }
 
 private fun getBookSetup(bookName: String): CompleteBookSetup {
+    upLogOffset()
     return try {
         val bookSetup = cacheService.readCache(bookName)
-        println("Read setup from cache")
+        log("Read setup from cache")
         bookSetup
     } catch (exception: Exception) {
-        println("There was an error reading cache or there was no cache")
-        println("Retrieving setup from the wiki")
+        log("There was an error reading cache or there was no cache")
+        log("Retrieving setup from the wiki")
         val bookSetup = refreshCache(bookName)
         bookSetup
+    } finally {
+        lowerLogOffset()
     }
 }
 
@@ -44,7 +52,7 @@ private fun refreshCache(bookName: String): CompleteBookSetup {
     val simpleBook = bookstackService.getBooks().data
         .first { it.name.lowercase() == bookName.lowercase() }
     val bookSetup = bookstackService.retrieveBookSetup(simpleBook.id)
-    println("Caching setup")
+    log("Caching setup")
     cacheService.writeCache(bookSetup)
     return bookSetup
 }

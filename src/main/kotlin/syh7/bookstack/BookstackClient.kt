@@ -4,6 +4,7 @@ import com.google.gson.Gson
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import syh7.bookstack.model.*
+import syh7.util.log
 
 class BookstackClient {
 
@@ -56,14 +57,14 @@ class BookstackClient {
     private fun <T> performRequest(request: Request, clazz: Class<T>): T {
         client.newCall(request).execute().use { response ->
             if (response.isSuccessful) {
-//                println("successful call to bookstack")
+//                log("successful call to bookstack")
                 val body = response.body
                 if (body == null) {
                     throw IllegalStateException("empty body after call to ${request.url}")
                 } else {
-//                    println("received body:")
+//                    log("received body:")
                     val bodyString = body.string()
-//                    println(bodyString)
+//                    log(bodyString)
 
 
                     if (clazz == String::class.java) {
@@ -76,8 +77,8 @@ class BookstackClient {
 //                    return bodyString
                 }
             } else {
-                println("status code: " + response.code)
-                println(response.message)
+                log("status code: " + response.code)
+                log(response.message)
                 throw IllegalStateException("Something went wrong trying to call ${request.url}")
             }
         }

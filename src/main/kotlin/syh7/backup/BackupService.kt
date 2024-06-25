@@ -3,6 +3,9 @@ package syh7.backup
 import syh7.bookstack.BookstackService
 import syh7.bookstack.CompleteBookSetup
 import syh7.bookstack.ExportOptions
+import syh7.util.log
+import syh7.util.lowerLogOffset
+import syh7.util.upLogOffset
 import java.nio.file.Files
 import java.nio.file.Path
 import java.nio.file.Paths
@@ -18,40 +21,44 @@ class BackupService {
     private val imageBackupService = ImageBackupService()
 
     fun backupMarkdown(bookSetup: CompleteBookSetup) {
+        upLogOffset()
         val now = LocalDateTime.now().format(dateTimeFormatter)
 
         val backupFolder = Paths.get(BACKUP_FOLDER, bookSetup.name.lowercase(), now)
         Files.createDirectories(backupFolder)
 
-        println("Retrieving ${ExportOptions.MARKDOWN} export for backup for book ${bookSetup.name}")
+        log("Retrieving ${ExportOptions.MARKDOWN} export for backup for book ${bookSetup.name}")
         val markdownExport = bookstackService.getExport(bookSetup.bookstackBook.id, ExportOptions.MARKDOWN)
 
         val plainBackupFile = backupFolder.resolve("plain-export.md")
-        println("Saving plain export to backup file $plainBackupFile")
+        log("Saving plain export to backup file $plainBackupFile")
         plainBackupFile.writeText(markdownExport)
-        println("Saved text")
+        log("Saved text")
 
         val changedExport = backupImagesAndReplaceLinks(markdownExport, backupFolder)
 
         val changedBackupFile = backupFolder.resolve("changed-export.md")
-        println("Saving plain export to backup file $changedBackupFile")
+        log("Saving plain export to backup file $changedBackupFile")
         changedBackupFile.writeText(changedExport)
-        println("Saved text")
+        log("Saved text")
 
+        lowerLogOffset()
     }
 
     private fun backupImagesAndReplaceLinks(markdownExport: String, backupFolder: Path): String {
         var changedExport = markdownExport
+        log("Finding all images in text")
         val imageLinks = imageBackupService.findImageLinks(markdownExport)
 
         imageLinks.forEach { imageLinkSetup ->
+            log("Handling image ${imageLinkSetup.fullSetup}")
             val imagePath = imageBackupService.downloadAndSaveImage(imageLinkSetup.fullImage, backupFolder)
 
             if (imagePath != null) {
                 val relativePath = backupFolder.relativize(imagePath)
                 val newLink = "${imageLinkSetup.linkText ?: ""}![${imageLinkSetup.brackets}]($relativePath)"
                 changedExport = changedExport.replace(imageLinkSetup.fullSetup, newLink)
-                println("Replaced ${imageLinkSetup.fullSetup} with $newLink")
+                log("Replaced ${imageLinkSetup.fullSetup} with $newLink")
             }
         }
 

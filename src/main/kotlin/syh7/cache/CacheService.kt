@@ -5,6 +5,9 @@ import syh7.bookstack.CompleteBookSetup
 import syh7.bookstack.model.BookContentDeserializer
 import syh7.bookstack.model.BookContentSerializer
 import syh7.bookstack.model.BookContents
+import syh7.util.log
+import syh7.util.lowerLogOffset
+import syh7.util.upLogOffset
 import java.nio.file.Files
 import java.nio.file.Paths
 import java.time.LocalDateTime
@@ -23,28 +26,32 @@ class CacheService {
 
 
     fun writeCache(bookSetup: CompleteBookSetup) {
+        upLogOffset()
         val folderName = bookSetup.name.lowercase()
         val cacheFolder = Paths.get(CACHE_FOLDER, folderName)
         val now = LocalDateTime.now().format(dateTimeFormatter)
         val cacheFile = cacheFolder.resolve("$now.json")
-        println("Writing cache file $cacheFile")
+        log("Writing cache file $cacheFile")
 
         val jsonString = gson.toJson(bookSetup)
         cacheFile.writeText(jsonString)
-        println("Wrote cache file $cacheFile")
+        log("Wrote cache file $cacheFile")
+        lowerLogOffset()
     }
 
     fun readCache(bookName: String): CompleteBookSetup {
+        upLogOffset()
         val folderName = bookName.lowercase()
         val cacheFolder = Paths.get(CACHE_FOLDER, folderName)
         val latestCache = Files.list(cacheFolder)
             .sorted { path1, path2 -> path2.toFile().lastModified().compareTo(path1.toFile().lastModified()) }
-            .peek { println(it) }
+            .peek { log(it) }
             .findFirst().orElseThrow { NoSuchElementException("No cache for book $bookName") }
-        println("Reading cache from file $latestCache")
+        log("Reading cache from file $latestCache")
 
         val bookSetup = gson.fromJson(latestCache.readText(), CompleteBookSetup::class.java)
-        println("Parsed file $latestCache to booksetup")
+        log("Parsed file $latestCache to booksetup")
+        lowerLogOffset()
         return bookSetup
     }
 

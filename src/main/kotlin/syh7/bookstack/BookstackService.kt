@@ -5,6 +5,9 @@ import syh7.bookstack.model.BookContentsChapter
 import syh7.bookstack.model.DetailedBook
 import syh7.bookstack.model.DetailedPage
 import syh7.bookstack.model.SimpleBookContainer
+import syh7.util.log
+import syh7.util.lowerLogOffset
+import syh7.util.upLogOffset
 
 class BookstackService {
 
@@ -20,17 +23,19 @@ class BookstackService {
     }
 
     fun retrieveBookSetup(bookId: Int): CompleteBookSetup {
+        upLogOffset()
         val detailedBook = bookstackClient.getBook(bookId)
 
         val keyChapterPageMap = createChapterPageMap(detailedBook)
         keyChapterPageMap.forEach { (chapter, pages) ->
-            println("chapter ${chapter.name} has pages")
-            pages.forEach { println("${it.name} had tags: ${it.tags}") }
+            log("chapter ${chapter.name} has pages")
+            pages.forEach { log("${it.name} had tags: ${it.tags}") }
             println()
         }
 
         val tagUrlMap = createTagUrlMap(keyChapterPageMap, detailedBook.name)
-        tagUrlMap.forEach { println("${it.key} goes to ${it.value}") }
+        tagUrlMap.forEach { log("${it.key} goes to ${it.value}") }
+        lowerLogOffset()
 
         return CompleteBookSetup(
             name = detailedBook.name,
@@ -41,23 +46,26 @@ class BookstackService {
     }
 
     private fun createChapterPageMap(book: DetailedBook): Map<BookContentsChapter, List<DetailedPage>> {
-        return book.contents
+        upLogOffset()
+        val map = book.contents
             .filterIsInstance<BookContentsChapter>()
             .filter { it.name.lowercase() in KEY_CHAPTERS }
-            .also { println("key chapter: $it") }
+            .also { log("key chapter: $it") }
             .associateWith { keyChapter ->
                 keyChapter.pages.filterNot {
                     if (it.draft) {
-                        println("page ${it.id}: ${it.name} is a draft page")
+                        log("page ${it.id}: ${it.name} is a draft page")
                     }
                     it.draft
                 }.map {
-                    println("retrieving page ${it.id}: ${it.name} ")
+                    log("retrieving page ${it.id}: ${it.name} ")
                     val detailedPage = bookstackClient.getPage(it.id)
-                    println("detailed page $detailedPage")
+                    log("detailed page $detailedPage")
                     detailedPage
                 }
             }
+        lowerLogOffset()
+        return map
     }
 
     private fun slugToFullUrl(book: String, slug: String): String {
