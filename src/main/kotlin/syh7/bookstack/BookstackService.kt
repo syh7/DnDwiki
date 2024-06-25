@@ -67,26 +67,19 @@ class BookstackService {
     private fun createTagUrlMap(keyChapterPageMap: Map<BookContentsChapter, List<DetailedPage>>, book: String): Map<List<String>, String> {
         return keyChapterPageMap.values.flatten()
             .mapNotNull {
-                val linkTags = getLinkTags(it)
-                if (linkTags.isEmpty()) {
+                val tags = it.tags.map { tag -> tag.name }
+                if (tags.isEmpty()) {
                     null
                 } else {
                     val url = slugToFullUrl(book, it.slug)
-                    val sortedTags = linkTags.sortedByDescending { tag -> tag.length }
-                    sortedTags to url
+                    tags to url
                 }
             }.toMap()
-    }
-
-    private fun getLinkTags(page: DetailedPage): List<String> {
-        return page.tags.firstOrNull { it.name == LINK_TAG_NAME }?.value?.split(",") ?: emptyList()
     }
 
     companion object {
 
         private val KEY_CHAPTERS = listOf("player characters", "important npcs", "important locations", "factions")
-        private const val LINK_TAG_NAME = "LinkTags"
-        private const val BACKUP_LOCATION = "src/main/resources/backups"
 
     }
 
