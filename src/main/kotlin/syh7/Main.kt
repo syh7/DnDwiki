@@ -3,7 +3,6 @@ package syh7
 import syh7.backup.BackupService
 import syh7.bookstack.BookstackService
 import syh7.bookstack.CompleteBookSetup
-import syh7.bookstack.ExportOptions
 import syh7.cache.CacheService
 import syh7.parse.ParseService
 
@@ -20,7 +19,7 @@ fun main() {
 
     println("Start parsing for book $bookName")
     parseService.parseDirectory(bookSetup)
-    backupService.backupBook(bookSetup, ExportOptions.MARKDOWN)
+    backupService.backupMarkdown(bookSetup)
 
     // TODO:
     // replace images in backup text with images from backup folder
