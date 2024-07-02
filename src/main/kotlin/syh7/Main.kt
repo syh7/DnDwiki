@@ -18,18 +18,27 @@ val backupService = BackupService()
 fun main() {
 
     val bookName = "Darninia"
+
+//    refreshCache(bookName)
+
     log("Starting handling book $bookName")
     val bookSetup = getBookSetup(bookName)
 
-    log("Start parsing for book $bookName")
-    parseService.parseDirectory(bookSetup)
+    parseAndAddSessionsToWiki(bookName, bookSetup)
+
     log("start backing up book $bookName")
     backupService.backupMarkdown(bookSetup)
 
     // TODO:
-    // replace images in backup text with images from backup folder
-    // send sessions to the wiki!
     // tests!
+}
+
+private fun parseAndAddSessionsToWiki(bookName: String, bookSetup: CompleteBookSetup) {
+    log("Start parsing for book $bookName")
+    val newSessions = parseService.parseDirectory(bookSetup)
+
+    log("sending ${newSessions.size} new sessions to the wiki")
+    bookstackService.addSession(bookSetup, newSessions)
 }
 
 private fun getBookSetup(bookName: String): CompleteBookSetup {

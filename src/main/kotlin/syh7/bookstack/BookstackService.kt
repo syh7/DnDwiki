@@ -8,6 +8,7 @@ import syh7.bookstack.model.SimpleBookContainer
 import syh7.util.log
 import syh7.util.lowerLogOffset
 import syh7.util.upLogOffset
+import java.nio.file.Path
 
 class BookstackService {
 
@@ -83,6 +84,40 @@ class BookstackService {
                     tags to url
                 }
             }.toMap()
+    }
+
+    fun emptyChapter(bookSetup: CompleteBookSetup, chapterName: String) {
+        upLogOffset()
+        val sessionsChapter = bookSetup.bookstackBook.contents.filterIsInstance<BookContentsChapter>().first { it.name.lowercase() == chapterName }
+        val toBeDeletedPageIds = sessionsChapter.pages.map { it.id to it.name }
+        toBeDeletedPageIds.forEach { (id, name) ->
+            log("deleting page `$name` with id $id")
+            bookstackClient.deletePage(id)
+        }
+        lowerLogOffset()
+    }
+
+    fun addSession(bookSetup: CompleteBookSetup, sessionPaths: List<Path>) {
+        upLogOffset()
+        val sessionsChapter = bookSetup.bookstackBook.contents.filterIsInstance<BookContentsChapter>().first { it.name.lowercase() == "sessions" }
+        log("sessions chapter in book ${bookSetup.name} is ${sessionsChapter.id}")
+        for (path in sessionPaths) {
+            log("handling new session $path")
+            val markdown = path.toFile().readText()
+            val requestBody = createNewPageRequestBody(markdown, sessionsChapter)
+            val createdPage = bookstackClient.addPage(requestBody)
+            log("created page `${createdPage.name}` with id ${createdPage.id}")
+        }
+        lowerLogOffset()
+    }
+
+    private fun createNewPageRequestBody(markdown: String, sessionsChapter: BookContentsChapter): NewPageRequestBody {
+        val (title, pageText) = markdown.split("\n", limit = 2)
+        return NewPageRequestBody(
+            chapter_id = sessionsChapter.id,
+            name = title.removePrefix("# "),
+            markdown = pageText,
+        )
     }
 
     companion object {
