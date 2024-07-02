@@ -1,4 +1,4 @@
-# Session ? - Of Rudeness and Runes
+# Session 10 - Of Rudeness and Runes
 
 - Wacomar as Thoms asks directions to Rusty Talon from bartender
 - it's the red roof that is very far away
@@ -12,9 +12,9 @@
     - Faramar tries again, and successful, albeit a little bit slow
     - Wacomar helps barkeep with Guidance
 
-- do not ask aaracockra to fly us somewhere
-- they will offer or not do it
-- barkeep says something about tourist lights/lakes but it's confusing
++ do not ask aaracockra to fly us somewhere
++ they will offer or not do it
++ barkeep says something about tourist lights/lakes but it's confusing
 
 - enter Rusty Talon, it's a brown cafe
 - barkeep has a big cock
@@ -36,8 +36,8 @@
 - he lives on "sShattered Rise"
 - go through the cave to other side of the mountain where he lives
 
-- Wacomar asks Räkän if he can bring us
-- Räkän gets angry and wants us to leave :(
++ Wacomar asks Räkän if he can bring us
++ Räkän gets angry and wants us to leave :(
 
 - climb up ladder
 - EotM carries Dandy without issues
@@ -45,7 +45,7 @@
 - Faramar has wooden steps breaking, then failing dex save, so he falls
 - can Misty Step to save some damage but still takes 5 damage for 40 metres
 
-- climbing is very difficult
++ climbing is very difficult
 
 - short rest in front of the cave
 - enter cave, Faramar uses torch
@@ -58,21 +58,21 @@
 - inverstigate stealthily: 3 orcs + wolf among some boxes and pickaxes
 - discussion: EotM wants to attack and puposefully "stumbles" and makes sound
 
-- combat
++ roll iniative
 
 - boxes have stones with gold and silver streaks through them
 - orcs carried 5SP and 3CP, also some books
 - Dalynn is angry at mess EotM created
 
-- leave cave at other side of the mountain
-- see cave where Öfakkö might live and go to it
-- Öfakkö is very old, balding, blind, and confused
-- his place has a real, messy bed, has one chair that Öfakkö sits on, and runes carved on the walls
-- says it's good that we killed the orcs
-- wants us to meat Kalaaf
-- gets an old wooden statue from an old aaracockra
-- says that Kalaaf talks to him and that kalaaf is captured by the king and is older than Eureka
-- Kalaaf hid the keys in the lakes, can only be found by the chosen one
++ leave cave at other side of the mountain
++ see cave where Öfakkö might live and go to it
++ Öfakkö is very old, balding, blind, and confused
++ his place has a real, messy bed, has one chair that Öfakkö sits on, and runes carved on the walls
++ says it's good that we killed the orcs
++ wants us to meat Kalaaf
++ gets an old wooden statue from an old aaracockra
++ says that Kalaaf talks to him and that kalaaf is captured by the king and is older than Eureka
++ Kalaaf hid the keys in the lakes, can only be found by the chosen one
 
 - 5 runes:
 
@@ -86,14 +86,14 @@
 
 - last rune might be rune of Kalaaf
 
-- there are 7 lakes
-  1. Leugeus, go to cave towards Neuneun and go right
-  2. Köping, on the other side of Neuneun
-  3. Wennja, leave Stormhorn through exit not towards Neuneun
-  4. Keuneu, go down from Öfakkös place
-  5. Berkenen, go to Keuneu and continue straight
-  6. unnamed, attached to Wennja
-  7. unnamed, attached to Köping
++ there are 7 lakes
+    1. Leugeus, go to cave towards Neuneun and go right
+    2. Köping, on the other side of Neuneun
+    3. Wennja, leave Stormhorn through exit not towards Neuneun
+    4. Keuneu, go down from Öfakkös place
+    5. Berkenen, go to Keuneu and continue straight
+    6. unnamed, attached to Wennja
+    7. unnamed, attached to Köping
 
 - start with lake Keuneu
 - walk down rocky path from Öfakkös cave
@@ -104,28 +104,28 @@
 - light both bowls, fires turn green and thick smoke fills the plateau
 - smoke turns into shadow demons and quasits
 
-- combat
++ roll iniative
 
 - fire rune appears on the table
 - EotM is suddenly Utrechts
 - EotM is suddenly Vlaams
 
-- long rest
++ long rest
 
 - walk on to lake Berkenen
 - same plateau with different text: "to find what you seek, one has to grow"
 
-- Dalynn long rests to change spells
-- Faramar+Wacomar go back to skin quasits
-- Get 2 quasit skins and 4 venom fangs
-- Faramar improves and gains a +2 on skinning checks
++ Dalynn long rests to change spells
++ Faramar+Wacomar go back to skin quasits
++ Get 2 quasit skins and 4 venom fangs
++ Faramar improves and gains a +2 on skinning checks
 
-- Dandy decides to jump on the plateau and somehow that counts 
+- Dandy decides to jump on the plateau and somehow that counts
 - get the growth rune
 
-- back to lake Keuneu to long rest and tomorrow go to lake Leugeus
-- bonding at camp fire
-- long rest
++ back to lake Keuneu to long rest and tomorrow go to lake Leugeus
++ bonding at camp fire
++ long rest
 
 - back through cave, down the ladder, go right to lake Leugeus
 - aaracockra are sunbathing

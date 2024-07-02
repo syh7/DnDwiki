@@ -1,41 +1,35 @@
 # Session 2 - Meeting Laurence
 
-Someone in royal family taught slaves to read + write  
-Guards have peacock on armour
+- Someone in royal family taught slaves to read + write
+- Guards have peacock on armour
 
----------------------------
++ Temple surrounded by tents
++ stone steps to doorway
++ cloth instead of door
++ people with flowers in hair weaving basket
++ random music
 
-[rough sketch of temple with tree and woodworker's hut]
+- Temple does not look like Darninia God; withered away pictures of plants on temple
+- Temple for Lachi, prophet, cares about Lachis (weed); writing in Sylvan on wall
 
-Temple surrounded by tents; stone steps to doorway; cloth instead of door; people with flowers in hair weaving basket;
-random music
++ Moons: gallac, tarraq, Amarantha
 
-Temple does not look like Darninia God; withered away pictures of plants on temple  
-Temple for Lachi, prophet, cares about Lachis (weed); writing in Sylvan on wall
+- Woodworker
+- lots of small/big wooden statues
+- Two white dire wolves sleeping
+- Small elven seller with leg in cast (Laurence) recognises Dalynn; left village because "not into mountains"
 
---------------------
++ Back room with lots of bookcases
++ painting of giant willow tree with elven woman in it with flowing red hair
 
-Moons: gallac, tarraq, Amarantha
+- Laurence wears necklace with 3 stars; believes in prophet Liira; necklace is sign of Liira
 
-----------------------------------------------------------------
++ Fairy tale of the willow maiden who transformed into a flower
++ Possibly in the forest near Itron
++ maze in forest Glennwood
++ Laurence broke leg in maze, blacked out; woke up near campfire at edge of wood
 
-Woodworker
-lots of small/big wooden statues  
-Two white dire wolves sleeping  
-Small elven seller with leg in cast (Laurence) recognises Dalynn; left village because "not into mountains"
-
-Back room with lots of bookcases  
-painting of giant willow tree with elven woman in it with flowing red hair
-
-Laurence wears necklace with 3 stars; believes in prophet Liira; necklace is sign of Liira  
-[sketch of necklace with 3 stars]
-
-Fairy tale of the willow maiden who transformed into a flower  
-Possibly in the forest near Itron  
-maze in forest Glennwood  
-Laurence broke leg in maze, blacked out; woke up near campfire at edge of wood
-
-Side quest!
+- Side quest!
 
 S - 4 - 7 - 18 X  
 S - 4 - 7 - 21 X  
@@ -47,6 +41,6 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 
 - Skeleton under tree already dead >10 years; human male w/ guard uniform; rusty sword
 - painting of couple with yellow flowers
-- tree lives:  
-  Rosea lived with Tathrana + Laurelean  
-  spirit of the willow tree
+- tree lives:
+- Rosea lived with Tathrana + Laurelean
+- spirit of the willow tree

@@ -1,19 +1,19 @@
-# Session ? - Skin to Win
+# Session 9 - Skin to Win
 
 - 2 options:
     1. Orio is close by, but it is an official boat and leaves traces
     2. Rion is further away, but we have to get our own row boat
 
-- Dalynn will be a cat
-- Fredrik isn't wanted
-- Wacomar can discguise himself
-- Wacomar can get Faramar through
-- So Orio should be safe
++ Dalynn will be a cat
++ Fredrik isn't wanted
++ Wacomar can discguise himself
++ Wacomar can get Faramar through
++ So Orio should be safe
 
 - To keep wildshape, Dalynn rests in Wacomars pack
 
-- Arrive at Orio, walk past and set up camp
-- long rest
++ Arrive at Orio, walk past and set up camp
++ long rest
 
 - Dalynn has last watch
 - hears creature make terrified sound
@@ -24,19 +24,18 @@
 - Fredrik follows Dalynn
 - Faramar is following the sound, hand-in-hand with night-blind Wacomar
 
-- Dalynn wants to protect the dandylion, so fight!
-- Windwall does not keep out griphons
++ Dalynn wants to protect the dandylion, so fight!
++ Windwall does not keep out griphons
 
 - Fredrik runs to camp with dandylion
 - Dalynn follows
 - Faramar skins the griphons
 - Wacomar stays with Faramar
 
-- Dalynn ritual casts Speak with Animals
-- Mama of dandy-cub has been gone for a few days
-- we are new mamas
-- dandylions are herbivores and are ridiculously cute, with bulbs at the end of their tail that can get fluffy and
-  petals that close around their head when they sleep
++ Dalynn ritual casts Speak with Animals
++ Mama of dandy-cub has been gone for a few days
++ we are new mamas
++ dandylions are herbivores and are ridiculously cute, with bulbs at the end of their tail that can get fluffy and petals that close around their head when they sleep
 
 - Dalynn goes to find Farmar + Wacomar
 - Find Faramar still skinning griphons
@@ -46,8 +45,8 @@
 - beak + claws from griphons are used in potions
 - feathers are valuable too
 
-- not much sleep afterward
-- Wacomar gets 1 level of exhaustion
++ not much sleep afterward
++ Wacomar gets 1 level of exhaustion
 
 - enter Orio
 - Dandy on Fredriks shoulder draws attention
@@ -56,7 +55,7 @@
 - 10GP per person, and 5GP per pet
 - Biblo is interested in griphon supplies, if we want to sell, we can find him in the crossdeck inn in Itron
 
-- there are Wanted! posters here too, 100GP per person
++ there are Wanted! posters here too, 100GP per person
 
 - enter tavern Hearts Road for lunch
 - they will have a darts tournament for 5 days
@@ -72,26 +71,26 @@
 - Get ferry tickets for Avian Ferry, show IDs
 - leaves at 5PM, will arrive at Stormhorn at 11AM
 
-- sleep in bärräcks on the ship
-- no Yildur but other adventurers on ship too
-- 3 dwarves + 1 tall man with a monkey and captain hat
-- 4 half-orcs
++ sleep in bärräcks on the ship
++ no Yildur but other adventurers on ship too
++ 3 dwarves + 1 tall man with a monkey and captain hat
++ 4 half-orcs
 
 - dog-Dalynn tries to be cute to initiate conversion with adventurers
 - half-orcs kick at her
 - tall man scratches behind ears
 - offers to match her with his own dog at home
 
-- Neuneun is all mountains, so will be difficult to travel
-- there's apparently a dragon there
++ Neuneun is all mountains, so will be difficult to travel
++ there's apparently a dragon there
 
 - group of school girls want to pet the tabaxi and Dandy
 - EotM swipes at them to scare them
 - they run away to their teacher
 - "I told you that there's a lot of danger"
 
-- get some beers, give Dandy one
-- shitty weather, warm but little drizzle without wind, so they have slaves rowing the ferry
++ get some beers, give Dandy one
++ shitty weather, warm but little drizzle without wind, so they have slaves rowing the ferry
 
 - older aaracockra joins us and tells us about dandelions
 - Dandy needs its parents but they're dead
@@ -103,43 +102,43 @@
 - mature after a year, live for 20 years
 - radiant damage heals dandelions
 
-- long rest
++ long rest
 
 - arrive to see an island group
 - 1 big island with high mountains and buildings at top
 - small way between big and small island, filled with wind: Stormtunnel
 
-- arrive at small town Stormhorn
-- find tailor Heureuts & Maureuts
-- ask to create a cloak from griphon
-- griphons are natural enemies of aaracockra
-- 200GP for making the cloak (cloak will be worth 2000GP)
-- 150GP for cloak without claws
-- 120GP+leftover feathers for cloak with claws without talons 
-- eventual deal: pay 325GP for a gold-inlaid cloak, any leftover feathers are for them
++ arrive at small town Stormhorn
++ find tailor Heureuts & Maureuts
++ ask to create a cloak from griphon
++ griphons are natural enemies of aaracockra
++ 200GP for making the cloak (cloak will be worth 2000GP)
++ 150GP for cloak without claws
++ 120GP+leftover feathers for cloak with claws without talons
++ eventual deal: pay 325GP for a gold-inlaid cloak, any leftover feathers are for them
 
 - Öfakkö can be found at Rusty Talon in Neuneun
 
-- 2 ways from Stormhorn to Neuneun
-- marshy way
-- steep way
-- go the steep way
++ 2 ways from Stormhorn to Neuneun
++ marshy way
++ steep way
++ go the steep way
 
 - Dalynn buys trinket dreamcatcher from random guy
 
-- combat some perytons
++ fight some perytons
 
 - aaracockra say well done
 - skinning peryton ruins economy so get 4 talons, 3 antlers and 50 feathers
 
-- arrive in Neuneun
-- fully built for flying creatures
-- has some ladders for the non-flying plebs (us)
-- big inn Magicians Refuge at base level
-- we arrive around 1800, so dinner first
-- enter Magicians Refuge
-- 3 dwarves + tall man are there
-- they've only seen dog-Dalynn, so leave to prevent them seeing the full party
++ arrive in Neuneun
++ fully built for flying creatures
++ has some ladders for the non-flying plebs (us)
++ big inn Magicians Refuge at base level
++ we arrive around 1800, so dinner first
++ enter Magicians Refuge
++ 3 dwarves + tall man are there
++ they've only seen dog-Dalynn, so leave to prevent them seeing the full party
 
 - ask random passerby for different place (name: Theeble Thabble Stabble)
 - Rusty Talon is at very top of high peak
@@ -149,8 +148,8 @@
 - quite place, bartender is aaracockra
 - get a room with 6-8 beds for 2CP/night
 
-- Plan:
-  - find Öfakkö at Rusty Talon
++ Plan:
+    - find Öfakkö at Rusty Talon
 
 
 

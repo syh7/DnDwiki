@@ -1,42 +1,37 @@
-# Session ? - Prison break
-
-Prison break
+# Session 7 - Prison break
 
 - leave palace, go to Shaggy Tabby
 - party in Shaggy Tabby
 - band - Beetle the Bardcore
 - Nalaya is sitting with the dwarves
 
-- freshen up before going to the dwarves
-- apparently coven of hags broke up after defeating hag in the maze
++ freshen up before going to the dwarves
++ apparently coven of hags broke up after defeating hag in the maze
 
 - reminder to look for documents with the poem or in the maintains
 - people went up the mountains and came back with burn marks and not able to talk
 
-- go to sleep
-
-- level up!
++ go to sleep
++ level up!
 
 - Split up
-
 - Wacomar stays, witing diary
-
 - Malaya + Dalynn go to Lawrence
 - EotM + Faramar go shopping for armour
-
 - Dalyan delivers letter
 
-- Lawrence is going away for abit, wants us to take care of two wolves for him (Rex+ Gina)
++ Lawrence is going away for abit, wants us to take care of two wolves for him (Rex+ Gina)
 
-- "I used to be a whore, but now I am a woman" -Nalaya
+> "I used to be a whore, but now I am a woman" -Nalaya
+
 - go to trading post
 - sell 7 agates for 5GP :(
 - under farmers gate we have Ewan the blacksmith for cheap but decent quality
 
-- enter market to search for incense, herbs and charcoal
-- smudgy shop with old woman with wart on nose, "Rosita"
-- divine sense shows nothing
-- buy 10GP worth of charcoal/incense/herbs
++ enter market to search for incense, herbs and charcoal
++ smudgy shop with old woman with wart on nose, "Rosita"
++ divine sense shows nothing
++ buy 10GP worth of charcoal/incense/herbs
 
 - to blacksmith
 - walk through very poor part of the city
@@ -49,36 +44,34 @@ Prison break
 - buy 2 studded leather
 - Noël places requests for jeweled weaponry
 
-- back to tavern, lunch
-- find familiar van Frank: Smokey arrives!
-- need to talk to Mohul, Cara, Armado
-- first go to Mohul
-- tumult, lots of women with weapons
-- map of place with cells on table in the middle (prison?)
-- Mohul asks others to move ot other room so we can talk in private
-- Mohuls friends are captured and they need to get them out
-- problem: they are all female and thus not allowed
-- tell Mohul about party
-- Dalynn also tells name of canal master
-- Mohul goes and gets Cara
-- Cara wants to reward us for party: access to the middle level!
++ back to tavern, lunch
++ find familiar van Frank: Smokey arrives!
++ need to talk to Mohul, Cara, Armado
++ first go to Mohul
++ tumult, lots of women with weapons
++ map of place with cells on table in the middle (prison?)
++ Mohul asks others to move ot other room, so we can talk in private
++ Mohuls friends are captured, and they need to get them out
++ problem: they are all female and thus not allowed
++ tell Mohul about party
++ Dalynn also tells name of canal master
++ Mohul goes and gets Cara
++ Cara wants to reward us for party: access to the middle level!
 
 - their organisation has safe houses, this is the biggest one
 - organisation: Sister tribe
 - want to protect Andarin
 
-- Get told story:
++ Get told story:
 
-```
-Long ago, there was another race: the Andarin.
-They were the first humanoids in Darninia. Descendants from powerful celestials, some could change the sun.
-This changed when king Abigor came into power 200 years ago. 
-History books say that he came into power 40 years ago, but the king before him is also Abigor. He is immortal. 
-He is scared of the Andarin and convinced all races to revolt against the Andarin, killing most of them. Only a few survived.
-Abigor installed a Mythal-spell, creating a new history with a new god, Eureka. He stol the spell from "us".
-The spell disconnected Andarin from the earth, preventing them from earth bending, although they can still perform magic.
-Then Abigor found out some Andarin still live, and started discriminating against women and magic.  
-```
+    - Long ago, there was another race: the Andarin.
+    - They were the first humanoids in Darninia. Descendants from powerful celestials, some could change the sun.
+    - This changed when king Abigor came into power 200 years ago.
+    - History books say that he came into power 40 years ago, but the king before him is also Abigor. He is immortal.
+    - He is scared of the Andarin and convinced all races to revolt against the Andarin, killing most of them. Only a few survived.
+    - Abigor installed a Mythal-spell, creating a new history with a new god, Eureka. He stol the spell from "us".
+    - The spell disconnected Andarin from the earth, preventing them from earth bending, although they can still perform magic.
+    - Then Abigor found out some Andarin still live, and started discriminating against women and magic.
 
 - The mysterious mark means you're Andarin.
 - Cara = Andarin
@@ -89,22 +82,22 @@ Then Abigor found out some Andarin still live, and started discriminating agains
 - symbol of power also shows on men
 - struggle to believe the fairy tale, since there is no real proof
 
-- captured people are Andarin
-- captured by adventurers in a cave system - they are the witches we heard about before
-- one of the captured, Culoriana, is an original Andarin, one of three who survived
++ captured people are Andarin
++ captured by adventurers in a cave system - they are the witches we heard about before
++ one of the captured, Culoriana, is an original Andarin, one of three who survived
 
 - they are considering joining the voiceless
 - sister tribe = 40ish people
 
-- the hald broken flute from Dalynn is the flute of Iuna
-- was used to create the Darninian forest, used to communicate with the plants + animals
-- break the Mythal spell to unlock its full potential
-- prison is still in construction
-- intended to capture and hold magic users
-- most prisoners will work construction, important prisoners are not allowed to
-- give or take 20 guards
-- there was an archmage that put spells around the prison
-- currently mostly construction managers, so no real good guards
++ the hald broken flute from Dalynn is the flute of Iuna
++ was used to create the Darninian forest, used to communicate with the plants + animals
++ break the Mythal spell to unlock its full potential
++ prison is still in construction
++ intended to capture and hold magic users
++ most prisoners will work construction, important prisoners are not allowed to
++ give or take 20 guards
++ there was an archmage that put spells around the prison
++ currently mostly construction managers, so no real good guards
 
 - plan:
     - Wacomar + Dalynn go in invisible, gather information on manager so Wacomar can impoersonate him
@@ -114,7 +107,7 @@ Then Abigor found out some Andarin still live, and started discriminating agains
 - we get 300GP + magic items in return
 - 150GP up front
 
-- first go to Armani and at nightfall do the prison break
++ first go to Armani and at nightfall do the prison break
 
 - to Armani
 - entering the guild hall, there are a few city guards trailing us
@@ -124,8 +117,8 @@ Then Abigor found out some Andarin still live, and started discriminating agains
 - get caught, but bluff our way through
 - Wacomar "suggest"s that they investigate rumours about tabaxi now
 
-- Faramar + Dalynn are hailed as heroes!c
-- Wacomar + EotM join them (not hailed as heroes)
++ Faramar + Dalynn are hailed as heroes!c
++ Wacomar + EotM join them (not hailed as heroes)
 
 - asked to join Armani in his office
 - break-in is bygones
@@ -147,19 +140,19 @@ Then Abigor found out some Andarin still live, and started discriminating agains
     - do assignments
 - it is possible to leave, but required magical oath of secrecy
 
-- offer to go hom to think about it, then come back in a few days and discuss further
++ offer to go hom to think about it, then come back in a few days and discuss further
 
 - go to Mohul and eat dinner and discuss new payment
 - get same payment, just more permits on different names
 - they're used in different cities
 
-- prison break!
-- Mohul and 3 others help in the first part
-- Guards guard gate
-- Mohul goes to talk to get us in
-- hands over "something"
-- get in
-- we go in prison and get prisoners, Mohul and others will ensure safe return
++ prison break!
++ Mohul and 3 others help in the first part
++ Guards guard gate
++ Mohul goes to talk to get us in
++ hands over "something"
++ get in
++ we go in prison and get prisoners, Mohul and others will ensure safe return
 
 - follow plan
 - Wacomar + Dalynn invisible and EotM + Faramar over the wall
@@ -180,7 +173,7 @@ Then Abigor found out some Andarin still live, and started discriminating agains
 - Faramar runs outside to other tower to release more prisoners but has no key
 - lots of guards, lots of fighting
 
-- end result:
++ end result:
 
 | name            | kills |
 |-----------------|-------|
@@ -194,8 +187,8 @@ Then Abigor found out some Andarin still live, and started discriminating agains
 - Wacomar quickly runs to study, others help with the evacuation
 - loots study and sees blank piece of paper
 - after picking it up, words start forming
-  - "Hello Wanzel"
-  - outline of a spell
+    - "Hello Wanzel"
+    - outline of a spell
 - Go back to Mohuls theatre
 
 

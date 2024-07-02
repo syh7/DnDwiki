@@ -1,53 +1,44 @@
 # Session 3 - Gathering information
 
-Sclap centre:
+- Sclab centre:
+    + workshops
+    + lot of beggars
+    + not a lot of shops
+    + colosseum-like building with stone houses around
 
-- workshops
-- lot of beggars
-- not a lot of shops
-- colosseum-like building with stone houses around
+- Lawrence = Laurelian
+- Shocker!!!
 
-Lawrence = Laurelian  
-Shocker!!!
++ Enovras
++ lives next to the guild hall
++ put IDs on Lawrence's check
++ ID forger, old elf
 
-Enovras
+- Gems to be sold to Thaine at trading post
+- trading post = "kapali argat"
 
-- lives next to the guild hall
-- put IDs on Lawrence's check
-- ID forger, old elf
++ Kappa sells/buys magic items
 
-Gems to be sold to Thaine at trading post  
-trading post = "kapali argat"
+- Bridge over canal
+- Big mansions with family crests
 
-Kappa sells/buys magic items
++ winged serpent: blue snuffs
++ blue peacock feather: blue puffs
++ windows sign (blue/red/yellow/green squares)
 
-----------------
+- Blue peacock has Darninian flags
 
-Bridge over canal  
-Big mansions with family crests
++ Ship on pier is an inn "crossed deck"
 
-- winged serpent: blue snuffs
-- blue peacock feather: blue puffs
-- windows sign (blue/red/yellow/green squares)
-
-Blue peacock has Darninian flags
-
-Ship on pier is an inn "crossed deck"
-
--------------------------------------------
-
-Golden Veil
+- Golden Veil
 
 - Destiny is talking to a man, Valador, husband, about "problems"
 - Man is owner Golden Veil + Lusty Leopard
 - holding blue peacock feather
 - blue peacocks killed someone without anyone knowing how or who
 
------------------------------------------
-
-Pavillion store house
-
-- 7 locks on door:
++ Pavillion store house
++ 7 locks on door:
 
 | Lock nr | Language | Setting |
 |---------|----------|---------|
@@ -59,25 +50,25 @@ Pavillion store house
 | 6       | Tabaxi   | closed  |
 | 7       | Halfling | closed  |
 
-Reveals meeting room  
-Human man, black clothing, friendly + serious face, gray hair  
-Mohul, friend of Flow of the River; do task for information
+- Reveals meeting room
+- Human man, black clothing, friendly + serious face, gray hair
+- Mohul, friend of Flow of the River; do task for information
 
-Voices:  
-Malarit is trying to take over canal village  
-Sign is quatl (flying serpent) then Itron organisation of poor people, slaves  
-make money by selling tabaxi pelts   
-Given assignment:
++ Voices:
++ Malarit is trying to take over canal village
++ Sign is quatl (flying serpent) then Itron organisation of poor people, slaves
++ make money by selling tabaxi pelts
++ Given assignment:
 
-1. go to trading post of Malarit
-2. create sketch of layout
-3. possibly kill
+    1. go to trading post of Malarit
+    2. create sketch of layout
+    3. possibly kill
 
-- Darninians burned love of Mohul and this is also revenge  
-  Seems true, "pain in his eyes"
+- Darninians burned love of Mohul and this is also revenge
+- Seems true, "pain in his eyes"
 
-Black market beneath guild hall  
-password is "spring winds"  
-Possibly already changed  
-"crossed deck" inn has people knowing password  
-pretend to be slave owner to get in
++ Black market beneath guild hall
++ password is "spring winds"
++ Possibly already changed
++ "crossed deck" inn has people knowing password
++ pretend to be slave owner to get in
