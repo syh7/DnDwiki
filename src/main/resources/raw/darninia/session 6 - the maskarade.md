@@ -8,9 +8,9 @@
 
 - Other books about Darninia in common
 - unknown language, Elish script about:
-- Iuna
-- Culoriana (Culo = ablativus, Latijn voor kont)
-- Sgeulachd tus an andarin:tuisan Iuna agus Culoriana
+    - Iuna
+    - Culoriana (Culo = ablativus, Latijn voor kont)
+    - Sgeulachd tus an andarin:tuisan Iuna agus Culoriana
 
 + not common/dwarvish/elvish/halfling/tabaxi
 + has map of Darninia in it

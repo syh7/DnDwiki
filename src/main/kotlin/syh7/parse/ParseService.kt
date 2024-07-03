@@ -18,7 +18,7 @@ class ParseService {
     }
 
     @OptIn(ExperimentalPathApi::class)
-    fun parseDirectory(setup: CompleteBookSetup): List<Path> {
+    fun parseDirectory(setup: CompleteBookSetup): List<HandledSession> {
         upLogOffset()
         log("walking $RAW_SESSION_FOLDER")
         val newSessions = Paths.get(RAW_SESSION_FOLDER, setup.name.lowercase())
@@ -38,29 +38,42 @@ class ParseService {
                 val fullText = "$title\n$body"
                 writeFile(parsedFilePath, fullText)
             }
-            .filterNotNull()
             .toList()
 
         lowerLogOffset()
         return newSessions
     }
 
-    private fun writeFile(path: Path, sessionText: String): Path? {
+    private fun writeFile(path: Path, sessionText: String): HandledSession {
+        val state: SessionState
         if (path.exists()) {
             val currentParsedText = path.readText()
             if (currentParsedText == sessionText) {
-                return null
+                state = SessionState.IGNORED
+            } else {
+                state = SessionState.UPDATED
+                log("Updating previously parsed $path")
+                path.writeText(sessionText)
             }
-            log("Updating previously parsed $path")
         } else {
+            state = SessionState.NEW
             log("Parsed file, writing to $path")
+            path.writeText(sessionText)
         }
-        path.writeText(sessionText)
-        return path
+        return HandledSession(state, path)
     }
 
     companion object {
         private const val RAW_SESSION_FOLDER = "src/main/resources/raw"
     }
 
+}
+
+data class HandledSession(
+    val state: SessionState,
+    val path: Path
+)
+
+enum class SessionState {
+    NEW, UPDATED, IGNORED
 }

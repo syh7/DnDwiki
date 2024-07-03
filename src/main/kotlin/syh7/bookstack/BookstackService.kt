@@ -5,10 +5,11 @@ import syh7.bookstack.model.BookContentsChapter
 import syh7.bookstack.model.DetailedBook
 import syh7.bookstack.model.DetailedPage
 import syh7.bookstack.model.SimpleBookContainer
+import syh7.parse.HandledSession
+import syh7.parse.SessionState
 import syh7.util.log
 import syh7.util.lowerLogOffset
 import syh7.util.upLogOffset
-import java.nio.file.Path
 
 class BookstackService {
 
@@ -97,23 +98,48 @@ class BookstackService {
         lowerLogOffset()
     }
 
-    fun addSession(bookSetup: CompleteBookSetup, sessionPaths: List<Path>) {
+    fun addSession(bookSetup: CompleteBookSetup, sessions: List<HandledSession>) {
         upLogOffset()
         val sessionsChapter = bookSetup.bookstackBook.contents.filterIsInstance<BookContentsChapter>().first { it.name.lowercase() == "sessions" }
         log("sessions chapter in book ${bookSetup.name} is ${sessionsChapter.id}")
-        for (path in sessionPaths) {
-            log("handling new session $path")
-            val markdown = path.toFile().readText()
-            val requestBody = createNewPageRequestBody(markdown, sessionsChapter)
-            val createdPage = bookstackClient.addPage(requestBody)
-            log("created page `${createdPage.name}` with id ${createdPage.id}")
+
+        for (session in sessions) {
+            log("handling new session ${session.path}")
+            upLogOffset()
+            when (session.state) {
+                SessionState.NEW -> handleNewSession(session, sessionsChapter)
+                SessionState.UPDATED -> handleUpdatedSession(session, sessionsChapter)
+                SessionState.IGNORED -> log("session is not new nor updated, so skip it")
+            }
+            lowerLogOffset()
         }
+
         lowerLogOffset()
     }
 
-    private fun createNewPageRequestBody(markdown: String, sessionsChapter: BookContentsChapter): NewPageRequestBody {
+    private fun handleUpdatedSession(session: HandledSession, sessionsChapter: BookContentsChapter) {
+        log("handling updated session ${session.path}")
+        val sessionName = session.path.toFile().nameWithoutExtension.lowercase()
+        val currentSessionPage = sessionsChapter.pages.first { it.name.lowercase() == sessionName }
+        log("found page ${currentSessionPage.id} with the same session name '$sessionName'")
+
+        val markdown = session.path.toFile().readText()
+        val requestBody = createPageRequestBody(markdown, sessionsChapter)
+        val createdPage = bookstackClient.updatePage(currentSessionPage.id, requestBody)
+        log("updated page `${createdPage.name}` with id ${createdPage.id}")
+    }
+
+    private fun handleNewSession(session: HandledSession, sessionsChapter: BookContentsChapter) {
+        log("handling new session ${session.path}")
+        val markdown = session.path.toFile().readText()
+        val requestBody = createPageRequestBody(markdown, sessionsChapter)
+        val createdPage = bookstackClient.addPage(requestBody)
+        log("created page `${createdPage.name}` with id ${createdPage.id}")
+    }
+
+    private fun createPageRequestBody(markdown: String, sessionsChapter: BookContentsChapter): PageRequestBody {
         val (title, pageText) = markdown.split("\n", limit = 2)
-        return NewPageRequestBody(
+        return PageRequestBody(
             chapter_id = sessionsChapter.id,
             name = title.removePrefix("# "),
             markdown = pageText,

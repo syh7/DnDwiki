@@ -19,15 +19,15 @@ fun main() {
 
     val bookName = "Darninia"
 
-//    refreshCache(bookName)
+    refreshCache(bookName)
 
     log("Starting handling book $bookName")
     val bookSetup = getBookSetup(bookName)
 
     parseAndAddSessionsToWiki(bookName, bookSetup)
 
-    log("start backing up book $bookName")
-    backupService.backupMarkdown(bookSetup)
+//    log("start backing up book $bookName")
+//    backupService.backupMarkdown(bookSetup)
 
     // TODO:
     // tests!
@@ -35,10 +35,10 @@ fun main() {
 
 private fun parseAndAddSessionsToWiki(bookName: String, bookSetup: CompleteBookSetup) {
     log("Start parsing for book $bookName")
-    val newSessions = parseService.parseDirectory(bookSetup)
+    val sessions = parseService.parseDirectory(bookSetup)
 
-    log("sending ${newSessions.size} new sessions to the wiki")
-    bookstackService.addSession(bookSetup, newSessions)
+    log("parsed ${sessions.size}, updating wiki")
+    bookstackService.addSession(bookSetup, sessions)
 }
 
 private fun getBookSetup(bookName: String): CompleteBookSetup {

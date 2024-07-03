@@ -28,10 +28,18 @@ class BookstackClient {
         return performRequest(request, DetailedPage::class.java)
     }
 
-    fun addPage(newPageRequestBody: NewPageRequestBody): DetailedPage {
+    fun updatePage(id: Int, pageRequestBody: PageRequestBody): DetailedPage {
+        val apiurl = "${properties.url}/api/pages/$id"
+        val contentType = "application/json".toMediaType()
+        val requestBody = gson.toJson(pageRequestBody).toRequestBody(contentType = contentType)
+        val request = Request.Builder().put(requestBody).url(apiurl).addHeader("Authorization", properties.tokenString).build()
+        return performRequest(request, DetailedPage::class.java)
+    }
+
+    fun addPage(pageRequestBody: PageRequestBody): DetailedPage {
         val apiurl = "${properties.url}/api/pages"
         val contentType = "application/json".toMediaType()
-        val requestBody = gson.toJson(newPageRequestBody).toRequestBody(contentType = contentType)
+        val requestBody = gson.toJson(pageRequestBody).toRequestBody(contentType = contentType)
         val request = Request.Builder().post(requestBody).url(apiurl).addHeader("Authorization", properties.tokenString).build()
         return performRequest(request, DetailedPage::class.java)
     }
@@ -82,7 +90,7 @@ class BookstackClient {
 
 }
 
-data class NewPageRequestBody(
+data class PageRequestBody(
     val book_id: Int? = null,
     val chapter_id: Int? = null,
     val name: String,
