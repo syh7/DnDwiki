@@ -223,7 +223,7 @@ The wonderful world, known as the Darninian Realms, consists of many places abou
 
 # The Darninian Realms
 
-[![Darninian_Realms_worldmap.jpg](https://bookstack.hemels.me/uploads/images/gallery/2024-05/scaled-1680-/Ytydarninian-realms-worldmap.jpg)](https://bookstack.hemels.me/uploads/images/gallery/2024-05/Ytydarninian-realms-worldmap.jpg)
+![Darninian_Realms_worldmap.jpg](2024-05\Ytydarninian-realms-worldmap.jpg)
 
 The continent of the Darninian Realms consists of three landmasses:
 
@@ -235,7 +235,7 @@ It neighbours the countries of Haända and Dekraria.
 
 # Darninia
 
-[![image.png](https://bookstack.hemels.me/uploads/images/gallery/2024-05/scaled-1680-/Sfjimage.png)](https://bookstack.hemels.me/uploads/images/gallery/2024-05/Sfjimage.png)
+![image.png](2024-05\Sfjimage.png)
 
 The largest continent of the Darninian Realms.
 
@@ -252,7 +252,7 @@ The flag is green with red and has a golden banner across. \[@Eef illustration n
 
 # Eliria
 
-[![image.png](https://bookstack.hemels.me/uploads/images/gallery/2024-05/scaled-1680-/7Bvimage.png)](https://bookstack.hemels.me/uploads/images/gallery/2024-05/7Bvimage.png)
+![image.png](2024-05\7Bvimage.png)
 
 Eliria is the second largest landmass in [the Darninian Realms](https://bookstack.hemels.me/books/darninia/page/the-darninian-realms "The Darninian Realms"). It's capitol is [Itron](https://bookstack.hemels.me/link/25#bkmrk-page-title).  
 Eliria is mostly used by [Darninia](https://bookstack.hemels.me/books/darninia/page/darninia "Darninia") as a colony to delve resources and the largest economies are located on the mainland of Darninia.
@@ -269,7 +269,7 @@ Other large cities, in order of political influence, are:
 
 # Itron
 
-[![image.png](https://bookstack.hemels.me/uploads/images/gallery/2024-05/scaled-1680-/46gimage.png)The crest of Itron: a blue peacock feather on a golden background](https://bookstack.hemels.me/uploads/images/gallery/2024-05/46gimage.png)
+The crest of Itron: a blue peacock feather on a golden background![image.png](2024-05\46gimage.png)
 
 Itron is the largest city of the landmass of [Eliria](https://bookstack.hemels.me/link/12#bkmrk-page-title) and the second largest of [the Darninian Realms](https://bookstack.hemels.me/link/7#bkmrk-page-title). It is built for transhipping and enriching mining goods from Fekrar, Cordan and Cardan in exchange for Darninian goods that arrive from Zachnar.
 
@@ -292,7 +292,7 @@ Current leader, political tensions/fighting factions, recent events.
 
 Diagram of the outer ring/lower city of Itron
 
-[![image.png](https://bookstack.hemels.me/uploads/images/gallery/2024-06/scaled-1680-/rpSimage.png)](https://bookstack.hemels.me/uploads/images/gallery/2024-06/rpSimage.png)
+![image.png](2024-06\rpSimage.png)
 
 Being built on a mountain, the city has three distinct, walled off sections: the lower, mid and high level cities.
 
@@ -373,7 +373,7 @@ What did our valiant heroes do with this place?
 
 # Nènèn
 
-[The Crest of Nènèn![image.png](https://bookstack.hemels.me/uploads/images/gallery/2024-06/scaled-1680-/dyjimage.png)](https://bookstack.hemels.me/uploads/images/gallery/2024-06/dyjimage.png)
+The Crest of Nènèn![image.png](2024-06\dyjimage.png)
 
 An island near the coast of Eliria and also the name of the largest city on that island.
 
@@ -465,7 +465,7 @@ Membe is currently led by Trombon. There is an uneasy peace treaty with the cent
 
 # Imna/Hofo Sgoma
 
-[![image.png](https://bookstack.hemels.me/uploads/images/gallery/2024-05/scaled-1680-/EdDimage.png)](https://bookstack.hemels.me/uploads/images/gallery/2024-05/EdDimage.png)
+![image.png](2024-05\EdDimage.png)
 
 Imna is the smallest landmass in [the Darninian Realms](https://bookstack.hemels.me/link/7#bkmrk-page-title). It is largely abandoned, except for a small troop of Royal Guards stationed at the capitol, Hofo Sgoma.
 
@@ -582,7 +582,7 @@ We kinda think he not a good guy, cause Andarin be talking bout genocide.
 
 Nalaya is an Andarin girl from [Itron](https://bookstack.hemels.me/link/25#bkmrk-page-title). In her childhood she was a normal girl in Itron. At her 17th birthday [the Mark of the Andarin](https://bookstack.hemels.me/link/14#bkmrk-page-title) showed to which her parents repelled her. In order to prevent being hung by the city she scarred a cross through her Mark of the Andarin. Destiny, the woman of the owner of [the Golden Veil](https://bookstack.hemels.me/link/25#bkmrk-shaggy-tabbythe-firs) takes her in and lets her work as lady of the night. Later on she was bought for a measly 50 gold by a courageous party of valiant heroes.
 
-[Nalaya's crossed out Mark of the Andarin![image.png](https://bookstack.hemels.me/uploads/images/gallery/2024-07/scaled-1680-/image.png)](https://bookstack.hemels.me/uploads/images/gallery/2024-07/image.png)
+Nalaya's crossed out Mark of the Andarin![image.png](2024-07\image.png)
 
 #### Politics
 
@@ -610,7 +610,7 @@ Lorélian had a relationship with Tathrana, an elf (Andarin?) who is now decease
 
 Lorélian is currently on her way to her homecity of Daguria.
 
-[![image.png](https://bookstack.hemels.me/uploads/images/gallery/2024-06/scaled-1680-/uFpimage.png)Necklace of Lorélian](https://bookstack.hemels.me/uploads/images/gallery/2024-06/uFpimage.png)
+Necklace of Lorélian![image.png](2024-06\uFpimage.png)
 
 #### Politics
 
@@ -628,7 +628,7 @@ In a previous life Lorélian failed an acrobatics save while trying to break. Af
 
 # Dandy
 
-[![tumblr_oxhe8i5exw1r1dqpyo1_500.png](https://bookstack.hemels.me/uploads/images/gallery/2024-05/scaled-1680-/tumblr-oxhe8i5exw1r1dqpyo1-500.png)](https://bookstack.hemels.me/uploads/images/gallery/2024-05/tumblr-oxhe8i5exw1r1dqpyo1-500.png)
+![tumblr_oxhe8i5exw1r1dqpyo1_500.png](2024-05\tumblr-oxhe8i5exw1r1dqpyo1-500.png)
 
 Dandy is a Dandylion cub who saw his mother being brutally slaughtered by two griphons, but then got saved by the party. After travelling together with the party through [Nènèn](https://bookstack.hemels.me/books/darninia/page/nenen "Nènèn"), he now lives in the fields between port Oreo and Itron with his father.
 
@@ -816,7 +816,7 @@ She leveled up.
 - Dark clothes, leather armour, longbow
 
 + Introduction:
-+ [Dalynn](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/dalynn-lathrana) + [Hendrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain)
++ [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) + [Hendrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain)
 + chased out of tavern by people with tattoo of snake with wings
 
 - Dwarves in tavern:
@@ -859,7 +859,7 @@ She leveled up.
 + people with flowers in hair weaving basket
 + random music
 
-- Temple does not look like [Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia) God; withered away pictures of plants on temple
+- Temple does not look like Darninia God; withered away pictures of plants on temple
 - Temple for Lachi, prophet, cares about Lachis (weed); writing in Sylvan on wall
 
 + Moons: gallac, tarraq, Amarantha
@@ -923,7 +923,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 + blue peacock feather: blue puffs
 + windows sign (blue/red/yellow/green squares)
 
-- Blue peacock has [Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)n flags
+- Blue peacock has Darninian flags
 
 + Ship on pier is an inn "crossed deck"
 
@@ -1004,7 +1004,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 + fat, bald, black eye
 + fought with 3 guys
 + caught by guards
-+ [Dalynn](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/dalynn-lathrana) transformed into a ~house~ mouse, [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) and [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) escaped in the confusion
++ [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) transformed into a ~house~ mouse, [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) and [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) escaped in the confusion
 + [Eye of the Mountain](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) got letters in Buicks house; one apology from Andrea (wife); bank statements; and unreadable mess
   with blue peacock at the top
 
@@ -1071,7 +1071,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 + some books nog in Dwarvish/Elvish;
 + lion statue has emotional value for Armado
 
-- Armado has some respect for [EotM](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/eye-of-the-mountain)
+- Armado has some respect for [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain)
 - Has a job for us:
 - some people wronged him + friends, he's in a discussion with people about prices,
 - wants revenge but cannot do it himself, wants 2 things stolen
@@ -1135,7 +1135,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 
 # Session 6 - The Maskarade
 
-- [EotM](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/eye-of-the-mountain) lockpicks Armani's office
+- [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) lockpicks Armani's office
 - find accounting books about slavery
 - Mackenbach not in books
 
@@ -1143,9 +1143,9 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 
 - Other books about Darninia in common
 - unknown language, Elish script about:
-- [Iuna](https://bookstack.hemels.me/books/Darninia/page/iuna)
-- [Culoriana](https://bookstack.hemels.me/books/Darninia/page/culorianacora) (Culo = ablativus, Latijn voor kont)
-- Sgeulachd tus an andarin:tuisan Iuna agus Culoriana
+    - [Iuna](https://bookstack.hemels.me/books/Darninia/page/iuna)
+    - [Culoriana](https://bookstack.hemels.me/books/Darninia/page/culorianacora) (Culo = ablativus, Latijn voor kont)
+    - Sgeulachd tus an andarin:tuisan Iuna agus Culoriana
 
 + not common/dwarvish/elvish/halfling/tabaxi
 + has map of Darninia in it
@@ -1313,7 +1313,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 + level up!
 
 - Split up
-- [Wacomar](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/wacomar-illitris) stays, witing diary
+- [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) stays, witing diary
 - Malaya + [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) go to [Lawrence](https://bookstack.hemels.me/books/Darninia/page/lorelianlaurence)
 - [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) + [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) go shopping for armour
 - Dalyan delivers letter
@@ -1528,7 +1528,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 + bunkbeds, lots of women and few men
 + women look allike despite different races
 
-- [Wacomar](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/wacomar-illitris) looks at documents from the prison
+- [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) looks at documents from the prison
 - all a slightly different Remove Curse
 - identity documents of captured women
 - personal spell scroll
@@ -1635,7 +1635,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
     1. Orio is close by, but it is an official boat and leaves traces
     2. Rion is further away, but we have to get our own row boat
 
-+ [Dalynn](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/dalynn-lathrana) will be a cat
++ [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) will be a cat
 + Fredrik isn't wanted
 + [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) can discguise himself
 + Wacomar can get [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) through
@@ -1682,7 +1682,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 - enter Orio
 - [Dandy](https://bookstack.hemels.me/books/Darninia/page/dandy) on Fredriks shoulder draws attention
 - Bilbo comes towards us and wants information about where we got Dandy, and its race
-- we tell nothing but ask about the ferry to Neuneun
+- we tell nothing but ask about the ferry to [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen)
 - 10GP per person, and 5GP per pet
 - Biblo is interested in griphon supplies, if we want to sell, we can find him in the crossdeck inn in [Itron](https://bookstack.hemels.me/books/Darninia/page/itron)
 
@@ -1784,7 +1784,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 
 # Session 10 - Of Rudeness and Runes
 
-- [Wacomar](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/wacomar-illitris) as Thoms asks directions to Rusty Talon from bartender
+- [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) as Thoms asks directions to Rusty Talon from bartender
 - it's the red roof that is very far away
 - points to 3 red roofs, 2 are houses, the very big roof is the Rusty Talon
 - bartender offers to carry us for 3SP for all of us
@@ -1813,7 +1813,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 - they're not fans of Öfakkö
 - say that the cave story is a childrens horror story, to prevent children from entering the caves
 - some aaracockra go in the caves, dwarves from Thorans Refuge fo too
-- Öfakkö is not allowed in Neuneun, tried to get children to Kalaaf
+- Öfakkö is not allowed in [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen), tried to get children to Kalaaf
 - Kalaaf is The First One with wings
 - Öfakkö tried to "open the cave but he needs 5 keys"
 - takes children to lakes and kids come back unharmed but crying
@@ -1924,7 +1924,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 
 # Session 11 - Of Swimming and Runes
 
-- [EotM](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/eye-of-the-mountain) arrives at pool of water with a whirlpool
+- [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) arrives at pool of water with a whirlpool
 - [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) arrives at a similar pool with a whirlpool, but there's also a basin with still water
 - investigate basin
 - low perception check so there's nothing there
@@ -1993,7 +1993,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 # Session 12 - Of Riddles and Runes
 
 - during long rest hear hyena's cry (possibly change into gnolls)
-- [Dalynn](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/dalynn-lathrana) + [Dandy](https://bookstack.hemels.me/books/Darninia/page/dandy) start dancing at sunrise
+- [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) + [Dandy](https://bookstack.hemels.me/books/Darninia/page/dandy) start dancing at sunrise
 - run of joy/light appears
 
 + checkout unnamed lake attached to lake Wennja
@@ -2002,7 +2002,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 
 - no plateau at Köping either but there is an Elven [woman](https://bookstack.hemels.me/books/Darninia/page/nalaya) statue
 - earth around statue is fresh as if it was put there today
-- statue points to Neuneun, particularly to highest spike from Neuneun
+- statue points to [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen), particularly to highest spike from Neuneun
 - looks as if statue rose from the ground recently - maybe when we got 4 runes?
 - plague at foot of statue reads: "conquer air and you shall thrive"
 
@@ -2179,7 +2179,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 # Session 13 - The dog show
 
 - aaracockra swarm us because we survived the storm
-- [Dalynn](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/dalynn-lathrana) pays 1SP for Kajit to tell the story
+- [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) pays 1SP for Kajit to tell the story
 - [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) says we left when the storm started
 - aaracockra think we are posers :(
 
@@ -2194,7 +2194,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 + go back to Thoran's Refuge, pick up [Dandy](https://bookstack.hemels.me/books/Darninia/page/dandy)
 + bartender says they heard about a group of adventurers making a ruckus
 + Dalynn wants to do a scam, pretend to be a dog and enter dogshows and win prize money
-+ suddenly aaracockra say there is a trick dogshow between Stormhorn and Neuneun
++ suddenly aaracockra say there is a trick dogshow between Stormhorn and [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen)
 
 - Khajit and [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) go to Stormhorn to try and sell quasit skins
 
@@ -2281,7 +2281,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 + we collide in the air and fall through wall
 + Öfakkö calls us assholes :(
 
-# Session 14 - On a whole 'nother plane
+# Session 14 - On a whole nother plane
 
 - put runes in slows in the wall
 - entrance in the wall opens
@@ -2290,7 +2290,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 - supposedly we all are
 
 + Fredrik sneaks forward to scout
-+ Finds room with pillars, bookcases with books in Old [Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)n and Neuneun runes
++ Finds room with pillars, bookcases with books in Old Darninian and [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen) runes
 + pillars ahve roots around them that give off shadowy, smoky trails
 + also appearing and disappearing ghosts
 
@@ -2534,7 +2534,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 - on the boat
 - WAcomar searches for another dogshow
 - finds dogs but now show
-- [Faramar](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/faramar-illitris) plays some darts against dragonborns
+- [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) plays some darts against dragonborns
 - wins 30GP
 - they think [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris)+Faramar are in a gay relationship
 - another win, 40GP because [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) joined
@@ -2604,7 +2604,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 # Session 16 - Join Us or Burn
 
 - for the record:
-    - [Dalynn](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/dalynn-lathrana) has 2 levels of exhaustion,
+    - [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) has 2 levels of exhaustion,
     - thus halved moving speed
     - thus she is a cat carried by [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris)
     - if we get in a fight, she can turn back
@@ -2770,7 +2770,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 + tells a story:
 
 - [Iuna](https://bookstack.hemels.me/books/Darninia/page/iuna) is a female Andarin, who stole the original Documents from king Abigor and was lost to history. The Andarin don't know where she is.
-- She hid the Documents before leaving, behind traps. The Neuneun challenge sounds like here.
+- She hid the Documents before leaving, behind traps. The [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen) challenge sounds like here.
 - She can change appearances when she wants, but prefers red hair. Where she walks, flowers bloom.
 
 + Kora's expedition is to find Iuna
@@ -2834,7 +2834,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
     - roll a d6 to decide what stat gains a +1 saving throw for that day
     - works in wildshape
 
-> "I am not obsessed (about The Egg), I am an enthusiast" - [Wacomar](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/wacomar-illitris)
+> "I am not obsessed (about The Egg), I am an enthusiast" - [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris)
 
 - Long time since last session
 - recap of 25 minutes
@@ -2842,7 +2842,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 + plothooks
     - Wait for [Kora](https://bookstack.hemels.me/books/Darninia/page/culorianacora) and go on her expedition
     - search for silver dragon scales
-    - replenish ingredients for the potion used to heal the Neuneun corruption
+    - replenish ingredients for the potion used to heal the [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen) corruption
 
 - current situation
 - [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) sleeping in infirmary in Andarin safe house
@@ -3032,7 +3032,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 
 > "Er past maar 250 kg in een bag of holding? Dat gaat een probleem werden" - Noël
 
-- Decide that [Valerie](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family) has a snake and [Dalynn](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/dalynn-lathrana) will copy that snake
+- Decide that [Valerie](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family) has a snake and [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) will copy that snake
 - Enter city as us and start the plan in alley way close to the bank
 
 > "Als ik 4 regels per sessie opschrijf, schrijf ik wel belangrijjke regels" - Noël terwijl hij opschrijft hoe de straat heet
@@ -3237,7 +3237,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 - put both sacks in bag of holding
 
 + walk away as Mr & Mrs Perkan with slave and cat
-+ "We do not want to let the eggs get bad" - [Dalynn](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/dalynn-lathrana)
++ "We do not want to let the eggs get bad" - [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana)
 + Does not realize The Egg is a triggerword for [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris)
 + go to hideout
 
@@ -3323,7 +3323,7 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 + real narrow cliff path
 + get to place where the path is broken in pieces
 + there is a 35ft gap
-+ use climbing gear from Neuneun to get across
++ use climbing gear from [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen) to get across
 + Dalynn still falls
 + drags Wacomar with her
 + Recover and make it to the other side
@@ -3443,13 +3443,694 @@ H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 + takes 1 week to get to Imna
 + might move on from Imna to somewhere else before we go to [Itron](https://bookstack.hemels.me/books/Darninia/page/itron)
 
+# Session 20 - There is no Egg in Itron
+
+> "Sjoerd is in een poly relatie met Anneloes en DnD" - Eef
+
+> "Wie is de penning meester en waar is het geld gebleven?" - Anneloes
+
+- Onduidelijk hoeveel geld men nu heeft
+
+- [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) 250GP
+- [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) 829 GP
+- [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) + [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) 860 GP
+
++ [Kora](https://bookstack.hemels.me/books/Darninia/page/culorianacora) comes to us at breakfast
++ Says [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) went to Vector to see Rhysand
++ There was no Rhysand - nor any proof that there ever was a vampire
++ Dalynn goes to talk to the andarin that went to Vector (Jaap + Mara)
++ Did not see any paintings or other humanoid stuff
++ Vector was sleeping
+
+- Investigating painting again
+- Rhysand winks while we look at it
+
++ "Blink if you can hear us"
++ Blinks
++ "Blink twice?"
++ Nothing happens
++ Sus
+
+- Faramar goes to train with guards
+- Wacomar goes to talk to daddy
+- Re-hashes what happened to the egg
+- Does not know where it is
+
+> "Rough life buddy" - Sjoerd
+
+- 2 tiny fairydragons with butterfly wings appear before him, one purple, one orange
+- Ask him for his business
+- Talk a bit and Wacomar continues to another cave
+- Communes with father
+- "The Egg is with leader of she-elves"
+
++ Kora is away to the mountains
++ Wacomar wants to raid her stuff
+
+- Dalynn goes to find out more about ingredient for healing potion for the [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen) curse
+- It's golden moss from Dekrania
+- Potion maker says it's too much trouble
+- Potion maker says hags stole golden moss
+- "I am pretty strong" - Dalynn, confident
+
++ EotM goes to find place where "medical and anti-medic concoctions" are made
++ Wants to create a permanently poisoned dagger instead of temporarily coated
++ Pays 200 GP to create poison that makes someone unconscious for 24h ("Oil of taggit")
+
+- Wacomar walks by Kora's office
+- Andarin strike up conversation (Franka + Fransje)
+- Say friends of them ([Mindi](https://bookstack.hemels.me/books/Darninia/page/mindi) + [Kindi](https://bookstack.hemels.me/books/Darninia/page/kindi)) are going on the trip with us
+- Andarin walk on
+- Wacomar peeps through keyhole and Misty Steps
+- Cat wakes up and hisses (Cat = George)
+- Distracts cat with mage hand
+- Senses The Egg
+- Starts searching the room
+- Senses The Egg in a locked chest
+- Breaks the lock with Shape Water in ice
+- Red smoke erupts from the chest into the room and the corridor
+- Finds The Egg
+
++ Casts Invisibility and stands behind the door when it opens
++ 2 andarin walk in, see the chest and investigate
++ Wacomar tries to sneak outside
++ Cat hisses at invisible Wacomar
++ Guards see empty space in the smoke
++ Wacomar runs
++ Cat runs faster and bites in ankle
++ Wacomar now leaves a blood trail
++ Ducks into room and transforms into Fransje
++ Guards follow blood trail and see "Fransje"
++ Guards believe the excuse that she got hurt during weapon training
++ Starts searching with the guards for the intruder
++ Ditches the guards to go to [Itron](https://bookstack.hemels.me/books/Darninia/page/itron)
++ Kora rushes in to the complex to Faramar
+
+- "Wacomar stole the egg"
+- "Why is it not destroyed"
+- "That is not important"
+
++ Kora is a liar
+
+- Get the rest together
+- Kara Summons a blue fairy-dragon
+- Saw andarin Dorian leave a while ago
+- Possibly Dorian = Wacomar
+- Dalynn transforms in a horse and Faramar rides her
+- Kora + Fredrik go to get horses
+
++ Catch up to Wacomar
++ Faramar and Wacomar struggle long enough to let Kora and EotM catch up
++ Eventually Faramar Hold Persons Wacomar
+
+- Get the bag and The Egg off of Wacomar
+- Fredrik + Kora leave with the egg.
+- Go to the watch tower to hide the egg
+- Everybody meets up to the compound
+- Wacomar has no energy left Faramar is weary
+- Take Wacomar to the infirmary
+
++ Kora retrieves Andarin Isa, a shrink
++ "Isa, you know what you have to do" - Kora
++ She meant talk, not kill or lobotomize
++ Fredrik takes 2 silver scales and obsidian frown Wacomars bag
++ Wants to use it to say sorry to andarin
++ Dalynn wants to return it to Wacomar
++ Fredrik returns obsidian to Wacomar, gives silver scales to Andarin, and keeps golden earnings for himself
+
+- Kora says that The Egg might unleash something if it is destroyed, so it has to be destroyed carefully
+- It contains essence from another, evil world
+
+> "There is no ~~war~~ egg in ~~Ba Sing Se~~ Itron"
+
+- Isa makes Wacomar forget The Egg for now
+
++ Kora said she went to Vector and met Rhysand
++ He has powerful illusions
++ Says Rhysand and Vector were friends and that it's okay he is there
+
+- Go to dining hall to meet travel companions Denise, [Trista](https://bookstack.hemels.me/books/Darninia/page/trista), Mindi, Kindi
+
++ plan:
+    + Leave at 7 AM
+    + Pitstop at Dembé
+
+
+- There are different andarin
+    - charming
+    - nature
+    - powerful, some can change weather on regional level
+    - all andarin can do cantrips, differs per andarin
+    - ancient andarin kind of turn into trees
+    - all are proficient with all weapons
+
+> "I am the mom friend " - Dalynn
+
+- sleep
+- 7 am leave for Oreo
+
++ Dalynn makes a detour for [Dandy](https://bookstack.hemels.me/books/Darninia/page/dandy)
++ Dandy asks for a souvenir
+
+- Our route goes past Shallow's end.
+- apparently dangerous
+- don't go by night, and keep in shallows
+- if we get there by night, "go in the forest"
+- keep your ears closed
+
++ Trista knows how to sail
++ Plan: sail to forest, sleep, go to Dembe
+
+- Dalynn & EatM get seasick
+- Get to forest
+- Park boat in harbour near Harpies Dinner
+- Go to bed
+
++ In the middle of the night hear screaming coming from Shallow's end
+
+- Go past Shallow's end
+- See burned ships
+- 10 dark hooded figures around a fire
+
++ Suddenly ship halts even though water should be deep enough
++ Hooded figures move towards ship
++ Use Shape Water to get ship moving again
++ Ship halts again
+
+- fight the cultists while Kora fights a Kraken in the sea
+
++ Beat them handily with Hypnotic Pattern
++ Kora did not beat the kraken but made it flee
+
+# Session 21 - No ruckus
+
+- Everyone gets a side-kick
+    - Noel => Denice
+    - Frank => [Kindi](https://bookstack.hemels.me/books/Darninia/page/kindi)
+    - Anneloes => [Mindi](https://bookstack.hemels.me/books/Darninia/page/mindi)
+    - Sjoerd => [Trista](https://bookstack.hemels.me/books/Darninia/page/trista)
+
++ Denice is life cleric, half elf/half-dwerg
++ Slaaf uit Fekrar mijnen
+
+- Kindi is death cleric, human
+- Klein dorp uit Inaesta
+
++ Mindi is horizon walker, human
++ Slaaf uit [Itron](https://bookstack.hemels.me/books/Darninia/page/itron)
+
+- Trista is fey wanderer, eladrin
+- Nobelvrouw uit Agronomia
+
++ Cultists have only a few knick-knacks, shell-necklace, cream cheese and a red egg
++ [Kora](https://bookstack.hemels.me/books/Darninia/page/culorianacora): "that is a nice egg".
++ Mindi: "It is a failed Kraken egg, now it will just be a big red fish"
+
+- Talk about what we would do in Dembé
+- Kora wants to go alone to meet a friend
+- Stay in Dembe for 3 days
+- Rora wants us to get info on what happens in [Imna](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma)
+
++ Kindi and [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) talk
++ She was a slave to the Oduin family
++ One of Von Mackenbuch aunts is married to the Oduin duke
++ She was put in prison when she was discovered to be a witch
++ Kora got her out of prison break
+
+- Trista, [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) and faramar fix the boat
+- Trista and Dalynn talk about the Forgotten Realms
+
++ While 2 days on boat to Dembé we learn Old Darninian
+    - [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain): 3
+    - Wacomar. 9
+    - Dalynn: 18
+    - [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris): 19
+
+- If we try to read Old Darninian, we roll a DC
+- DC is depended on above rolls
+
++ Faramar tries to learn sailing from Trista (8)
++ Also exchange info about fighting styles
+
+- If Faramar investigates/learns enough he'll get some sort of bonus
+- DM has ideas
+
++ EotM gets Denice to help him learn more Old Darninian
+
+- Wacomar wants to know what drives the side-kicks, why they are here, in order to improve persuasion
+
++ Dalynn tries to fly and discusses animals with Kora
+
+- Kindi is een goth chick
+- Kindi says not all royalty is bad
+- [King Abigor](https://bookstack.hemels.me/books/Darninia/page/king-abigor) has a son Felix/Fredericka
+- Felix was sent to the Oduin family
+- secretly taught slaves how to read
+- Kindi says Felix is weak and his father will convert him from good to bad
+- Felix goes by name of Magone, ancient Darninian for bear
+
+> "Kindi, I got a secret identity" - Frank as Felix
+
+- We arrive in [Membe](https://bookstack.hemels.me/books/Darninia/page/membe), around 10/11
+- See a large tower on edge of town
+- Get rooms in tavern Burned Bridge
+- [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) pay
+
++ Kora will leave and return in 3 days
++ If she does not return, we should find Constance Weaver
+
+- lot of centaurs in town
+- Flyers for "centaur night", free entrance for centaurs at the casino
+- There is a "Golden hooves"-prize
+
++ Kora says mayor is approachable
++ Mayor Trombon lives in large tower
++ At the top, he has a telescope
+
+- Centaurs usually live on planes to south and there is an uneasy truce
+
++ Mayor is a small, bald man with a monocle
+
+- Kora leaves the inn and Faramar + Fredrik follow her
+- She leaves town and goes to Wedall
+- We let her leave
+
++ Eat lunch first at fish market next to docks
++ Dalynn uses cat-powers to find fresh fish
++ Leads us to alleyway with boxes of fresh fish being unloaded
++ also a box with "Imna" on it
++ Go back to tavern to cook fish
++ Give innkeeper rest of fish if we can use kitchen
+
+- Golden hooves are prize of big stakes game between important people.
+    - Mayor of Medembe
+    - Mayor of Wedall
+    - General of elite guard (!!!)
+- Buy-in is 100 GP
+
++ There used to be a lot of trade between Medembe and Imna
++ That stopped a few weeks ago until winter
++ now soldiers only retrieve goods here instead of boats going both ways
+
+- Xerex is founding father of Dededembe
+- He started centaur war
+- also created the tower the mayor lives in
+
++ Go to Spell weaver, bookshop of Constance Weaver
++ Also secretly a magic shop
+
+- Enter shop
+- On the left is a library, 3 sitting centaurs and an elderly goliath [woman](https://bookstack.hemels.me/books/Darninia/page/nalaya)
+- On the right is a magic shop: weapons, armour and other items.
+- Including decks of cards.
+- not THE deck
+
++ Fredrik buys a decks of animal cards
+
+- Talk to Constance, get her apart to talk in private
+- Talk about Imna
+- It's always been closed
+- It's an experiment place for the king.
+- Testing explosives, magic animals (dragons) and training guards
+
++ Offers 10% discount on magic items.
+
+- Fredrik pulls a card of his animal deck
+- It's the death card: there is big change in your life coming, positivity
+- Wacomar draws High Priestess: follow your instincts and dreams (The Egg)
+- Dalynn draws The Star: there'll be positive and spiritual enlightenment, people will see you for who you are
+- Faramar draws The Fool, there will be an adventure that requires a leap of faith, and you will become more wise
+
+> "That was a very lucrat- special session" - Weaver
+
+- Back to inn
+- Prepare for festival
+
+> "Er zijn niet veel vrachtwagens, maar er valt wel veel van af" - Frank over Fredriks eigendommen
+
+- Go to docks
+- Casino is on big boat
+- Humans man regular casino tables (e.g. blackjack)
+- Centaurs man tarot-tables and the like
+
+- In the middle of the floor at the ceiling is not a chandelier but a cage with an adult faun with golden hooves
+
+> "Elf-jarige Eef was fucked up" - Sjoerd
+
+- Have to pay dwarven guard 2 x 100GP to enter
+- Tough gury to get in the competition
+- Says "Mackenbachs let us down"
+- 2 hours to mingle before game starts
+
++ Dalynn + Fredrik go to upper deck
++ Talk to few centaurs
++ "A talking cat?! We should have that as Golden Hooves for next year!"
+
+- Is dubbed "Flow the man cat" by them
+
+> "Swiper no swiping!" - Dalynn to Fredrik
+
+- Wacomar & Faramar investigate possible opponents at the poker tables
+- Try to gain insight in their playing style to get an advantage later
+
++ Play the game
++ Dice suck
++ Some NPC wins, mr Fastfire, centaur
+
+- Hear NPCs talk
+- Apparently the masked ball in Itron was an experiment from Imna
+
++ Follow Fastfire, but he catches us
++ He is not staying at Burned Bridge
++ But at Mane Stables inn
++ Awkward conversation
++ Centaur + faun leave
+
+- long discussion on what to do
+
+- Drinking in our tavern for an alibi
+- Then sneak out when we go to "sleep"
+- find "Mane Stable"
+
++ It is a hue of stables with sleeping centaurs and a big wooden building next to it
++ Fredrik climbs building and checks rooms through windows
++ Rooms are big, with regular and centaur beds
++ 2 rooms are filled
+    - 1 with a centaur
+    - 1 with a faun and Fastfire
+
+- Faun does not have golden hooves
+- Faun is playing music and fastfire is listening sleeping.
+- There are golden hooves in a corner
+
++ Fredrik goes back to discuss with party
++ fredrik goes back inside
++ Opens door and stands aside, asks faun at if he wants to leave
++ "Who are you?"
++ "I'm the tooth fairy, come to save fauns"
++ "Fastfire wake up"
+
+- Fredrik runs away
+- Party shames Fredrik for clumsiness
+- faun opens door and walks outside
+
++ Dalynn goes to meet him
++ Fauns and centaurs are in on it together
++ Centaurs have no slaves
+
+- Fredrik in the meantime goes back to steal the hooves
+- Fastfire is awake
+- Fredrik returns unnoticed by Fastfire
+
++ Fastfire comes out as well
++ "What is this ruckus?"
++ We leave
+
+# Session 22 - Petrified
+
+- [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) + [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) go back to inn to go to bed
+- [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) + [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) go to High Road
+- EotM steals the sign
+- Write "Hans was here" to create false trail
+
++ Dalyun wakes up earlier as elf
++ [Mindi](https://bookstack.hemels.me/books/Darninia/page/mindi) asks her to get a map of [Imna](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma) from the mayor
+
+- Rest wakes up later
+- Order food at inn
+- EotM draws tarot card for Mindi
+- It is the fool reversed
+- Explanation of card is vague
+- Mindi (and everyone else) is confused
+
++ Go to Weaver to get parchment to copy map
++ EotM exchanges 2 books for other books, parchment and ink
+
+- Go to Mayor
+- lives in the gigantic big black tower that is actually nor that giant or big
+- knock on door
+- paper flies down: "mayor is home at the top, you can visit but need to go up alone"
+
++ discuss scaling building to evade traps but traps for visitors seems silly
++ Just enter and walk upstairs
++ See hallway lined with paintings of different ways to kill centaurs
++ At end of hallway there is a statue blocking the doorway to stairs
+
+- Faramar pulls a card of deck from the Statue
+- It is a flock of shadowy birds
+- card transforms into a crow that nestles on Faramars shoulders.
+- Dalynn pulls a blank card that does not transform, it is sticky and gooey
+- Takes a bite and turns invisible.
+- Wacomar pulls a Jester that makes him feel nimble and gives +5 AC
+
++ EotM is a scared pussycat and goes outside
++ Climbs tower to the roof
++ Sees tiles that are uneven
++ Sees door to room that shows springs under tiles
++ Tres a tile and immediately gets off it again
++ There is a trap that would push you off the of
++ Goes back down and pulls a card
++ It's an abacus: next transaction he will only pay half off the money
+
+- Stairs lead to library with more paintings of killing centaurs, books and chests with more stuff
+
++ There is a big wall painting of a map of Darnimia with red crosses
++ Some places in Imna
++ Probably genocides of centaurs
+
+- There are two doors next to each other and one on the other end of the room
+- Open one of the two doors, it is a bedroom
+- On the bed are Luna Lovegood-glasses
+- Loes is very tempted
+
++ The other room is a brewery or laboratory
++ EotM determines it is brewery
+
+- last door leads to stairs
+- Suddenly boulder comes downstairs
+- Dalynn falls down with boulder in hole
+
+> "Stuck between a rock and a hard place" - Frank
+
+- Dalynn transforms in a cockroach to crawl around boulder
+
+> "What was your tarot card again?" - Noël
+>
+> "People will see who you really - fuck you!" - Anneloes
+
+- a second crow flies down to Faramars shoulders :(
+
++ Enter room with 3 doors, otherwise empty
++ Dalynn tries left door evades a trap and the door is replaced with another door, leads to messy bedroom
++ Right door is locked
++ Centre door is locked with four locks with puzzles instead of keyholes
++ Puzzle is too difficult for all of us
++ Faramar hits the door, become smarter
++ After trial and error we open the door
++ Lose int-bonus and also some of our own
++ Restore it with Lesser Restoration
+
+- lockpick the right door
+- find a lot of centaur skeletons, very old
+- slowly close it and pretend we didn't see it
+
++ open central door
++ See staircase to roof
++ see telescope and Launch pads but no mayor
++ ask where he is
++ "I will be right down" and appears next to telescope
++ Says we solved his puzzles and need to solve a last one for his help
+
+> "Before we go on, Faramar has two crows on his shoulders, and maybe they will turn into iron when we go to the tavern but I don't think these are crow bars, how do we get rid of them?" - Wacomar
+
+- Feed a crow a berry and it will leave
+- Dalynn casts Goodberry out of sight to feed to crows
+
++ Mayor claps in his hands, disappears, and a centaurskeleton appears behind us
++ Roll initiative!
+
+- con saves are a bitch
+- Wacomar + Faramar are petrified
+
+> "Objectify me" - Wacomar
+
+- EotM, Dalyna nor mayor have any form of de-petrification
+- Mayor does have a map of Imna
+- Says king is experimenting with aberrations, (crossbreeds) of monsters
+- Also give Luna-glasses (anti-aberration)
+
+> "Thanks for not getting mad" thumbs up - Mayor
+
+- EotM goes to get Constance
+
+> "Mister Mayor has maneuvered some of my friends in a petrified pickle" - EotM
+
+- Constance does not have the potion nor the Greater Restoration spell
+- [Kora](https://bookstack.hemels.me/books/Darninia/page/culorianacora) does have the spell
+
++ EotM makes use of the situation and buys more books (wasting the half-gold-transaction buff)
++ EotM, Dalynn and the girls camp on the roof and spend the day learning Old Darninian until Kora arrives
++ EotM copied the Imna-map
+
+- Kora arrives
+- Tell her about what we learned
+- Says there was ever only one person creating and controlling aberrations.
+- "Tashara", who supposedly died
+
++ Kora calls "Hannes" and mayor arrives
++ Kora gets angry about petrification
++ Kora de-petrifies Faramar and Wacomar
+
+- They get angry about the petrification
+- Eventually get the mayor to pay the de-petrification costs and to give all of us magic permits
+
++ Skip to leaving for Imna
++ 2 days on boat Faramar reads about fighting styles
++ EotM and Dalynn learn Old Darninian
++ Wacomar ... does something?
+
+- During second day see dark clouds in the distance
+- Kora says it's magical lands from Inna
+
++ Ghost appears
++ Faramar one-shots
+
+- 9 skeletons appear
+- kill 6 of them
+
++ Ice storm for 1 turn happens, damages everyone, turns everything in difficult terrain
+
+- kill remaining skellies
+
++ Dalynn turns into a plant
+
+- an Ice spear flies over the boat but misses everyone
+
++ Lightning strike hits the boat
++ Hits Faramar and plant-Dalynn
++ Dalynn turns back to elf
+
+- All magic vanishes for abrief moment
+- A giant wave crashes over the boat, damages everyone
+
++ Faramar turns into a wood-elf
+
+- Wacomar is petrified (again)
+
++ Go in the eye of the storm
++ Brief calm moment
+
+- 3 creatures swim towards the boat
+- Have 4 tentacles and very skinny torso with giant claw-like hands
+
++ next time: fight?
+
+# Session 23 - Arriving in Imna
+
+- Continue fight against 3 skums
+- multiple people go down
+
++ Have 2 rounds to heal before we enter the storm again
+
+- Storm catapults us on a beach on [Imna](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma)
+- Crash downs multiple andarin, incl [Kora](https://bookstack.hemels.me/books/Darninia/page/culorianacora)
+- Ship in 3 pieces.
+
++ Heal the downed people
++ [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) still petrified
+
+- Walk up dune
+- Look around
+
++ See Imna's capital 2 hour walk away.
+
+- See group of people on beach walking towards us
+- Hide on top of dune while petrified Wacomar is being a statue in the shipwreck
+
++ 6 guards arrive at shipwreck. all human
++ 2 guards leave to get a cart to get Wacomar to the city
+
+- Don't want to leave Wacomar behind
+- Decide to kill the 4 guards, wait for the 2 guards in an ambush, then cart Wacomar away the mainland in
+- 1 guard dies, 1 is unconscious and 2 surrender
+
++ Surrendered guards offer to help us
++ Say they are there to protect common people
++ Say the unconscious guard is not part of them, we should kill them
++ De-nice bashes his head in with her mace
+
+- Guards are part of a not-rebellion Ki-rin
+- Try to help people coming here and save them from the real guards
+- Say they will take us to a safe place and then after we rest we should leave
+
++ Guards with cart return
++ Kill them
++ One surrenders, we accept it but then slit his thoat
++ The entire group, not just [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris), did that
++ Every one
++ Definitely not just Faramar
+
+- Bury the bodies
+- Lift petrified Wacomar in cart
+- Our helpful, definitely not rebellious, guards are called
+    - Eternal Blossom
+    - Roar of the Bear
+
++ Go meet up with Kora and [Mindi](https://bookstack.hemels.me/books/Darninia/page/mindi) who hid in dunes
+
+- Kora knows of kirin
+- Guards say there are really dangerous enemies and creatures
+- Say we are safe in the desolated capital
+- Ki-rin is a celestial servant of good deities, seen as sign of good fortune
+- Have not heard of a group of people called the ki-rin
+- Korra says a Ki-rin lived an Imna but vanished during the war, no-one knows what happened to it
+- Guards tell story of the Ki-rin group
+- [King Abigor](https://bookstack.hemels.me/books/Darninia/page/king-abigor) hired group of dragon hunters from the Dorhin mountains to kill dragons on Imna
+
++ King decided to kill the hunters
++ Hunters decided to not die and free prisoners sent to Imna
++ hunters are trying to kill Casgrad, leader of the elite guard
+
+- The capital contains temple of Ki-rin and that hides it from monsters that prowl in the night
+
++ Guards say Wacomar will be de-petrified in the morning.
+
+- Say that race change from Faramar is permanent
+- Might be reverted by a Reincarnate spell
+- 5th level druid spell
+- Some Ki-rin might know, "Speaks with Dogs"
+- He is in the mountains.
+- "follow the flowers"
+
++ Too late to travel to capital now
++ have to camp out here.
+
+- [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) teaches Faramar how to meditate
+- [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) offer medicinal herbs to trance
+
++ Long rest (or longer short rest)
+
+> "I bravely ran away "- Fredrik, aka "Sir Robin"
+
+- Plan:
+    - Go to capital.
+    - Meet Ki-rin
+    - Go to library to search for [Iuna](https://bookstack.hemels.me/books/Darninia/page/iuna)
+
++ [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) asks if guards know about Iuna
++ They do not
++ He describes her
++ They say she is a ghost in the library ("Saffra")
++ He tells Kora
++ She is sad and mad
+
 # Factions
 
 
 
 # The Andarin
 
-[The Mark of the Andarin![image.png](https://bookstack.hemels.me/uploads/images/gallery/2024-06/scaled-1680-/image.png)](https://bookstack.hemels.me/uploads/images/gallery/2024-06/image.png), a symbol present on the chest of an Andarin.
+The Mark of the Andarin![image.png](2024-06\image.png), a symbol present on the chest of an Andarin.
 
 The Andarin, also known as the Sistertribe, is a folk solely consistent of woman whom all posses innate magical powers of the Druidic kind. Around their 17th birthday their eyes start to glimmer and on their chests they gain the Mark of the Andarin, as shown in the picture to the left.
 
@@ -3522,7 +4203,7 @@ Here the colloquial advancements of subgroups are given.
 
 # The Voiceless
 
-[![image.png](https://bookstack.hemels.me/uploads/images/gallery/2024-06/scaled-1680-/nqgimage.png)The mark of the Voiceless, a feathered coatl.](https://bookstack.hemels.me/uploads/images/gallery/2024-06/nqgimage.png)
+The mark of the Voiceless, a feathered coatl.![image.png](2024-06\nqgimage.png)
 
 The Voiceless, also known as the Malarith, or even confusingly known as the Blue Snuffs, are black market trades that dwell in the undercities.
 
@@ -3573,7 +4254,7 @@ Related quests:
 
 # The Blue Puffs
 
-[A blue Peacock feather, the crest of the Blue Puffs.![image.png](https://bookstack.hemels.me/uploads/images/gallery/2024-05/scaled-1680-/O8fimage.png)](https://bookstack.hemels.me/uploads/images/gallery/2024-05/O8fimage.png)
+A blue Peacock feather, the crest of the Blue Puffs.![image.png](2024-05\O8fimage.png)
 
 The Blue Puffs are aristocrats that are loyal to the king. They to remain in power and the economy to prosper.
 
