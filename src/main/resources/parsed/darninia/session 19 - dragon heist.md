@@ -13,7 +13,7 @@
 - put both sacks in bag of holding
 
 + walk away as Mr & Mrs Perkan with slave and cat
-+ "We do not want to let the eggs get bad" - [Dalynn](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/dalynn-lathrana)
++ "We do not want to let the eggs get bad" - [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana)
 + Does not realize The Egg is a triggerword for [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris)
 + go to hideout
 
@@ -99,7 +99,7 @@
 + real narrow cliff path
 + get to place where the path is broken in pieces
 + there is a 35ft gap
-+ use climbing gear from Neuneun to get across
++ use climbing gear from [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen) to get across
 + Dalynn still falls
 + drags Wacomar with her
 + Recover and make it to the other side

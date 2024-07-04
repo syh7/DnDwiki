@@ -1,4 +1,4 @@
-# Session 14 - On a whole 'nother plane
+# Session 14 - On a whole nother plane
 
 - put runes in slows in the wall
 - entrance in the wall opens
@@ -7,7 +7,7 @@
 - supposedly we all are
 
 + Fredrik sneaks forward to scout
-+ Finds room with pillars, bookcases with books in Old [Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)n and Neuneun runes
++ Finds room with pillars, bookcases with books in Old Darninian and [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen) runes
 + pillars ahve roots around them that give off shadowy, smoky trails
 + also appearing and disappearing ghosts
 

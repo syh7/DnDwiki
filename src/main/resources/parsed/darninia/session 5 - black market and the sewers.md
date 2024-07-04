@@ -26,7 +26,7 @@
 + some books nog in Dwarvish/Elvish;
 + lion statue has emotional value for Armado
 
-- Armado has some respect for [EotM](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/eye-of-the-mountain)
+- Armado has some respect for [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain)
 - Has a job for us:
 - some people wronged him + friends, he's in a discussion with people about prices,
 - wants revenge but cannot do it himself, wants 2 things stolen

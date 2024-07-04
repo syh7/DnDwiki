@@ -1,6 +1,6 @@
 # Session 10 - Of Rudeness and Runes
 
-- [Wacomar](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/wacomar-illitris) as Thoms asks directions to Rusty Talon from bartender
+- [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) as Thoms asks directions to Rusty Talon from bartender
 - it's the red roof that is very far away
 - points to 3 red roofs, 2 are houses, the very big roof is the Rusty Talon
 - bartender offers to carry us for 3SP for all of us
@@ -29,7 +29,7 @@
 - they're not fans of Öfakkö
 - say that the cave story is a childrens horror story, to prevent children from entering the caves
 - some aaracockra go in the caves, dwarves from Thorans Refuge fo too
-- Öfakkö is not allowed in Neuneun, tried to get children to Kalaaf
+- Öfakkö is not allowed in [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen), tried to get children to Kalaaf
 - Kalaaf is The First One with wings
 - Öfakkö tried to "open the cave but he needs 5 keys"
 - takes children to lakes and kids come back unharmed but crying

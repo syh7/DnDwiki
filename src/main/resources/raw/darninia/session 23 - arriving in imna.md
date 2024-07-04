@@ -83,7 +83,7 @@
 
 + Long rest (or longer short rest)
 
-> "I bravely ran away "- Fredrik, aka "Sir Robin"
+> "I bravely ran away " - Fredrik, aka "Sir Robin"
 
 - Plan:
     - Go to capital.

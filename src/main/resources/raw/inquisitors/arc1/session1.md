@@ -1,18 +1,18 @@
 ## Session 0
 
-- Mage guild hub:
-- Stad Sanos
+- Mage guild hub in Sanos
 
 - novice rent naar binnen
 
-- alchemist kamer is in chaos. "ga je melden by de groep in riool"
+- alchemist kamer is in chaos.
+- "ga je melden by de groep in het riool"
 
 - ijzeren wolf + 2 guards ingang riool
 - rivier naar zuiden
 - groep kobolds + vers bloed bloed bij bruggetje
 - ijzeren raamwerk van binnen naar buiten geblazen
 
-- gestuurd door [Vezrin Vehares]()
+- gestuurd door Vezrin Vehares
 
 - goblin leger geleid door Kaasje
 
@@ -37,13 +37,13 @@
 - HAB-ruimte gevonden by put 14
 - Greg + Arcor dood, Arcor lichaam in rivier
 
-- Ezreal gebeten lijkt op lycantrophy, naar mage guild gestuurd
+- Ezreal gebeten, lijkt op lycantrophy, naar mage guild gestuurd
 
 - vermoedelijk bruut proces van goblin naar rat waar ze bang voor zijn, na dood terug naar goblin
 
 - hoorn geblazen in de buurt van mage guild, daarna kwamen goblins + rats
 
-- being in Dame, Irene light ernstig/bang
+- being in Dome, Irene light ernstig/bang
 - Mor is net overleden (Corrupt?)
 - Raymond is naar mage guild
 - guards gaan rondlopen om putten te bekijken omdat sleutels kwijt zijn

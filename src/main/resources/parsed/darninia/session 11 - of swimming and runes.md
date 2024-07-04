@@ -1,6 +1,6 @@
 # Session 11 - Of Swimming and Runes
 
-- [EotM](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/eye-of-the-mountain) arrives at pool of water with a whirlpool
+- [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) arrives at pool of water with a whirlpool
 - [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) arrives at a similar pool with a whirlpool, but there's also a basin with still water
 - investigate basin
 - low perception check so there's nothing there

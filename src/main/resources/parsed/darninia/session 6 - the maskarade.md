@@ -1,6 +1,6 @@
 # Session 6 - The Maskarade
 
-- [EotM](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/eye-of-the-mountain) lockpicks Armani's office
+- [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) lockpicks Armani's office
 - find accounting books about slavery
 - Mackenbach not in books
 

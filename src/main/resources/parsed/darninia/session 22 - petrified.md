@@ -1,6 +1,6 @@
 # Session 22 - Petrified
 
-- [Faramar](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/faramar-illitris) + [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) go back to inn to go to bed
+- [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) + [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) go back to inn to go to bed
 - [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) + [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) go to High Road
 - EotM steals the sign
 - Write "Hans was here" to create false trail

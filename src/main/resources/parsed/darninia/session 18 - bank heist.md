@@ -2,7 +2,7 @@
 
 > "Er past maar 250 kg in een bag of holding? Dat gaat een probleem werden" - Noël
 
-- Decide that [Valerie](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family) has a snake and [Dalynn](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/dalynn-lathrana) will copy that snake
+- Decide that [Valerie](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family) has a snake and [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) will copy that snake
 - Enter city as us and start the plan in alley way close to the bank
 
 > "Als ik 4 regels per sessie opschrijf, schrijf ik wel belangrijjke regels" - Noël terwijl hij opschrijft hoe de straat heet

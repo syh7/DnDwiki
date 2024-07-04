@@ -15,7 +15,7 @@
 + level up!
 
 - Split up
-- [Wacomar](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/wacomar-illitris) stays, witing diary
+- [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) stays, witing diary
 - Malaya + [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) go to [Lawrence](https://bookstack.hemels.me/books/Darninia/page/lorelianlaurence)
 - [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) + [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) go shopping for armour
 - Dalyan delivers letter

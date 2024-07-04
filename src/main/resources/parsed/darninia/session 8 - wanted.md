@@ -37,7 +37,7 @@
 + bunkbeds, lots of women and few men
 + women look allike despite different races
 
-- [Wacomar](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/wacomar-illitris) looks at documents from the prison
+- [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) looks at documents from the prison
 - all a slightly different Remove Curse
 - identity documents of captured women
 - personal spell scroll

@@ -4,7 +4,7 @@
     1. Orio is close by, but it is an official boat and leaves traces
     2. Rion is further away, but we have to get our own row boat
 
-+ [Dalynn](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/dalynn-lathrana) will be a cat
++ [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) will be a cat
 + Fredrik isn't wanted
 + [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) can discguise himself
 + Wacomar can get [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) through
@@ -51,7 +51,7 @@
 - enter Orio
 - [Dandy](https://bookstack.hemels.me/books/Darninia/page/dandy) on Fredriks shoulder draws attention
 - Bilbo comes towards us and wants information about where we got Dandy, and its race
-- we tell nothing but ask about the ferry to Neuneun
+- we tell nothing but ask about the ferry to [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen)
 - 10GP per person, and 5GP per pet
 - Biblo is interested in griphon supplies, if we want to sell, we can find him in the crossdeck inn in [Itron](https://bookstack.hemels.me/books/Darninia/page/itron)
 
@@ -150,12 +150,3 @@
 
 + Plan:
     - find Öfakkö at Rusty Talon
-
-
-
-
-
-
-
-
-

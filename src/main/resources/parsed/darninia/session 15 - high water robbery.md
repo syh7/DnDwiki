@@ -3,7 +3,7 @@
 - on the boat
 - WAcomar searches for another dogshow
 - finds dogs but now show
-- [Faramar](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/faramar-illitris) plays some darts against dragonborns
+- [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) plays some darts against dragonborns
 - wins 30GP
 - they think [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris)+Faramar are in a gay relationship
 - another win, 40GP because [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) joined

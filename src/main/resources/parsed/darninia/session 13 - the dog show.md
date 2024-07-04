@@ -1,7 +1,7 @@
 # Session 13 - The dog show
 
 - aaracockra swarm us because we survived the storm
-- [Dalynn](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/dalynn-lathrana) pays 1SP for Kajit to tell the story
+- [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) pays 1SP for Kajit to tell the story
 - [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) says we left when the storm started
 - aaracockra think we are posers :(
 
@@ -16,7 +16,7 @@
 + go back to Thoran's Refuge, pick up [Dandy](https://bookstack.hemels.me/books/Darninia/page/dandy)
 + bartender says they heard about a group of adventurers making a ruckus
 + Dalynn wants to do a scam, pretend to be a dog and enter dogshows and win prize money
-+ suddenly aaracockra say there is a trick dogshow between Stormhorn and Neuneun
++ suddenly aaracockra say there is a trick dogshow between Stormhorn and [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen)
 
 - Khajit and [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) go to Stormhorn to try and sell quasit skins
 

@@ -25,7 +25,7 @@
 - Dark clothes, leather armour, longbow
 
 + Introduction:
-+ [Dalynn](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/dalynn-lathrana) + [Hendrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain)
++ [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) + [Hendrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain)
 + chased out of tavern by people with tattoo of snake with wings
 
 - Dwarves in tavern:

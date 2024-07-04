@@ -2,11 +2,11 @@
 
 > "Sjoerd is in een poly relatie met Anneloes en DnD" - Eef
 
-> "Wie is de penning meester en waar is het geld gebleven?"- Anneloes
+> "Wie is de penning meester en waar is het geld gebleven?" - Anneloes
 
 - Onduidelijk hoeveel geld men nu heeft
 
-- [EotM](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/eye-of-the-mountain) 250GP
+- [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) 250GP
 - [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) 829 GP
 - [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) + [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) 860 GP
 
@@ -42,7 +42,7 @@
 + Kora is away to the mountains
 + Wacomar wants to raid her stuff
 
-- Dalynn goes to find out more about ingredient for healing potion for the Neuneun curse
+- Dalynn goes to find out more about ingredient for healing potion for the [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen) curse
 - It's golden moss from Dekrania
 - Potion maker says it's too much trouble
 - Potion maker says hags stole golden moss
@@ -139,7 +139,7 @@
     - ancient andarin kind of turn into trees
     - all are proficient with all weapons
 
-> "I am the mom friend "- Dalynn
+> "I am the mom friend " - Dalynn
 
 - sleep
 - 7 am leave for Oreo

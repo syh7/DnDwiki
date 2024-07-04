@@ -10,7 +10,7 @@
 - Ship in 3 pieces.
 
 + Heal the downed people
-+ [Wacomar](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/wacomar-illitris) still petrified
++ [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) still petrified
 
 - Walk up dune
 - Look around
@@ -83,7 +83,7 @@
 
 + Long rest (or longer short rest)
 
-> "I bravely ran away "- Fredrik, aka "Sir Robin"
+> "I bravely ran away " - Fredrik, aka "Sir Robin"
 
 - Plan:
     - Go to capital.

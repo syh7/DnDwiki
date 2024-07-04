@@ -26,7 +26,7 @@
 + blue peacock feather: blue puffs
 + windows sign (blue/red/yellow/green squares)
 
-- Blue peacock has [Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)n flags
+- Blue peacock has Darninian flags
 
 + Ship on pier is an inn "crossed deck"
 

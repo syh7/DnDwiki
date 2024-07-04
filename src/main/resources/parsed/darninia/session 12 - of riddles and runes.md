@@ -1,7 +1,7 @@
 # Session 12 - Of Riddles and Runes
 
 - during long rest hear hyena's cry (possibly change into gnolls)
-- [Dalynn](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/dalynn-lathrana) + [Dandy](https://bookstack.hemels.me/books/Darninia/page/dandy) start dancing at sunrise
+- [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) + [Dandy](https://bookstack.hemels.me/books/Darninia/page/dandy) start dancing at sunrise
 - run of joy/light appears
 
 + checkout unnamed lake attached to lake Wennja
@@ -10,7 +10,7 @@
 
 - no plateau at Köping either but there is an Elven [woman](https://bookstack.hemels.me/books/Darninia/page/nalaya) statue
 - earth around statue is fresh as if it was put there today
-- statue points to Neuneun, particularly to highest spike from Neuneun
+- statue points to [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen), particularly to highest spike from Neuneun
 - looks as if statue rose from the ground recently - maybe when we got 4 runes?
 - plague at foot of statue reads: "conquer air and you shall thrive"
 

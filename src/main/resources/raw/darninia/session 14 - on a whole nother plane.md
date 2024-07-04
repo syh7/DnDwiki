@@ -1,4 +1,4 @@
-# Session 14 - On a whole 'nother plane
+# Session 14 - On a whole nother plane
 
 - put runes in slows in the wall
 - entrance in the wall opens

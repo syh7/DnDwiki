@@ -27,7 +27,7 @@
 - Stay in Dembe for 3 days
 - Rora wants us to get info on what happens in [Imna](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma)
 
-+ Kindi and [Wacomar](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/wacomar-illitris) talk
++ Kindi and [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) talk
 + She was a slave to the Oduin family
 + One of Von Mackenbuch aunts is married to the Oduin duke
 + She was put in prison when she was discovered to be a witch

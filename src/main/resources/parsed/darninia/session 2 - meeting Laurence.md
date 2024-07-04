@@ -9,7 +9,7 @@
 + people with flowers in hair weaving basket
 + random music
 
-- Temple does not look like [Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia) God; withered away pictures of plants on temple
+- Temple does not look like Darninia God; withered away pictures of plants on temple
 - Temple for Lachi, prophet, cares about Lachis (weed); writing in Sylvan on wall
 
 + Moons: gallac, tarraq, Amarantha

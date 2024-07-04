@@ -2,7 +2,7 @@
 
 > "Sjoerd is in een poly relatie met Anneloes en DnD" - Eef
 
-> "Wie is de penning meester en waar is het geld gebleven?"- Anneloes
+> "Wie is de penning meester en waar is het geld gebleven?" - Anneloes
 
 - Onduidelijk hoeveel geld men nu heeft
 
@@ -139,7 +139,7 @@
     - ancient andarin kind of turn into trees
     - all are proficient with all weapons
 
-> "I am the mom friend "- Dalynn
+> "I am the mom friend " - Dalynn
 
 - sleep
 - 7 am leave for Oreo

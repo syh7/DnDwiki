@@ -150,12 +150,3 @@
 
 + Plan:
     - find Öfakkö at Rusty Talon
-
-
-
-
-
-
-
-
-

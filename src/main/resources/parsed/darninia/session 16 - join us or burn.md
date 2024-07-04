@@ -1,7 +1,7 @@
 # Session 16 - Join Us or Burn
 
 - for the record:
-    - [Dalynn](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/dalynn-lathrana) has 2 levels of exhaustion,
+    - [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) has 2 levels of exhaustion,
     - thus halved moving speed
     - thus she is a cat carried by [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris)
     - if we get in a fight, she can turn back
@@ -167,7 +167,7 @@
 + tells a story:
 
 - [Iuna](https://bookstack.hemels.me/books/Darninia/page/iuna) is a female Andarin, who stole the original Documents from king Abigor and was lost to history. The Andarin don't know where she is.
-- She hid the Documents before leaving, behind traps. The Neuneun challenge sounds like here.
+- She hid the Documents before leaving, behind traps. The [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen) challenge sounds like here.
 - She can change appearances when she wants, but prefers red hair. Where she walks, flowers bloom.
 
 + Kora's expedition is to find Iuna

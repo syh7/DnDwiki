@@ -7,7 +7,7 @@
     - roll a d6 to decide what stat gains a +1 saving throw for that day
     - works in wildshape
 
-> "I am not obsessed (about The Egg), I am an enthusiast" - [Wacomar](https://bookstack.hemels.me/books/[Darninia](https://bookstack.hemels.me/books/Darninia/page/darninia)/page/wacomar-illitris)
+> "I am not obsessed (about The Egg), I am an enthusiast" - [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris)
 
 - Long time since last session
 - recap of 25 minutes
@@ -15,7 +15,7 @@
 + plothooks
     - Wait for [Kora](https://bookstack.hemels.me/books/Darninia/page/culorianacora) and go on her expedition
     - search for silver dragon scales
-    - replenish ingredients for the potion used to heal the Neuneun corruption
+    - replenish ingredients for the potion used to heal the [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen) corruption
 
 - current situation
 - [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) sleeping in infirmary in Andarin safe house
