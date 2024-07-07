@@ -40,8 +40,8 @@
 + Needs attunement by spellcaster of nature
 
 - Walk to Palace to get to party
-- other people walk to party too, have masks w/gems
-- if you don't have a mask, you are given one w/o gems
+- other people walk to party too, have masks withgems
+- if you don't have a mask, you are given one without gems
 
 + get masks (Faramar have wolf =) )
 + get tour of warehouse in 30 min
@@ -83,7 +83,7 @@
 - defeat them in the other dungeon
 - keep guards alive to interrogate
 - orders to kill/maim common masks and move them to Palace cellars
-- tell the commoners to switch masks w/ guards
+- tell the commoners to switch masks with guards
 - masks won't come off of commoners
 - canal master has limp and parrot mask
 

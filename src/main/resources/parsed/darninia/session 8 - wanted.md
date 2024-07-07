@@ -33,7 +33,7 @@
 - there's a shelter on Stormhorn for animals (wolves of [Laurence](https://bookstack.hemels.me/books/Darninia/page/lorelianlaurence))
 - hippogrifs live in the mountains of Neuneun
 
-+ [woman](https://bookstack.hemels.me/books/Darninia/page/nalaya) Salva brings us to the cellar
++ woman Salva brings us to the cellar
 + bunkbeds, lots of women and few men
 + women look allike despite different races
 

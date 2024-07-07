@@ -116,7 +116,7 @@
 + Also secretly a magic shop
 
 - Enter shop
-- On the left is a library, 3 sitting centaurs and an elderly goliath [woman](https://bookstack.hemels.me/books/Darninia/page/nalaya)
+- On the left is a library, 3 sitting centaurs and an elderly goliath woman
 - On the right is a magic shop: weapons, armour and other items.
 - Including decks of cards.
 - not THE deck

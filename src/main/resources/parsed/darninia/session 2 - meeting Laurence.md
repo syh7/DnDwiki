@@ -20,7 +20,7 @@
 - Small elven seller with leg in cast ([Laurence](https://bookstack.hemels.me/books/Darninia/page/lorelianlaurence)) recognises [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana); left village because "not into mountains"
 
 + Back room with lots of bookcases
-+ painting of giant willow tree with elven [woman](https://bookstack.hemels.me/books/Darninia/page/nalaya) in it with flowing red hair
++ painting of giant willow tree with elven woman in it with flowing red hair
 
 - Laurence wears necklace with 3 stars; believes in prophet Liira; necklace is sign of Liira
 
@@ -39,7 +39,7 @@ M - 16 - 11 - 3 - 8 - 20 - 6 - 7 X
 Monkey fly fish mouse   
 H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 
-- Skeleton under tree already dead >10 years; human male w/ guard uniform; rusty sword
+- Skeleton under tree already dead >10 years; human male with guard uniform; rusty sword
 - painting of couple with yellow flowers
 - tree lives:
 - Rosea lived with Tathrana + Laurelean

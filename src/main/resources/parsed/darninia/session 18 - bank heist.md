@@ -107,7 +107,7 @@
 + Vladimir comes back with spare key
 + ask for guide
 + "That is against company rules"
-+ "Are those cat and [woman](https://bookstack.hemels.me/books/Darninia/page/nalaya) following company rules?"
++ "Are those cat and woman following company rules?"
 + Get quide
 + Vladimir gets in cart and looks at us for what to do
 + Faramar pulls handle and cart leaves

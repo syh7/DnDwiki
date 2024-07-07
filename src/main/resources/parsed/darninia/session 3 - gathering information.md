@@ -24,7 +24,7 @@
 
 + winged serpent: blue snuffs
 + blue peacock feather: blue puffs
-+ windows sign (blue/red/yellow/green squares)
++ windows sign (blue/red/yellowithgreen squares)
 
 - Blue peacock has Darninian flags
 

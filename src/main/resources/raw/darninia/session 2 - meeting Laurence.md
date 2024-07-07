@@ -39,7 +39,7 @@ M - 16 - 11 - 3 - 8 - 20 - 6 - 7 X
 Monkey fly fish mouse   
 H - 11 - 21 - 12 - 14 - 8 - 8 - 18
 
-- Skeleton under tree already dead >10 years; human male w/ guard uniform; rusty sword
+- Skeleton under tree already dead >10 years; human male with guard uniform; rusty sword
 - painting of couple with yellow flowers
 - tree lives:
 - Rosea lived with Tathrana + Laurelean

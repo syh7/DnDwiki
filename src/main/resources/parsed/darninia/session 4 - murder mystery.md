@@ -19,12 +19,12 @@
 + Tristans body: slit throat;
 + bruises on face and throat
 + Bruises on hands so fought
-+ Tattoo on right shoulder, serpent w/o wings
++ Tattoo on right shoulder, serpent without wings
 + Journal with meetings and grocery lists
 + interview for new guards
-+ business meeting w/ the voiceless
-+ meeting w/ Thaine and Ghalgag (?) and Francois
-+ Meeting w/ Buick after dinner w/ Yelem
++ business meeting with the voiceless
++ meeting with Thaine and Ghalgag (?) and Francois
++ Meeting with Buick after dinner with Yelem
 
 - Voiceless leaders ~ Francois ~ Cghalag ~ Tristan > Buick
 

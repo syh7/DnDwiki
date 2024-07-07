@@ -8,7 +8,7 @@
 + no plateau
 + continue to lake Köping
 
-- no plateau at Köping either but there is an Elven [woman](https://bookstack.hemels.me/books/Darninia/page/nalaya) statue
+- no plateau at Köping either but there is an Elven woman statue
 - earth around statue is fresh as if it was put there today
 - statue points to [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen), particularly to highest spike from Neuneun
 - looks as if statue rose from the ground recently - maybe when we got 4 runes?

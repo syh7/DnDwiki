@@ -12,7 +12,7 @@
 - end up with everyone alive, but crystals broken on the floor
 
 + cat-[Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) is in the hold
-+ a [woman](https://bookstack.hemels.me/books/Darninia/page/nalaya) is petting a rabbit, that suddenly launches itselt at [Dandy](https://bookstack.hemels.me/books/Darninia/page/dandy) to much on him
++ a woman is petting a rabbit, that suddenly launches itselt at [Dandy](https://bookstack.hemels.me/books/Darninia/page/dandy) to much on him
 + Dalynn goes to defend
 + loses
 + Dandy lost a bit of its mane but no real harm doen

@@ -83,7 +83,7 @@
 - hurry to the houses
 - little girl approaches "finally! we have been waiting since like forever"
 - brings us to a giant, Yggdrasil-like tree
-- small house nearby, elven [woman](https://bookstack.hemels.me/books/Darninia/page/nalaya) at table
+- small house nearby, elven woman at table
 - asks for help with a banquet, the big tree is dying and one of the people is a traitor
 - as if tree is being pulled to hell-ish places
 - it is possible to enter the tree, but it is a holy place so last resort

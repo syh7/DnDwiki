@@ -75,7 +75,7 @@
 - go back to ~~Andarin~~ weird elves
 
 + while the rest was shopping, Dalynn is in the infirmary
-+ casts Cure Wounds on the [woman](https://bookstack.hemels.me/books/Darninia/page/nalaya) next to her, but it does nothing
++ casts Cure Wounds on the woman next to her, but it does nothing
 + woman: "Bitch, you think they didn't try this?!"
 + woman is very angry that she got magically burned for trying to help
 + "It's all daddy's fault"
