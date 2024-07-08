@@ -33,7 +33,10 @@ class ParseService {
 
                 var (title, body) = rawFilePath.readText().split("\n", limit = 2)
                 setup.tagUrlMap.forEach { (tags, url) ->
-                    tags.firstOrNull { body.contains(it) }?.let { body = body.replaceFirst(it, "[$it]($url)") }
+                    tags.map { body.indexOf(it, ignoreCase = true) to it }
+                        .filter { (index, _) -> index != -1 }
+                        .minByOrNull { it.first }
+                        ?.let { (_, tag) -> body = body.replaceFirst(tag, "[$tag]($url)") }
                 }
                 val fullText = "$title\n$body"
                 writeFile(parsedFilePath, fullText)

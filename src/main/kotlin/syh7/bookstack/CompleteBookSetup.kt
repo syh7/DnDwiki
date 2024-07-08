@@ -8,5 +8,5 @@ data class CompleteBookSetup(
     val name: String,
     val bookstackBook: DetailedBook,
     val keyChapterPages: Map<BookContentsChapter, List<DetailedPage>>,
-    val tagUrlMap: Map<List<String>, String>,
+    val tagUrlMap: List<TagMap>,
 )

@@ -36,7 +36,7 @@ class BookstackService {
         }
 
         val tagUrlMap = createTagUrlMap(keyChapterPageMap, detailedBook.name)
-        tagUrlMap.forEach { log("${it.key} goes to ${it.value}") }
+        tagUrlMap.forEach { log(it) }
         lowerLogOffset()
 
         return CompleteBookSetup(
@@ -70,21 +70,11 @@ class BookstackService {
         return map
     }
 
-    private fun slugToFullUrl(book: String, slug: String): String {
-        return "${properties.url}/books/$book/page/$slug"
-    }
-
-    private fun createTagUrlMap(keyChapterPageMap: Map<BookContentsChapter, List<DetailedPage>>, book: String): Map<List<String>, String> {
+    private fun createTagUrlMap(keyChapterPageMap: Map<BookContentsChapter, List<DetailedPage>>, book: String): List<TagMap> {
+        val bookUrl = "${properties.url}/books/$book"
         return keyChapterPageMap.values.flatten()
-            .mapNotNull {
-                val tags = it.tags.map { tag -> tag.name }
-                if (tags.isEmpty()) {
-                    null
-                } else {
-                    val url = slugToFullUrl(book, it.slug)
-                    tags to url
-                }
-            }.toMap()
+            .map { createTagMap(it, bookUrl) }
+            .flatten()
     }
 
     fun emptyChapter(bookSetup: CompleteBookSetup, chapterName: String) {
@@ -98,7 +88,7 @@ class BookstackService {
         lowerLogOffset()
     }
 
-    fun addSession(bookSetup: CompleteBookSetup, sessions: List<HandledSession>) {
+    fun updateSessions(bookSetup: CompleteBookSetup, sessions: List<HandledSession>) {
         upLogOffset()
         val sessionsChapter = bookSetup.bookstackBook.contents.filterIsInstance<BookContentsChapter>().first { it.name.lowercase() == "sessions" }
         log("sessions chapter in book ${bookSetup.name} is ${sessionsChapter.id}")
