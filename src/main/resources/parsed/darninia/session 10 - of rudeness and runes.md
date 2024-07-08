@@ -8,7 +8,7 @@
     - [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) barely makes it
     - [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) is too haevy, so we plummet, take 1 bludgeoning damage - does not want to give 1 silver piece back for
       damage
-    - Fredrik is very easy
+    - [Fredrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) is very easy
     - Faramar tries again, and successful, albeit a little bit slow
     - Wacomar helps barkeep with Guidance
 
@@ -23,7 +23,7 @@
 - people look at us 'cause we're not flying beasts
 - get 4 beers to fit in
 - Räkän likes [Dandy](https://bookstack.hemels.me/books/Darninia/page/dandy), Dandy purrs
-- Räkän is Öfakkös nephew
+- Räkän is [Öfakkö](https://bookstack.hemels.me/books/Darninia/page/nenen#notable%20people)s nephew
 - Thomas calls Öfakkö a "wise old man"
 - Räkän repeats that to his brother and they both start laughing
 - they're not fans of Öfakkö
@@ -40,7 +40,7 @@
 + Räkän gets angry and wants us to leave :(
 
 - climb up ladder
-- [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) carries Dandy without issues
+- EotM carries Dandy without issues
 - Dalynn+Wacomar go up without issues
 - Faramar has wooden steps breaking, then failing dex save, so he falls
 - can Misty Step to save some damage but still takes 5 damage for 40 metres

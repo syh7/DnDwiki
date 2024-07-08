@@ -40,7 +40,7 @@
 + Needs attunement by spellcaster of nature
 
 - Walk to Palace to get to party
-- other people walk to party too, have masks withgems
+- other people walk to party too, have masks with gems
 - if you don't have a mask, you are given one without gems
 
 + get masks (Faramar have wolf =) )
@@ -133,9 +133,7 @@
 + thief guard gets EotM and Dalynn and says he is going to get rid of them
 + takes them back to warehouse
 + EotM attacks him to avoid paying money and oneshots him.
-+ Dalynn tells Kara about basement, EotM hides to talk to Kara: tell owner of Restors Pavillion that we want to talk to
-+ Kara
-+ Chrysandil
++ Dalynn tells Kara about basement, EotM hides to talk to Kara: tell owner of Doresto's Pavillion that we want to talk to Kara Chrysandil
 
 - Above in square
 - people are trying to get to the stage

@@ -18,7 +18,7 @@
     - replenish ingredients for the potion used to heal the [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen) corruption
 
 - current situation
-- [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) sleeping in infirmary in Andarin safe house
+- [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) sleeping in infirmary in [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) safe house
 - rest shopping in middle level of [Itron](https://bookstack.hemels.me/books/Darninia/page/itron)
 
 + party suddenly hear a male voice all around them
@@ -81,7 +81,7 @@
 + "It's all daddy's fault"
 + laughs at Dalynn for swearing the vow
 + says Andarin are okay, but she got fucked over by someone else
-+ the woman is Valerie!
++ the woman is [Valerie](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Valerie%20von%20Mackenbach)!
 
 > Valerie is a party girl
 >
@@ -89,9 +89,9 @@
 
 > "Girl, you are a coward" - Valerie to Dalynn, because Dalynn left her lover at home
 
-- Valerie said Heinz is responsible for the burning
+- Valerie said [Heinz](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family) is responsible for the burning
 
-+ Party arrives at [the Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) hideout
++ Party arrives at the Andarin hideout
 + go to Dalynn in the infirmary
 + see Valerie next to her
 + show Dalynn the wares they bought
@@ -101,7 +101,7 @@
 - Faramar has excellent bedside manners, walks over, and holds a knife to Valeries throat
 - we roll initiative but no attacks are made just yet
 - Wacomar casts Hypnotic Pattern so Dalynn and EotM don't interfere
-- Valerie says she did not know about the attack on Esmeralda
+- Valerie says she did not know about the attack on [Esmeralda](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Esmeralda%20von%20Mackenbach)
 - Faramar is unsure, but believes her
 - Andarin enter to break up the fight
 - They take our weapons but allow us to converse
@@ -118,7 +118,7 @@
 - Maximilliaan did not care about the assassination
 - Heinz supposedly knows nothing about Valeries traitorship
 
-+ Dalynn and EotM learn that Faramar is actually Fabian [von Mackenbach](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family), and Wacomar is actually Wanzel von Mackenbach
++ Dalynn and EotM learn that Faramar is actually Fabian von Mackenbach, and Wacomar is actually Wanzel von Mackenbach
 + Dalynn hugs them
 + EotM is angry about Wacomar casting a spell on him
 

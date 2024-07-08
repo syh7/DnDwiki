@@ -14,7 +14,7 @@
 - looks as if statue rose from the ground recently - maybe when we got 4 runes?
 - plague at foot of statue reads: "conquer air and you shall thrive"
 
-+ Fredrik climbs in a tree and jumps into lake to "conquer air"
++ [Fredrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) climbs in a tree and jumps into lake to "conquer air"
 + makes perfect dive so "conquers ocean"
 
 > "We have a wet pussy now." - Dalynn
@@ -66,7 +66,7 @@
 + bargain 2 featherfall potions + 650GP in exchange for helping them with the lotus
 
 - instructions:
-    - go to Shattered Rise (Öfakkös home)
+    - go to Shattered Rise ([Öfakkö](https://bookstack.hemels.me/books/Darninia/page/nenen#notable%20people)s home)
     - go through waterpods to stairs
     - go in the cave, left then right
     - maybe a right again?
@@ -108,7 +108,7 @@
 - Faramar stops Wacomar from touching the egg
 - A struggle ensues
 - Fredrik falls into a hole, drags Dalynn with him
-- Faramar casts Hold Person on Wacomar to allow him time to get [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) and Dalynn up
+- Faramar casts Hold Person on Wacomar to allow him time to get EotM and Dalynn up
 - get them up but Wacomar saves the Hold Person and touches the egg
 - rocks start falling down so we should run
 - get out until the stairs

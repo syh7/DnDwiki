@@ -13,7 +13,7 @@
 
 - Go to Speaks with Dogs
 
-> "Novellia sounds like a glamper" - Eveline
+> "[Novellia](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Ki-Rin%20Village) sounds like a glamper" - Eveline
 >
 > "Speaks with Dogs does not. Cuddles with Chihuahuas would be better" - Frank
 
@@ -57,7 +57,7 @@
 + Beholder's lair is south to the city, near the beach
 + Beholders name is Ken and its job is beach
 
-- first go to library to catch up with Andarin
+- first go to library to catch up with [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin)
 - Guards hear us
 - roll initiative
 
@@ -71,7 +71,7 @@
 - Dalynn tries good cop
 - Faramar has to take over
 
-> "We're not here to make Casgrad angry with you, we're here to... make Casgrad angry with us" - Dalynn
+> "We're not here to make [Casgrad](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Casgrads%20Lair) angry with you, we're here to... make Casgrad angry with us" - Dalynn
 
 > "Ik was ze koelbloedig aan 't bedreigen, ik hoef niet af te koelen" - Frank
 
@@ -84,8 +84,8 @@
 + Put them on elk to carry them
 
 - Arrive at library
-- Saphra takes care of the guards
-- "Talk", to [the Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin)
+- [Saphra](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Hofo%20Sgoma) takes care of the guards
+- "Talk", to the Andarin
 - Catch em up on the curse removal
 - they're scared of the beholder
 
@@ -99,7 +99,7 @@
 
 + We get white with a dragon to win
 + dragon comes to life
-+ It's Shelby
++ It's [Shelby](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Hofo%20Sgoma)
 + Tell him our names
 
 > "There was a racial incident" - Wacomar

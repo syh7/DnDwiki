@@ -8,7 +8,7 @@
 >
 > "Of course not" - Eef
 
-- Fredrik throws yellow stone on the ground
+- [Fredrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) throws yellow stone on the ground
 - it breaks in two: it's a black stone with gold painted on
 - put both sacks in bag of holding
 
@@ -31,7 +31,7 @@
 + "Villains" also go there, but nobody knows what happens to them
 + they might be turned into elite guards
 
-- Andarin joined this world on the island
+- [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) joined this world on the island
 - built their first city there, it's now ruins
 - we need to go to the ruins
 
@@ -172,7 +172,7 @@
 + there are small clouds that form stairs and a bridge
 + when we step up on a cloud, it holds our weight
 
-- buff [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) as much as we can (Pass Without a Trace, Fly, Bless)
+- buff EotM as much as we can (Pass Without a Trace, Fly, Bless)
 - he enters alone
 - EotM sneakily flies in
 - grabs ruby
@@ -210,10 +210,10 @@
 + she is older than all of them
 + if they are created, she goes to say hi and try to keep them in check
 
-- Kora knows about Dorian, the brother of Boris
+- Kora knows about Dirion, the brother of Boris
 - Ancient wise panthers, can become 80/90 years
-- Dorian was caught by King Abigor
-- Boris may be controlled by Rhysand, so [the Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) are going to take a look
+- Dirion was caught by King Abigor
+- Boris may be controlled by Rhysand, so the Andarin are going to take a look
 
 + leave in 2 days on expedition
 + takes 1 week to get to Imna

@@ -1,7 +1,7 @@
 # Session 5 - black market and the sewers
 
 - Black market:
-- [Valerie](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family) just went into special door
+- [Valerie](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Valerie%20von%20Mackenbach) just went into special door
 - Guy looking important (+ smokes pipe)
     - Elf named Armado
     - wants to buy all 3 of us for 110 gold
@@ -54,7 +54,7 @@
 + leave for tavern
 
 - buy dress + tuxedo for [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) + [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris)
-- go to Mohuls place:
+- go to [Mohul](https://bookstack.hemels.me/books/Darninia/page/itron#notable%20people)s place:
 - tabaxi female here, Mohul is away but on his way
 - female brings tea
 - Mohul returns

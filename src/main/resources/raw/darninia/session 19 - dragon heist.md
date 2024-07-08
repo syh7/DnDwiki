@@ -210,9 +210,9 @@
 + she is older than all of them
 + if they are created, she goes to say hi and try to keep them in check
 
-- Kora knows about Dorian, the brother of Boris
+- Kora knows about Dirion, the brother of Boris
 - Ancient wise panthers, can become 80/90 years
-- Dorian was caught by King Abigor
+- Dirion was caught by King Abigor
 - Boris may be controlled by Rhysand, so the Andarin are going to take a look
 
 + leave in 2 days on expedition

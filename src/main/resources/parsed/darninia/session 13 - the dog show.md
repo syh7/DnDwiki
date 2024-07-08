@@ -74,7 +74,7 @@
 + back to Neuneun
 + long rest
 
-- go to Öfakkö
+- go to [Öfakkö](https://bookstack.hemels.me/books/Darninia/page/nenen#notable%20people)
 - give him the runes, he calls us amazing
 - not interested in Stormhorn street sign
 - head to Drowned cave

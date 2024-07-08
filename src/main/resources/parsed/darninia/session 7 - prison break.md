@@ -45,8 +45,8 @@
 - Noël places requests for jeweled weaponry
 
 + back to tavern, lunch
-+ find familiar van Frank: Smokey arrives!
-+ need to talk to Mohul, Cara, Armado
++ find familiar van Frank: [Smokey](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris##bkmrk-smokey) arrives!
++ need to talk to [Mohul](https://bookstack.hemels.me/books/Darninia/page/itron#notable%20people), Cara, Armado
 + first go to Mohul
 + tumult, lots of women with weapons
 + map of place with cells on table in the middle (prison?)
@@ -60,11 +60,11 @@
 
 - their organisation has safe houses, this is the biggest one
 - organisation: Sister tribe
-- want to protect Andarin
+- want to protect [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin)
 
 + Get told story:
 
-    - Long ago, there was another race: [the Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin).
+    - Long ago, there was another race: the Andarin.
     - They were the first humanoids in Darninia. Descendants from powerful celestials, some could change the sun.
     - This changed when king Abigor came into power 200 years ago.
     - History books say that he came into power 40 years ago, but the king before him is also Abigor. He is immortal.
@@ -135,7 +135,7 @@
     - certain items that are difficult to get
 - in return
     - try to bring down Aristocats
-    - bring support for [Plebs](https://bookstack.hemels.me/books/Darninia/page/the-voiceless)
+    - bring support for Plebs
     - magical binding to join
     - do assignments
 - it is possible to leave, but required magical oath of secrecy

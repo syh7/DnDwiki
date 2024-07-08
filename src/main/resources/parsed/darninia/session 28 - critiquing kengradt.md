@@ -16,7 +16,7 @@
 - Apparently small bad guys get sent here too
 
 + Hippo Fredrik goes to the beach to "hide" in the sea
-+ Shelby brings Rat in a Hat and Derek to the mountains and back
++ [Shelby](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Hofo%20Sgoma) brings Rat in a Hat and Derek to the mountains and back
 
 > "Derek, if you ever steal again, Shelby will find you" - Faramar
 >
@@ -51,7 +51,7 @@
 + Go further down to the pile of bodies
 + Encounter a cloaker
 + Beat it no problem
-+ Search through the pile of bodies for Saphras body
++ Search through the pile of bodies for [Saphra](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Hofo%20Sgoma)s body
 + Hear a large distant yawn
 + Search quicker
 
@@ -89,7 +89,7 @@
 
 > "You are like the party pet " - Loes over Wacomar
 
-- Fredrik insults Kengradt to draw attention
+- Fredrik insults [Kengradt](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Surroundings) to draw attention
 - Fredrik uses the feather of a roc to help
 - It works and summons a gargantuan roc that draws the attention
 

@@ -162,7 +162,7 @@
 - Red-haired woman turns around, it's not Iuna
 - Can't talk, also Andarin
 
-+ Woman is Saphra
++ Woman is [Saphra](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Hofo%20Sgoma)
 + Iuna was here, left 5 years ago
 + follow Saphra deeper in library
 + End up in childens section, with giant alphabet on wall
@@ -230,7 +230,7 @@
 + Nothing really happens.
 + Go to temple
 
-- Ask Goldilocks if he can show us where Speaks with Dogs is in the mountains
+- Ask [Goldilocks](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Ki-Rin%20Village) if he can show us where Speaks with Dogs is in the mountains
 - Shows us on a map
 - Warns us for creatures in forest
 - Says an actual Kirij lives in the Kirin HQ in the mountains

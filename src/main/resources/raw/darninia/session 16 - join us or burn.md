@@ -38,7 +38,7 @@
 > "De fire elemental is een sumo worstelaar" - Eef
 
 - roll iniative!
-- Hypnotic Pattern -s love <3
+- Hypnotic Pattern is love <3
 - everyone failed the save except 1 imp
 
 + fire burns less bright after defeating them

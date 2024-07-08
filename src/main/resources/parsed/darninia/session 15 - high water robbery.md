@@ -68,4 +68,4 @@
 
 - discuss plans
     - enter city to see if we can save people
-    - find out what happened to Armani + Mohul
+    - find out what happened to Armani + [Mohul](https://bookstack.hemels.me/books/Darninia/page/itron#notable%20people)

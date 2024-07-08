@@ -3,7 +3,7 @@
 - Go to mountains
 - Hide from cloakers
 
-- Fredrik makes Daramar draw a tarot card
+- [Fredrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) makes Daramar draw a tarot card
 - Four of Swords: heightened sense of activity and movement, ready to take on new challenges and opportunity
 
 - Should [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) accept becoming a wood elf?
@@ -15,7 +15,7 @@
 - Plants feel normal
 - Ignore this for now, Speaks with Dogs might know
 
-- [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) picks an apple and decides to take a bite
+- EotM picks an apple and decides to take a bite
 - A pixie comes out
 
 - Roll initiative
@@ -66,14 +66,14 @@
 - Go meet Pony of the Sky
 - Get permission to talk to Speak with Dogs
 - Says the evil is too big to be defeated by a mere ki-rin
-- We could help by defeating leader of elite guard: Gazgrad
+- We could help by defeating leader of elite guard: [Casgrad](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Casgrads%20Lair)
 
-- Says we need to perform a ritual on the body of Saphra to stop the curse
+- Says we need to perform a ritual on the body of [Saphra](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Hofo%20Sgoma) to stop the curse
 - The body is with a beholder
-- Cheng Ling says Gazgrad is on same power level as a beholder
+- Cheng Ling says Casgrad is on same power level as a beholder
 
 - Cloakers bring you to the beholder
-- The beholder decides if you die or get brought to Gazgrad
+- The beholder decides if you die or get brought to Casgrad
 
 - Possible plan:
     - Invisibility + Pass without Trace
@@ -93,7 +93,7 @@
 
 - Go talk to Speaks with Dogs
 - Empty hut but we were told to wait inside
-- Small human girl named Novellia drops from the ceiling
+- Small human girl named [Novellia](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Ki-Rin%20Village) drops from the ceiling
 
 - Says she is Speaks with Dogs
 - Can convert Faramar back if she can learn new magic in return
@@ -110,7 +110,7 @@
 
 - Go back to talk to Leopard
 - They have 3 locations left to check
-- Harpies will be too strong for Ki-rin
+- Harpies will be too strong for [Ki-rin](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Ki-Rin%20Village)
 - We go to one location, they to another
 - If they find them, they head back to get us
 - If we find them, we fight

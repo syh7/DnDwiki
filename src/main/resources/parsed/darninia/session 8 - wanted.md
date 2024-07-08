@@ -1,6 +1,6 @@
 # Session 8 - Wanted
 
-- Mohul says we are worthy of being cool
+- [Mohul](https://bookstack.hemels.me/books/Darninia/page/itron#notable%20people) says we are worthy of being cool
 - magic items are "lost" (next session)
 
 + trying to find a way to remove necklaces
@@ -9,7 +9,7 @@
 + put on by random guards at prison, so magic items were activated before
 + try to get a dagger in between,but lifting does not work
 
-- ancient [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) [Culo](https://bookstack.hemels.me/books/Darninia/page/culorianacora)herana joins the group
+- ancient [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) [Culoriana](https://bookstack.hemels.me/books/Darninia/page/culorianacora) joins the group
 - was captured under the mountain
 - says documents are not beneath the mountain nor on or anywhwere near
 - hiding something about caves
@@ -21,11 +21,11 @@
 + After a high tide, there was no sound anymore
 
 - Caves are a living being, changing entrances at will
-- If we go to Neuneun, talk to old, blind aaracockra who was supposedly in the caved (named Öfakkö)
+- If we go to [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen), talk to old, blind aaracockra who was supposedly in the caved (named [Öfakkö](https://bookstack.hemels.me/books/Darninia/page/nenen#notable%20people))
 - to get to Neuneun, take boat from Öreö (also known as Orio)
 - Ölö got high on shrooms, bought magic items, got captured by guards
 
-+ [Nenen](https://bookstack.hemels.me/books/Darninia/page/nenen) has storm tunnel where it's always stormy
++ Nenen has storm tunnel where it's always stormy
 + Young aaracockra have to go through trials there to prove adulthood
 
 - boat arrives at Stormhorn

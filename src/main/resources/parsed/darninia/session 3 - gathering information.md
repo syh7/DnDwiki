@@ -24,7 +24,7 @@
 
 + winged serpent: blue snuffs
 + blue peacock feather: blue puffs
-+ windows sign (blue/red/yellowithgreen squares)
++ windows sign (blue/red/yellow/green squares)
 
 - Blue peacock has Darninian flags
 
@@ -52,10 +52,10 @@
 
 - Reveals meeting room
 - Human man, black clothing, friendly + serious face, gray hair
-- Mohul, friend of Flow of the River; do task for information
+- [Mohul](https://bookstack.hemels.me/books/Darninia/page/itron#notable%20people), friend of Flow of the River; do task for information
 
 + Voices:
-+ [Malarit](https://bookstack.hemels.me/books/Darninia/page/the-voiceless) is trying to take over canal village
++ Malarit is trying to take over canal village
 + Sign is quatl (flying serpent) then [Itron](https://bookstack.hemels.me/books/Darninia/page/itron) organisation of poor people, slaves
 + make money by selling tabaxi pelts
 + Given assignment:

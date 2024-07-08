@@ -59,11 +59,11 @@
 
 - Kindi is een goth chick
 - Kindi says not all royalty is bad
-- [King Abigor](https://bookstack.hemels.me/books/Darninia/page/king-abigor) has a son Felix/Fredericka
+- [King Abigor](https://bookstack.hemels.me/books/Darninia/page/king-abigor) has a son [Felix](https://bookstack.hemels.me/books/Darninia/page/king-abigor#son)/Fredericka
 - Felix was sent to the Oduin family
 - secretly taught slaves how to read
 - Kindi says Felix is weak and his father will convert him from good to bad
-- Felix goes by name of Magone, ancient Darninian for bear
+- Felix goes by name of [Magone](https://bookstack.hemels.me/books/Darninia/page/king-abigor#son), ancient Darninian for bear
 
 > "Kindi, I got a secret identity" - Frank as Felix
 

@@ -32,7 +32,7 @@
 + Say the unconscious guard is not part of them, we should kill them
 + De-nice bashes his head in with her mace
 
-- Guards are part of a not-rebellion Ki-rin
+- Guards are part of a not-rebellion [Ki-rin](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Ki-Rin%20Village)
 - Try to help people coming here and save them from the real guards
 - Say they will take us to a safe place and then after we rest we should leave
 
@@ -62,7 +62,7 @@
 
 + King decided to kill the hunters
 + Hunters decided to not die and free prisoners sent to Imna
-+ hunters are trying to kill Casgrad, leader of the elite guard
++ hunters are trying to kill [Casgrad](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Casgrads%20Lair), leader of the elite guard
 
 - The capital contains temple of Ki-rin and that hides it from monsters that prowl in the night
 
@@ -83,16 +83,16 @@
 
 + Long rest (or longer short rest)
 
-> "I bravely ran away " - Fredrik, aka "Sir Robin"
+> "I bravely ran away " - [Fredrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain), aka "Sir Robin"
 
 - Plan:
     - Go to capital.
     - Meet Ki-rin
     - Go to library to search for [Iuna](https://bookstack.hemels.me/books/Darninia/page/iuna)
 
-+ [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) asks if guards know about Iuna
++ EotM asks if guards know about Iuna
 + They do not
 + He describes her
-+ They say she is a ghost in the library ("Saffra")
++ They say she is a ghost in the library ("[Saffra](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Hofo%20Sgoma)")
 + He tells Kora
 + She is sad and mad

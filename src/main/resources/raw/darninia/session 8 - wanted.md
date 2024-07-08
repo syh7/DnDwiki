@@ -9,7 +9,7 @@
 + put on by random guards at prison, so magic items were activated before
 + try to get a dagger in between,but lifting does not work
 
-- ancient Andarin Culoherana joins the group
+- ancient Andarin Culoriana joins the group
 - was captured under the mountain
 - says documents are not beneath the mountain nor on or anywhwere near
 - hiding something about caves

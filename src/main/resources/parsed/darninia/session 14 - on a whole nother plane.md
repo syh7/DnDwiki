@@ -2,11 +2,11 @@
 
 - put runes in slows in the wall
 - entrance in the wall opens
-- Öfakkö does not join us in entering
+- [Öfakkö](https://bookstack.hemels.me/books/Darninia/page/nenen#notable%20people) does not join us in entering
 - he is not the chosen one
 - supposedly we all are
 
-+ Fredrik sneaks forward to scout
++ [Fredrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) sneaks forward to scout
 + Finds room with pillars, bookcases with books in Old Darninian and [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen) runes
 + pillars ahve roots around them that give off shadowy, smoky trails
 + also appearing and disappearing ghosts
@@ -45,7 +45,7 @@
 + suddenly we are in a different room
 + see a person in front of us
 + everyone sees a different persion:
-+ Faramar + Wacomar see Heinz [von Mackenbach](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family), he taunts them about their mom Esmeralda
++ Faramar + Wacomar see [Heinz](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family) von Mackenbach, he taunts them about their mom [Esmeralda](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Esmeralda%20von%20Mackenbach)
 + Fredrik sees tabaxi traders who are trying to trap him
 + Dalynn sees her betrothed Rowan who claims she is his
 
@@ -111,7 +111,7 @@
 - Henk enters a house in the forest
 
 + With Wacomars help, Faramar and Dalynn enter the house invisibly
-+ Wacomar + [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) stay outside
++ Wacomar + EotM stay outside
 + party is split up D:
 + Henk is not in the living room, quickly get the rest of the party inside
 + Henk is not in bedroom or kitchen either

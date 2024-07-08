@@ -5,7 +5,7 @@
     2. Rion is further away, but we have to get our own row boat
 
 + [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) will be a cat
-+ Fredrik isn't wanted
++ [Fredrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) isn't wanted
 + [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) can discguise himself
 + Wacomar can get [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) through
 + So Orio should be safe
@@ -85,7 +85,7 @@
 + there's apparently a dragon there
 
 - group of school girls want to pet the tabaxi and Dandy
-- [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) swipes at them to scare them
+- EotM swipes at them to scare them
 - they run away to their teacher
 - "I told you that there's a lot of danger"
 
@@ -117,7 +117,7 @@
 + 120GP+leftover feathers for cloak with claws without talons
 + eventual deal: pay 325GP for a gold-inlaid cloak, any leftover feathers are for them
 
-- Öfakkö can be found at Rusty Talon in Neuneun
+- [Öfakkö](https://bookstack.hemels.me/books/Darninia/page/nenen#notable%20people) can be found at Rusty Talon in Neuneun
 
 + 2 ways from Stormhorn to Neuneun
 + marshy way

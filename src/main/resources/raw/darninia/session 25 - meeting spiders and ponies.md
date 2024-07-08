@@ -66,14 +66,14 @@
 - Go meet Pony of the Sky
 - Get permission to talk to Speak with Dogs
 - Says the evil is too big to be defeated by a mere ki-rin
-- We could help by defeating leader of elite guard: Gazgrad
+- We could help by defeating leader of elite guard: Casgrad
 
 - Says we need to perform a ritual on the body of Saphra to stop the curse
 - The body is with a beholder
-- Cheng Ling says Gazgrad is on same power level as a beholder
+- Cheng Ling says Casgrad is on same power level as a beholder
 
 - Cloakers bring you to the beholder
-- The beholder decides if you die or get brought to Gazgrad
+- The beholder decides if you die or get brought to Casgrad
 
 - Possible plan:
     - Invisibility + Pass without Trace

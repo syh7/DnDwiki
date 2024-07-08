@@ -6,7 +6,7 @@
 
 > "Guys lets focus: last week with my OV-card" - Eef
 
-- Wacanar + EotM had nightmares
+- Wacomar + EotM had nightmares
 - Faramar couldn't focus
 - Dalynn had no trouble
 
@@ -151,7 +151,7 @@
 - Ghostly apparition of lich appears
 - Speeches to us
 - Says he captured the Andarin
-- His name is Casgradt
+- His name is Casgrad
 
 + !!!
 

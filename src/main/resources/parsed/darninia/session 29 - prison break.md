@@ -1,19 +1,19 @@
 # Session 29 - Prison Break
 
-> "Shelby is basically an airplane" - Frank
+> "[Shelby](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Hofo%20Sgoma) is basically an airplane" - Frank
 
 > "Let's go full throatle" - Frank
 
 > "Guys lets focus: last week with my OV-card" - Eef
 
-- Wacanar + [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) had nightmares
+- [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) + [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) had nightmares
 - [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) couldn't focus
 - [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) had no trouble
 
 > "I think I like arson" - Jace
 
 - Fredrik counts the gold: 350 GP
-- [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) goes to meet Novellia to try and get help with spell ingredients
+- Wacomar goes to meet [Novellia](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Ki-Rin%20Village) to try and get help with spell ingredients
 - Novellia wears 4 pairs of glasses
 
 > "I am not into humans" - Novellia
@@ -151,7 +151,7 @@
 - Ghostly apparition of lich appears
 - Speeches to us
 - Says he captured [the Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin)
-- His name is Casgradt
+- His name is [Casgrad](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Casgrads%20Lair)
 
 + !!!
 

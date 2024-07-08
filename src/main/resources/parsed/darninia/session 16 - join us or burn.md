@@ -10,7 +10,7 @@
 + almost a war scene, houses and beams falling down amidst flames
 + city is on fire
 
-- go to Mohuls place, ignore Armani because he doesn't like tabaxi
+- go to [Mohul](https://bookstack.hemels.me/books/Darninia/page/itron#notable%20people)s place, ignore Armani because he doesn't like tabaxi
 - on our way see fire-resistant creatures running around
 - they look like they're spreadiung it
 - while going over the bridge over the canal, Wacomar drenches us in water
@@ -38,7 +38,7 @@
 > "De fire elemental is een sumo worstelaar" - Eef
 
 - roll iniative!
-- Hypnotic Pattern -s love <3
+- Hypnotic Pattern is love <3
 - everyone failed the save except 1 imp
 
 + fire burns less bright after defeating them
@@ -134,7 +134,7 @@
 - Dalynn is brought to an altar room
 - gets guided through a cave system
 - in the infirmary, see people that are not part of the andarin
-- including [Valerie](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family) von Mackanbach!
+- including [Valerie](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Valerie%20von%20Mackenbach) von Mackanbach!
 
 + the group gets brought to Dalynn
 
