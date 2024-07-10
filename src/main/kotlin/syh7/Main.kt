@@ -20,7 +20,7 @@ fun main() {
 
     val bookName = "Darninia"
 
-//    refreshCache(bookName)
+    refreshCache(bookName)
 
     log("Starting handling book $bookName")
     val bookSetup = getBookSetup(bookName)

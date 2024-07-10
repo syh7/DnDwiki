@@ -7,6 +7,7 @@ import syh7.util.lowerLogOffset
 import syh7.util.upLogOffset
 import java.nio.file.Path
 import java.nio.file.Paths
+import java.util.regex.Pattern
 import kotlin.io.path.*
 
 class ParseService {
@@ -45,45 +46,18 @@ class ParseService {
 
     private fun replaceTagsInBody(tagMap: TagMap, body: String): String {
         var editableBody = body
-
-        // original, replaces Tristan for Trista
-        tagMap.tags.map { body.indexOf(it, ignoreCase = true) to it }
-            .filter { (index, _) -> index != -1 }
-            .minByOrNull { it.first }
-            ?.let { (_, tag) -> editableBody = editableBody.replaceFirst(tag, "[$tag](${tagMap.url})") }
-
-        // has problem with Öfakkö
-//        tagMap.tags.map { ("\\b$it\\b").toRegex() to it }
-//            .map { (regex, tag) -> regex.find(body) to tag }
-//            .filter { (match, _) -> match != null }
-//            .minByOrNull { (match, _) -> match!!.range.first }
-//            ?.let { (_, tag) -> editableBody = editableBody.replaceFirst(tag, "[$tag](${tagMap.url})") }
-
-
-        // only does it on whitespace characters (so no (name) )
-//        tagMap.tags
-//            .map {
-//                val pattern = Pattern.compile("(\\s)($it)(\\s)")
-//                val matcher = pattern.matcher(editableBody)
-//                matcher to it
-//            }
-//            .filter { (matcher, tag) -> matcher.find() }
-//            .minByOrNull { (matcher, tag) -> matcher.start() }
-//            ?.let { (matcher, tag) -> editableBody = matcher.replaceFirst("$1[$tag](${tagMap.url})$3") }
-
-        // still trouble with some ():;
-//        tagMap.tags
-//            .map {
-//                val pattern = Pattern.compile("(\\s|\\b)($it)(\\s|\\b)")
-//                val matcher = pattern.matcher(editableBody)
-//                matcher to it
-//            }
-//            .filter { (matcher, tag) -> matcher.find() }
-//            .minByOrNull { (matcher, tag) -> matcher.start() }
-//            ?.let { (matcher, tag) -> editableBody = matcher.replaceFirst("$1[$tag](${tagMap.url})$3") }
-
+        tagMap.tags
+            .map {
+                val matcher = createPattern(it).matcher(editableBody)
+                matcher to it
+            }
+            .filter { (matcher, _) -> matcher.find() }
+            .minByOrNull { (matcher, _) -> matcher.start() }
+            ?.let { (matcher, tag) -> editableBody = matcher.replaceFirst("$1[$tag](${tagMap.url})$3") }
         return editableBody
     }
+
+    fun createPattern(it: String): Pattern = Pattern.compile("(?U)(?i)(\\b)($it)(\\b)")
 
     private fun writeFile(path: Path, sessionText: String): HandledSession {
         val state: SessionState
