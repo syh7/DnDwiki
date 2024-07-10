@@ -13,7 +13,7 @@
 - was captured under the mountain
 - says documents are not beneath the mountain nor on or anywhwere near
 - hiding something about caves
-- does not know anything baout cave of the wailing drowned
+- does not know anything baout [Cave of the wailing drowned](https://bookstack.hemels.me/books/Darninia/page/nenen#cave%20of%20the%20wailing%20drowned)
 - Aaracockra "Ölö" joins, says there is a legend about the cave:
 
 + A child was lost in the caves, kept crying.
@@ -80,7 +80,7 @@
 - after a bit, Armani arrives
 - go to his office
 - tell him no, only warm connection
-- other cities know of [Trista](https://bookstack.hemels.me/books/Darninia/page/trista)n Sailsword
+- other cities know of Tristan Sailsword
 
 + go to Laurence
 + guards are hanging up signs: "Wanted: human, half-elf, woman, Mohul"

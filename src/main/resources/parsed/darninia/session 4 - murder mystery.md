@@ -8,7 +8,7 @@
 - door outside of Bazaar too;
 - human woman Karma, blond hair, 30s;
 - back room,no windows, one door;
-- dead body in the middle; [Trista](https://bookstack.hemels.me/books/Darninia/page/trista)n
+- dead body in the middle; Tristan
 - Tristan Sailsword, human, talked to Buick Maza;
 - Tristan = master of guild hall;
 - high guy in [Malarit](https://bookstack.hemels.me/books/Darninia/page/the-voiceless)/The Voices (Voiceless?)
@@ -49,9 +49,9 @@
 
 + Crossed Deck inn:
 + uncommon to take slaves along
-+ Frank has an amazing, horrible accent (FIRST APPEARANCE OF THOMAS!!!)
++ Frank has an amazing, horrible accent (FIRST APPEARANCE OF [Thomas](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris#Thomas%20"the%20Treasurer"%20Tancus%20Enginius%20the%20First%20(of%20Many))!!!)
 + Faramar + Dalynn to backroom with 3 other slaves
-+ "[Thomas](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris#Thomas%20"the%20Treasurer"%20Tancus%20Enginius%20the%20First%20(of%20Many))" + "Ears of the Mountain" go play dice with traders
++ "Thomas" + "Ears of the Mountain" go play dice with traders
 + Backroom:
 + TweedleTwee + TweedleDumb (human + dwarf) are slaves of master Hector
 + Might want to send a message in exchange for something (prob woman)
@@ -66,7 +66,7 @@
     - upper (entrance) level has stalls for most stuff
     - stream with two bridges, but fenced with doors at the bridges
 
-+ VALERIE IS HERE!
++ [Valerie](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Valerie%20von%20Mackenbach) IS HERE!
 + Walked in through another door and immediately walks out over stream
 
 - doors are for privileged people

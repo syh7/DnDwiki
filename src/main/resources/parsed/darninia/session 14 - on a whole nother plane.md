@@ -157,7 +157,7 @@
 + people worshipping everywhere
 + no one responds to him
 + tries walking around but further away from the alter it gets hazy
-+ sees andarin symbol on the altar
++ sees [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) symbol on the altar
 
 - Öfakkö says we had the "challenge of Kalaaf"
 - why didn't he warn us?!

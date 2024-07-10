@@ -66,7 +66,7 @@
 
     - Long ago, there was another race: the Andarin.
     - They were the first humanoids in Darninia. Descendants from powerful celestials, some could change the sun.
-    - This changed when king Abigor came into power 200 years ago.
+    - This changed when [King Abigor](https://bookstack.hemels.me/books/Darninia/page/king-abigor) came into power 200 years ago.
     - History books say that he came into power 40 years ago, but the king before him is also Abigor. He is immortal.
     - He is scared of the Andarin and convinced all races to revolt against the Andarin, killing most of them. Only a few survived.
     - Abigor installed a Mythal-spell, creating a new history with a new god, Eureka. He stol the spell from "us".
@@ -86,7 +86,7 @@
 + captured by adventurers in a cave system - they are the witches we heard about before
 + one of the captured, [Culoriana](https://bookstack.hemels.me/books/Darninia/page/culorianacora), is an original Andarin, one of three who survived
 
-- they are considering joining the voiceless
+- they are considering joining [the Voiceless](https://bookstack.hemels.me/books/Darninia/page/the-voiceless)
 - sister tribe = 40ish people
 
 + the hald broken flute from Dalynn is the flute of [Iuna](https://bookstack.hemels.me/books/Darninia/page/iuna)
@@ -134,7 +134,7 @@
     - easier travel
     - certain items that are difficult to get
 - in return
-    - try to bring down Aristocats
+    - try to bring down [aristocats](https://bookstack.hemels.me/books/Darninia/page/the-blue-puffs)
     - bring support for Plebs
     - magical binding to join
     - do assignments

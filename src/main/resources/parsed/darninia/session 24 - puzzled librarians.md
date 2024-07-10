@@ -2,7 +2,7 @@
 
 > "Ik ben de kring oudste" - Eveline
 
-- Guards/Kirin warn us for "Cloakers"
+- Guards/[kirin](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Ki-Rin%20Village) warn us for "Cloakers"
 - They shriek and confuse you, making you run out in the open and easy prey
 - Kirin have ear plugs
 - [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) and [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) loot dead guards for more ear plugs

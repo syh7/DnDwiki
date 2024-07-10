@@ -30,8 +30,8 @@
 - Has a job for us:
 - some people wronged him + friends, he's in a discussion with people about prices,
 - wants revenge but cannot do it himself, wants 2 things stolen
-- party at mansion in canal village, blue peacock feather
-- Von Mackenbach will be there, also Mayors son Eniores Iaran + Ando Iaran
+- party at mansion in [Canal Village](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-canal-village%2C-expen), blue peacock feather
+- [von Mackenbach](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family) will be there, also Mayors son Eniores Iaran + Ando Iaran
 
 + important people at party:
     - someone from Mackenbach
@@ -54,7 +54,7 @@
 + leave for tavern
 
 - buy dress + tuxedo for [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) + [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris)
-- go to [Mohul](https://bookstack.hemels.me/books/Darninia/page/itron#notable%20people)s place:
+- go to [Mohul](https://bookstack.hemels.me/books/Darninia/page/itron#notable%20people)'s place:
 - tabaxi female here, Mohul is away but on his way
 - female brings tea
 - Mohul returns

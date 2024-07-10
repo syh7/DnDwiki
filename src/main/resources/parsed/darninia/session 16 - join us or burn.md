@@ -10,7 +10,7 @@
 + almost a war scene, houses and beams falling down amidst flames
 + city is on fire
 
-- go to [Mohul](https://bookstack.hemels.me/books/Darninia/page/itron#notable%20people)s place, ignore Armani because he doesn't like tabaxi
+- go to Mohuls place, ignore Armani because he doesn't like tabaxi
 - on our way see fire-resistant creatures running around
 - they look like they're spreadiung it
 - while going over the bridge over the canal, Wacomar drenches us in water
@@ -45,13 +45,13 @@
 + hear dull thumping and fire extinguishes
 + see man on wall of second district thumping their cane on the wall
 + amazing perception check
-+ man has a blue peacock feather, and the Von Mackenbach sign
++ man has a blue peacock feather, and the [von Mackenbach](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family) sign
 + old, white man
 + maybe [Heinz](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Heinz%20von%20Mackenbach)?
 
-- all of canal village has burned down
-- move towards Mohul
-- artists district is mostly undamaged, but some edges are burned
+- all of [Canal Village](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-canal-village%2C-expen) has burned down
+- move towards [Mohul](https://bookstack.hemels.me/books/Darninia/page/itron#notable%20people)
+- [Artists District](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-artists-district%2C-th) is mostly undamaged, but some edges are burned
 
 + Mohuls pavilion is blackened but stone so mostly okay
 + the wooden buildings around it are burned down
@@ -133,7 +133,7 @@
 
 - Dalynn is brought to an altar room
 - gets guided through a cave system
-- in the infirmary, see people that are not part of the andarin
+- in the infirmary, see people that are not part of [the Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin)
 - including [Valerie](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Valerie%20von%20Mackenbach) von Mackanbach!
 
 + the group gets brought to Dalynn
@@ -142,7 +142,7 @@
 
 + get brought to altar room
 + Dalynn is brought in front of Kora, in front of the altar
-+ swears secrecy (ha!) and to bring the Documents to [the Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) and always be kind to Andarin - or die
++ swears secrecy (ha!) and to bring the Documents to the Andarin and always be kind to Andarin - or die
 + rest of the group does not have to swear a vow
 
 - go to Kora's office
@@ -166,7 +166,7 @@
 + real talk: Kora is organising a search for the rst of the Documents and wants us to join them
 + tells a story:
 
-- [Iuna](https://bookstack.hemels.me/books/Darninia/page/iuna) is a female Andarin, who stole the original Documents from king Abigor and was lost to history. The Andarin don't know where she is.
+- [Iuna](https://bookstack.hemels.me/books/Darninia/page/iuna) is a female Andarin, who stole the original Documents from [King Abigor](https://bookstack.hemels.me/books/Darninia/page/king-abigor) and was lost to history. The Andarin don't know where she is.
 - She hid the Documents before leaving, behind traps. The [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen) challenge sounds like here.
 - She can change appearances when she wants, but prefers red hair. Where she walks, flowers bloom.
 

@@ -49,7 +49,7 @@
 + EotM exchanges summoning books for subclass change
 + Will take three days
 
-- Talk to kirin Cheng Ling again
+- Talk to [kirin](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Ki-Rin%20Village) Cheng Ling again
 - Ask about the potion (rafika oil)
 
 + It's used to get people to tell secrets, so we should seek the interrogation chambers

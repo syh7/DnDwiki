@@ -23,7 +23,7 @@
 - people look at us 'cause we're not flying beasts
 - get 4 beers to fit in
 - Räkän likes Dandy, Dandy purrs
-- Räkän is Öfakkös nephew
+- Räkän is Öfakkö's nephew
 - Thomas calls Öfakkö a "wise old man"
 - Räkän repeats that to his brother and they both start laughing
 - they're not fans of Öfakkö
@@ -90,13 +90,13 @@
     1. Leugeus, go to cave towards Neuneun and go right
     2. Köping, on the other side of Neuneun
     3. Wennja, leave Stormhorn through exit not towards Neuneun
-    4. Keuneu, go down from Öfakkös place
+    4. Keuneu, go down from Öfakkö's place
     5. Berkenen, go to Keuneu and continue straight
     6. unnamed, attached to Wennja
     7. unnamed, attached to Köping
 
 - start with lake Keuneu
-- walk down rocky path from Öfakkös cave
+- walk down rocky path from Öfakkö's cave
 - there is a small plateau somewhere around the lake, it has the rune engraved on the floor
 - there is a puzzle: "he who controls fire, controls darkness"
 - on the plateau are two metal bowls with sticks and leaves in it

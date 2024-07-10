@@ -119,10 +119,10 @@
 - Valerie's disquise and cloak stop working
 - Wacomar re-casts disguise self
 - Stop at plateau at end of tracks.
-- Vladimir "You are not Valerie"
-- Wacomar "We Von Mackenbachs have secrets"
-- Vladimir " You are not Valerie"
-- Wacromar "I am the truest Von Mackenbach you have ever seen
+- Vladimir: "You are not Valerie"
+- Wacomar: "We Von Mackenbachs have secrets"
+- Vladimir: "You are not Valerie"
+- Wacromar: "I am the truest Von Mackenbach you have ever seen
 
 + There's a staircase going down in a misty cavern
 + Vladimir wants to send the mine cart back, says we can walk back

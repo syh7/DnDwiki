@@ -6,7 +6,7 @@
 + Have 2 rounds to heal before we enter the storm again
 
 - Storm catapults us on a beach on [Imna](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma)
-- Crash downs multiple andarin, incl [Kora](https://bookstack.hemels.me/books/Darninia/page/culorianacora)
+- Crash downs multiple [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin), incl [Kora](https://bookstack.hemels.me/books/Darninia/page/culorianacora)
 - Ship in 3 pieces.
 
 + Heal the downed people
@@ -30,7 +30,7 @@
 + Surrendered guards offer to help us
 + Say they are there to protect common people
 + Say the unconscious guard is not part of them, we should kill them
-+ De-nice bashes his head in with her mace
++ [De-nice](https://bookstack.hemels.me/books/Darninia/page/denisi) bashes his head in with her mace
 
 - Guards are part of a not-rebellion [Ki-rin](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Ki-Rin%20Village)
 - Try to help people coming here and save them from the real guards
@@ -51,7 +51,7 @@
 
 + Go meet up with Kora and [Mindi](https://bookstack.hemels.me/books/Darninia/page/mindi) who hid in dunes
 
-- Kora knows of kirin
+- Kora knows of [kirin](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Ki-Rin%20Village)
 - Guards say there are really dangerous enemies and creatures
 - Say we are safe in the desolated capital
 - Ki-rin is a celestial servant of good deities, seen as sign of good fortune
@@ -79,7 +79,7 @@
 + have to camp out here.
 
 - [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) teaches Faramar how to meditate
-- [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) offer medicinal herbs to trance
+- Andarin offer medicinal herbs to trance
 
 + Long rest (or longer short rest)
 

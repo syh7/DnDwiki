@@ -33,7 +33,7 @@
 - Wacomar stays with Faramar
 
 + Dalynn ritual casts Speak with Animals
-+ Mama of dandy-cub has been gone for a few days
++ Mama of [Dandy](https://bookstack.hemels.me/books/Darninia/page/dandy)-cub has been gone for a few days
 + we are new mamas
 + dandylions are herbivores and are ridiculously cute, with bulbs at the end of their tail that can get fluffy and petals that close around their head when they sleep
 
@@ -49,7 +49,7 @@
 + Wacomar gets 1 level of exhaustion
 
 - enter Orio
-- [Dandy](https://bookstack.hemels.me/books/Darninia/page/dandy) on Fredriks shoulder draws attention
+- Dandy on Fredrik's shoulder draws attention
 - Bilbo comes towards us and wants information about where we got Dandy, and its race
 - we tell nothing but ask about the ferry to [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen)
 - 10GP per person, and 5GP per pet
@@ -133,7 +133,7 @@
 
 + arrive in Neuneun
 + fully built for flying creatures
-+ has some ladders for the non-flying plebs (us)
++ has some ladders for the non-flying [Plebs](https://bookstack.hemels.me/books/Darninia/page/the-voiceless) (us)
 + big inn Magicians Refuge at base level
 + we arrive around 1800, so dinner first
 + enter Magicians Refuge

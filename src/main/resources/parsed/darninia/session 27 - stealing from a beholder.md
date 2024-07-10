@@ -138,7 +138,7 @@
 + Inside is a living human, cowering
 + At the same time, a scream sounds and then a thud
 + A human falls through the hole on top of the statue, Derek
-+ Human in chest is Hat of a Rat (a kirin)
++ Human in chest is Hat of a Rat (a [kirin](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Ki-Rin%20Village))
 + Other chest is filled with gold coins and 3 pink sapphires - yoink
 
 - In the meantime outside

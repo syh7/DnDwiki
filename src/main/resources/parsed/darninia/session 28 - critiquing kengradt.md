@@ -51,7 +51,7 @@
 + Go further down to the pile of bodies
 + Encounter a cloaker
 + Beat it no problem
-+ Search through the pile of bodies for [Saphra](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Hofo%20Sgoma)s body
++ Search through the pile of bodies for [Saphra](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Hofo%20Sgoma)'s body
 + Hear a large distant yawn
 + Search quicker
 

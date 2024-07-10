@@ -66,7 +66,7 @@
 + bargain 2 featherfall potions + 650GP in exchange for helping them with the lotus
 
 - instructions:
-    - go to Shattered Rise ([Öfakkö](https://bookstack.hemels.me/books/Darninia/page/nenen#notable%20people)s home)
+    - go to Shattered Rise ([Öfakkö](https://bookstack.hemels.me/books/Darninia/page/nenen#notable%20people)'s home)
     - go through waterpods to stairs
     - go in the cave, left then right
     - maybe a right again?

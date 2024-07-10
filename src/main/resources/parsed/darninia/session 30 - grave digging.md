@@ -5,7 +5,7 @@
 - Arrive at library
 - Only find the ghost of [Saphra](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Hofo%20Sgoma)
 - Says [Kora](https://bookstack.hemels.me/books/Darninia/page/culorianacora) and others were stolen.
-- Before burglary, the andarin deciphered that [Iuna](https://bookstack.hemels.me/books/Darninia/page/iuna) is in Daguria
+- Before burglary, [the Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) deciphered that [Iuna](https://bookstack.hemels.me/books/Darninia/page/iuna) is in Daguria
 
 + Talk about the curse
 + Saphra says she'll be here after undoing the curse
@@ -40,7 +40,7 @@
 
 > "This is not a democracy, this is a dictatorship" - Eveline
 
-- Decide to go to Kirin
+- Decide to go to [kirin](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Ki-Rin%20Village)
 - Get [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain)
 - Prepare for journey
 

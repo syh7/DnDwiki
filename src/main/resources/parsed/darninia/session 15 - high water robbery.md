@@ -1,11 +1,11 @@
 # Session 15 - High Water Robbery
 
 - on the boat
-- WAcomar searches for another dogshow
+- [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) searches for another dogshow
 - finds dogs but now show
 - [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) plays some darts against dragonborns
 - wins 30GP
-- they think [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris)+Faramar are in a gay relationship
+- they think Wacomar+Faramar are in a gay relationship
 - another win, 40GP because [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) joined
 - another win but they won't honour the bet
 - roll iniative!
@@ -57,13 +57,13 @@
 
 + back in carriage
 + get closer to Itron, see smoke arise
-+ smoke from east side, near canal village
++ smoke from east side, near [Canal Village](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-canal-village%2C-expen)
 + get dropped outside the city
 + east gate is shut, guards are actively piling stuff to try and keep something inside the city
 + hear people screaming
 + EotM climbs the wall and sees entire canal village is burning
 + people are trying to leave but east gate is closed
-+ fire is spreading to artists district
++ fire is spreading to [Artists District](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-artists-district%2C-th)
 + crowd wins and bursts through the gate
 
 - discuss plans

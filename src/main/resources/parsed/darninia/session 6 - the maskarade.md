@@ -10,7 +10,7 @@
 - unknown language, Elish script about:
     - [Iuna](https://bookstack.hemels.me/books/Darninia/page/iuna)
     - [Culoriana](https://bookstack.hemels.me/books/Darninia/page/culorianacora) (Culo = ablativus, Latijn voor kont)
-    - Sgeulachd tus an andarin:tuisan Iuna agus Culoriana
+    - Sgeulachd tus an [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin):tuisan Iuna agus Culoriana
 
 + not common/dwarvish/elvish/halfling/tabaxi
 + has map of Darninia in it
@@ -144,7 +144,7 @@
 + guards run away
 + commoners are behaving strangely, getting feathers and long ears and striped fur
 + including us
-+ aristocrats are going back up
++ [Aristocrats](https://bookstack.hemels.me/books/Darninia/page/the-blue-puffs) are going back up
 
 - Kara to Dalynn: kill Boner and curse will lift
 

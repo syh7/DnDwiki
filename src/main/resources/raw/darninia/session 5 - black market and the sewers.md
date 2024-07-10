@@ -54,7 +54,7 @@
 + leave for tavern
 
 - buy dress + tuxedo for Dalynn + Wacomar
-- go to Mohuls place:
+- go to Mohul's place:
 - tabaxi female here, Mohul is away but on his way
 - female brings tea
 - Mohul returns

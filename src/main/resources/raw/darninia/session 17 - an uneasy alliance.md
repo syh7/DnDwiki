@@ -27,7 +27,7 @@
 + Imperial bank offers loans (starting at 12%) to get people back on their feet
 + signs off with the name Ando Yaran
 
-- nomally only blue puffs can ge ta loan at the Imperial bank
+- nomally only blue puffs can get a loan at the Imperial bank
 - highly unusual situation
 - 12% is high but not super high for Darninia
 

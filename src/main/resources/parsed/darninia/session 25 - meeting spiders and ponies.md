@@ -45,7 +45,7 @@
 - EotM and Dalynn keep bickering
 
 - Find a small village at cross roads
-- Get surrounded by 6 Kirin
+- Get surrounded by 6 [kirin](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Ki-Rin%20Village)
     - Crashing Waves
     - Marks of Leopard
     - Swift as the Swallow
@@ -65,7 +65,7 @@
 
 - Go meet Pony of the Sky
 - Get permission to talk to Speak with Dogs
-- Says the evil is too big to be defeated by a mere ki-rin
+- Says the evil is too big to be defeated by a mere [Ki-rin](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Ki-Rin%20Village)
 - We could help by defeating leader of elite guard: [Casgrad](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Casgrads%20Lair)
 
 - Says we need to perform a ritual on the body of [Saphra](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Hofo%20Sgoma) to stop the curse
@@ -110,7 +110,7 @@
 
 - Go back to talk to Leopard
 - They have 3 locations left to check
-- Harpies will be too strong for [Ki-rin](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Ki-Rin%20Village)
+- Harpies will be too strong for Ki-rin
 - We go to one location, they to another
 - If they find them, they head back to get us
 - If we find them, we fight

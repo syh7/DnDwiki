@@ -49,7 +49,7 @@
 + Wacomar gets 1 level of exhaustion
 
 - enter Orio
-- Dandy on Fredriks shoulder draws attention
+- Dandy on Fredrik's shoulder draws attention
 - Bilbo comes towards us and wants information about where we got Dandy, and its race
 - we tell nothing but ask about the ferry to Neuneun
 - 10GP per person, and 5GP per pet

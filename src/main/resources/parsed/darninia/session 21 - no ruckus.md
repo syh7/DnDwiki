@@ -1,7 +1,7 @@
 # Session 21 - No ruckus
 
 - Everyone gets a side-kick
-    - Noel => Denice
+    - Noel => [Denice](https://bookstack.hemels.me/books/Darninia/page/denisi)
     - Frank => [Kindi](https://bookstack.hemels.me/books/Darninia/page/kindi)
     - Anneloes => [Mindi](https://bookstack.hemels.me/books/Darninia/page/mindi)
     - Sjoerd => [Trista](https://bookstack.hemels.me/books/Darninia/page/trista)
@@ -33,14 +33,14 @@
 + She was put in prison when she was discovered to be a witch
 + Kora got her out of prison break
 
-- Trista, [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) and faramar fix the boat
+- Trista, [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) and [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) fix the boat
 - Trista and Dalynn talk about the Forgotten Realms
 
 + While 2 days on boat to Dembé we learn Old Darninian
     - [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain): 3
     - Wacomar. 9
     - Dalynn: 18
-    - [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris): 19
+    - Faramar: 19
 
 - If we try to read Old Darninian, we roll a DC
 - DC is depended on above rolls
