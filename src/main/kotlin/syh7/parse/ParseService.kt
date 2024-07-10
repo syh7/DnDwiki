@@ -1,6 +1,7 @@
 package syh7.parse
 
 import syh7.bookstack.CompleteBookSetup
+import syh7.bookstack.TagMap
 import syh7.util.log
 import syh7.util.lowerLogOffset
 import syh7.util.upLogOffset
@@ -32,12 +33,7 @@ class ParseService {
 
 
                 var (title, body) = rawFilePath.readText().split("\n", limit = 2)
-                setup.tagUrlMap.forEach { (tags, url) ->
-                    tags.map { body.indexOf(it, ignoreCase = true) to it }
-                        .filter { (index, _) -> index != -1 }
-                        .minByOrNull { it.first }
-                        ?.let { (_, tag) -> body = body.replaceFirst(tag, "[$tag]($url)") }
-                }
+                setup.tagUrlMap.forEach { body = replaceTagsInBody(it, body) }
                 val fullText = "$title\n$body"
                 writeFile(parsedFilePath, fullText)
             }
@@ -45,6 +41,48 @@ class ParseService {
 
         lowerLogOffset()
         return newSessions
+    }
+
+    private fun replaceTagsInBody(tagMap: TagMap, body: String): String {
+        var editableBody = body
+
+        // original, replaces Tristan for Trista
+        tagMap.tags.map { body.indexOf(it, ignoreCase = true) to it }
+            .filter { (index, _) -> index != -1 }
+            .minByOrNull { it.first }
+            ?.let { (_, tag) -> editableBody = editableBody.replaceFirst(tag, "[$tag](${tagMap.url})") }
+
+        // has problem with Öfakkö
+//        tagMap.tags.map { ("\\b$it\\b").toRegex() to it }
+//            .map { (regex, tag) -> regex.find(body) to tag }
+//            .filter { (match, _) -> match != null }
+//            .minByOrNull { (match, _) -> match!!.range.first }
+//            ?.let { (_, tag) -> editableBody = editableBody.replaceFirst(tag, "[$tag](${tagMap.url})") }
+
+
+        // only does it on whitespace characters (so no (name) )
+//        tagMap.tags
+//            .map {
+//                val pattern = Pattern.compile("(\\s)($it)(\\s)")
+//                val matcher = pattern.matcher(editableBody)
+//                matcher to it
+//            }
+//            .filter { (matcher, tag) -> matcher.find() }
+//            .minByOrNull { (matcher, tag) -> matcher.start() }
+//            ?.let { (matcher, tag) -> editableBody = matcher.replaceFirst("$1[$tag](${tagMap.url})$3") }
+
+        // still trouble with some ():;
+//        tagMap.tags
+//            .map {
+//                val pattern = Pattern.compile("(\\s|\\b)($it)(\\s|\\b)")
+//                val matcher = pattern.matcher(editableBody)
+//                matcher to it
+//            }
+//            .filter { (matcher, tag) -> matcher.find() }
+//            .minByOrNull { (matcher, tag) -> matcher.start() }
+//            ?.let { (matcher, tag) -> editableBody = matcher.replaceFirst("$1[$tag](${tagMap.url})$3") }
+
+        return editableBody
     }
 
     private fun writeFile(path: Path, sessionText: String): HandledSession {
