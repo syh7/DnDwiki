@@ -33,7 +33,7 @@
 - Golden Veil
 
 - Destiny is talking to a man, Valador, husband, about "problems"
-- Man is owner Golden Veil + Lusty Leopard
+- Man is owner Golden Veil + [Lusty Leopard](https://bookstack.hemels.me/books/Darninia/page/itron#Middle%20Level)
 - holding blue peacock feather
 - blue peacocks killed someone without anyone knowing how or who
 

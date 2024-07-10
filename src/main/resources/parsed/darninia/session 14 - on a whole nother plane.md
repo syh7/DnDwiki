@@ -45,7 +45,7 @@
 + suddenly we are in a different room
 + see a person in front of us
 + everyone sees a different persion:
-+ Faramar + Wacomar see [Heinz](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family) von Mackenbach, he taunts them about their mom [Esmeralda](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Esmeralda%20von%20Mackenbach)
++ Faramar + Wacomar see [Heinz](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Heinz%20von%20Mackenbach) [von Mackenbach](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family), he taunts them about their mom [Esmeralda](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Esmeralda%20von%20Mackenbach)
 + Fredrik sees tabaxi traders who are trying to trap him
 + Dalynn sees her betrothed Rowan who claims she is his
 
@@ -221,7 +221,7 @@
 
 + go to Imperial Bank to have money counted and transformed to platinum pieces
 + they only handle stuff for members
-+ Wacomar as Thomas tries to open an account
++ Wacomar as [Thomas](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris#Thomas%20"the%20Treasurer"%20Tancus%20Enginius%20the%20First%20(of%20Many)) tries to open an account
 + give the chest while they are checking Thomas' identity
 + it doesn't check out
 + they want 100GP to count and convert it

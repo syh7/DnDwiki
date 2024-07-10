@@ -11,7 +11,7 @@
 - Hyraine village (ancient temple in empty lake)
 
 + Middle:
-+ Lusty Leopard (whore house/brothel)
++ [Lusty Leopard](https://bookstack.hemels.me/books/Darninia/page/itron#Middle%20Level) (whore house/brothel)
 
 - Artisans district:
 - Farmers market

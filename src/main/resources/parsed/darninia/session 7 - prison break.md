@@ -16,7 +16,7 @@
 
 - Split up
 - [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) stays, witing diary
-- Malaya + [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) go to [Lawrence](https://bookstack.hemels.me/books/Darninia/page/lorelianlaurence)
+- Nalaya + [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) go to [Lawrence](https://bookstack.hemels.me/books/Darninia/page/lorelianlaurence)
 - [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) + [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) go shopping for armour
 - Dalyan delivers letter
 
@@ -45,8 +45,8 @@
 - Noël places requests for jeweled weaponry
 
 + back to tavern, lunch
-+ find familiar van Frank: [Smokey](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris##bkmrk-smokey) arrives!
-+ need to talk to [Mohul](https://bookstack.hemels.me/books/Darninia/page/itron#notable%20people), Cara, Armado
++ find familiar van Frank: [Smokey](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris#Smokey) arrives!
++ need to talk to [Mohul](https://bookstack.hemels.me/books/Darninia/page/itron#notable%20people), Cara, [Armado](https://bookstack.hemels.me/books/Darninia/page/the-voiceless#Notable%20followers)
 + first go to Mohul
 + tumult, lots of women with weapons
 + map of place with cells on table in the middle (prison?)

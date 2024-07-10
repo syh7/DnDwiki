@@ -24,7 +24,7 @@
 - get 4 beers to fit in
 - Räkän likes [Dandy](https://bookstack.hemels.me/books/Darninia/page/dandy), Dandy purrs
 - Räkän is [Öfakkö](https://bookstack.hemels.me/books/Darninia/page/nenen#notable%20people)s nephew
-- Thomas calls Öfakkö a "wise old man"
+- [Thomas](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris#Thomas%20"the%20Treasurer"%20Tancus%20Enginius%20the%20First%20(of%20Many)) calls Öfakkö a "wise old man"
 - Räkän repeats that to his brother and they both start laughing
 - they're not fans of Öfakkö
 - say that the cave story is a childrens horror story, to prevent children from entering the caves

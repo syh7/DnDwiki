@@ -15,7 +15,7 @@
 + not common/dwarvish/elvish/halfling/tabaxi
 + has map of Darninia in it
 
-- Suddenly Armado walks in
+- Suddenly [Armado](https://bookstack.hemels.me/books/Darninia/page/the-voiceless#Notable%20followers) walks in
 - pretend there were no monsters
 - EotM hides underneath table, but fails to do so
 - wants us to leave

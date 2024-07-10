@@ -61,7 +61,7 @@
 - does not have proof of living/working there
 - gets turned away emptyhanded
 
-+ "Thomas" is next
++ "[Thomas](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris#Thomas%20"the%20Treasurer"%20Tancus%20Enginius%20the%20First%20(of%20Many))" is next
 + They recognize him and say he already has an account
 + created way back when we were in Neuneun
 + says we should go to the main office
@@ -89,7 +89,7 @@
 
 > "Girl, you are a coward" - Valerie to Dalynn, because Dalynn left her lover at home
 
-- Valerie said [Heinz](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family) is responsible for the burning
+- Valerie said [Heinz](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Heinz%20von%20Mackenbach) is responsible for the burning
 
 + Party arrives at the Andarin hideout
 + go to Dalynn in the infirmary
@@ -118,7 +118,7 @@
 - Maximilliaan did not care about the assassination
 - Heinz supposedly knows nothing about Valeries traitorship
 
-+ Dalynn and EotM learn that Faramar is actually Fabian von Mackenbach, and Wacomar is actually Wanzel von Mackenbach
++ Dalynn and EotM learn that Faramar is actually Fabian [von Mackenbach](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family), and Wacomar is actually Wanzel von Mackenbach
 + Dalynn hugs them
 + EotM is angry about Wacomar casting a spell on him
 

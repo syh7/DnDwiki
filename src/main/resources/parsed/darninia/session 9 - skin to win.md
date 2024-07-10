@@ -67,7 +67,7 @@
 | Wacomar | 10 + 2 + 20 | 32     |
 | Fredrik | 11 + 6 + 10 | 27     |
 
-- Wacomar transforms from Fernando to Thomas
+- Wacomar transforms from Fernando to [Thomas](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris#Thomas%20"the%20Treasurer"%20Tancus%20Enginius%20the%20First%20(of%20Many))
 - Get ferry tickets for Avian Ferry, show IDs
 - leaves at 5PM, will arrive at Stormhorn at 11AM
 

@@ -16,7 +16,7 @@
 
 - Split up
 - Wacomar stays, witing diary
-- Malaya + Dalynn go to Lawrence
+- Nalaya + Dalynn go to Lawrence
 - EotM + Faramar go shopping for armour
 - Dalyan delivers letter
 

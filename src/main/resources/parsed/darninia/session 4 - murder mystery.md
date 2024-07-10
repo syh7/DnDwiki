@@ -4,7 +4,7 @@
 - bathing house
 - nursing home
 - Grand Bazaar; can buy anything; entrance fee of 5 gp; church next/in it
-- Lusty Leopard inside Bazaar;
+- [Lusty Leopard](https://bookstack.hemels.me/books/Darninia/page/itron#Middle%20Level) inside Bazaar;
 - door outside of Bazaar too;
 - human woman Karma, blond hair, 30s;
 - back room,no windows, one door;
@@ -51,7 +51,7 @@
 + uncommon to take slaves along
 + Frank has an amazing, horrible accent (FIRST APPEARANCE OF THOMAS!!!)
 + Faramar + Dalynn to backroom with 3 other slaves
-+ "Thomas" + "Ears of the Mountain" go play dice with traders
++ "[Thomas](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris#Thomas%20"the%20Treasurer"%20Tancus%20Enginius%20the%20First%20(of%20Many))" + "Ears of the Mountain" go play dice with traders
 + Backroom:
 + TweedleTwee + TweedleDumb (human + dwarf) are slaves of master Hector
 + Might want to send a message in exchange for something (prob woman)

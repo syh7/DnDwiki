@@ -47,7 +47,7 @@
 + amazing perception check
 + man has a blue peacock feather, and the Von Mackenbach sign
 + old, white man
-+ maybe Heinz?
++ maybe [Heinz](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Heinz%20von%20Mackenbach)?
 
 - all of canal village has burned down
 - move towards Mohul

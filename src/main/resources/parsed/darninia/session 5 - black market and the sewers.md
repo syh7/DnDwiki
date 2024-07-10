@@ -3,7 +3,7 @@
 - Black market:
 - [Valerie](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Valerie%20von%20Mackenbach) just went into special door
 - Guy looking important (+ smokes pipe)
-    - Elf named Armado
+    - Elf named [Armado](https://bookstack.hemels.me/books/Darninia/page/the-voiceless#Notable%20followers)
     - wants to buy all 3 of us for 110 gold
     - Opens door to sewer system to discuss more privately
     - dark place, random goods around
@@ -50,7 +50,7 @@
 + new password for next 2 days: Buick Maza
 + could get permanent permits if we also pledge to [Malarit](https://bookstack.hemels.me/books/Darninia/page/the-voiceless)
 + be aware that we need to be dressed correctly for party
-+ Invitations for Elena + Fulmar Perkan on behalf of Heinz Mackenbach + Mayor
++ Invitations for Elena + Fulmar Perkan on behalf of [Heinz](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Heinz%20von%20Mackenbach) Mackenbach + Mayor
 + leave for tavern
 
 - buy dress + tuxedo for [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) + [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris)
