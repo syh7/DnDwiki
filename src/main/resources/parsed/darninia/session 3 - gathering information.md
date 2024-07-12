@@ -59,7 +59,6 @@
 + Sign is quatl (flying serpent) then [Itron](https://bookstack.hemels.me/books/Darninia/page/itron) organisation of poor people, slaves
 + make money by selling tabaxi pelts
 + Given assignment:
-
     1. go to trading post of Malarit
     2. create sketch of layout
     3. possibly kill

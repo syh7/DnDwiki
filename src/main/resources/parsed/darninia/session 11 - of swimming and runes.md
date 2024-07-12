@@ -64,4 +64,4 @@
 + 3 hyena's, some random camp stuff
 + grab 15 smoked steaks and let hyena's live
 + go back to camp, along the way take gnoll boss body to practice skinning
-+ Fredrik shoots 1 deer, Dalynn+Fredrik go back to camp
++ Frederik shoots 1 deer, Dalynn+Frederik go back to camp

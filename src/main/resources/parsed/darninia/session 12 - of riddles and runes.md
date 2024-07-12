@@ -14,7 +14,7 @@
 - looks as if statue rose from the ground recently - maybe when we got 4 runes?
 - plague at foot of statue reads: "conquer air and you shall thrive"
 
-+ [Fredrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) climbs in a tree and jumps into lake to "conquer air"
++ [Frederik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) climbs in a tree and jumps into lake to "conquer air"
 + makes perfect dive so "conquers ocean"
 
 > "We have a wet pussy now." - Dalynn
@@ -89,8 +89,8 @@
 - find room with sphinx and room floored with tiles with runes
 - find paper with conversion from runes <-> arabian
 - sphinx plague reads: "sphinx of black quarts, judge my vow: 10-7-18-21-1"
-- Fredrik just tries tiles and steps on the wrong tile
-- Fredrik jumps away on time
+- Frederik just tries tiles and steps on the wrong tile
+- Frederik jumps away on time
 - tile falls in a deep dark pit
 - orange tiles are not accepted?
 
@@ -107,19 +107,19 @@
 
 - Faramar stops Wacomar from touching the egg
 - A struggle ensues
-- Fredrik falls into a hole, drags Dalynn with him
+- Frederik falls into a hole, drags Dalynn with him
 - Faramar casts Hold Person on Wacomar to allow him time to get EotM and Dalynn up
 - get them up but Wacomar saves the Hold Person and touches the egg
 - rocks start falling down so we should run
 - get out until the stairs
-- Wacomar tries to open the egg, Fredrik and Faramar tackle him, egg falls down the stairs
+- Wacomar tries to open the egg, Frederik and Faramar tackle him, egg falls down the stairs
 - Wacomar Misty Steps
 - Faramar Misty Steps
 - Wacomar Suggests Faramar should let him go, but Faramar resists (silly suggestion anyway)
 - Wacomar gets tied up, drag him upstairs
 - Faramar gets the egg
 - Wacomer uses Telepathy to tell everyone he wants the egg
-- Fredrik knocks him out
+- Frederik knocks him out
 
 + Dalynn investigates the egg (arcana check)
 + It is magic from the transmutation schoo
@@ -148,7 +148,7 @@
 
 - Wacomar waks up after getting the herb mixture
 - Faramar tries to hide the egg from Öfakkö, but he sees through the deception
-- Fredrik tells about the egg
+- Frederik tells about the egg
 
 + we need to find the fifth rune to get in the cae
 + we need to find the lotus in the cave to get feather fall for the fifth rune

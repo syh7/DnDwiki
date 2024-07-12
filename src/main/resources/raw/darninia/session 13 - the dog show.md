@@ -40,7 +40,7 @@
 - in the meantime in Stormhorn
 - go to Bassie's
 - quasit skins are hard to sell :(
-- Fredrik snatches some pink cat ears
+- Frederik snatches some pink cat ears
 
 + in the meantime at the dogshow
 + order of exercices:

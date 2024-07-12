@@ -5,7 +5,7 @@
     2. Rion is further away, but we have to get our own row boat
 
 + Dalynn will be a cat
-+ Fredrik isn't wanted
++ Frederik isn't wanted
 + Wacomar can discguise himself
 + Wacomar can get Faramar through
 + So Orio should be safe
@@ -18,16 +18,16 @@
 - Dalynn has last watch
 - hears creature make terrified sound
 - also hear bird make sound
-- wakes up Fredrik, then runs toward sound
-- Fredrik wakes up Wacomar and Faramar
+- wakes up Frederik, then runs toward sound
+- Frederik wakes up Wacomar and Faramar
 - Dalynn encounters 2 griphons encircling a very sweet, small dandylion
-- Fredrik follows Dalynn
+- Frederik follows Dalynn
 - Faramar is following the sound, hand-in-hand with night-blind Wacomar
 
 + Dalynn wants to protect the dandylion, so fight!
 + Windwall does not keep out griphons
 
-- Fredrik runs to camp with dandylion
+- Frederik runs to camp with dandylion
 - Dalynn follows
 - Faramar skins the griphons
 - Wacomar stays with Faramar
@@ -49,7 +49,7 @@
 + Wacomar gets 1 level of exhaustion
 
 - enter Orio
-- Dandy on Fredrik's shoulder draws attention
+- Dandy on Frederik's shoulder draws attention
 - Bilbo comes towards us and wants information about where we got Dandy, and its race
 - we tell nothing but ask about the ferry to Neuneun
 - 10GP per person, and 5GP per pet
@@ -61,11 +61,11 @@
 - they will have a darts tournament for 5 days
 - play a game:
 
-| Player  | roll 1      | result |
-|---------|-------------|--------|
-| Faramar | 10 + 6 + 20 | 36     |
-| Wacomar | 10 + 2 + 20 | 32     |
-| Fredrik | 11 + 6 + 10 | 27     |
+| Player   | roll 1      | result |
+|----------|-------------|--------|
+| Faramar  | 10 + 6 + 20 | 36     |
+| Wacomar  | 10 + 2 + 20 | 32     |
+| Frederik | 11 + 6 + 10 | 27     |
 
 - Wacomar transforms from Fernando to Thomas
 - Get ferry tickets for Avian Ferry, show IDs

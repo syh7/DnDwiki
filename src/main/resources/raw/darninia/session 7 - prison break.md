@@ -63,7 +63,6 @@
 - want to protect Andarin
 
 + Get told story:
-
     - Long ago, there was another race: the Andarin.
     - They were the first humanoids in Darninia. Descendants from powerful celestials, some could change the sun.
     - This changed when king Abigor came into power 200 years ago.

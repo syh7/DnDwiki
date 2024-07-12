@@ -33,8 +33,10 @@
 + fought with 3 guys
 + caught by guards
 + Dalynn transformed into a ~house~ mouse, Faramar and Wacomar escaped in the confusion
-+ Eye of the Mountain got letters in Buicks house; one apology from Andrea (wife); bank statements; and unreadable mess
-  with blue peacock at the top
++ Eye of the Mountain got letters in Buicks house
+    + one apology from Andrea (wife)
+    + bank statements
+    + an unreadable mess with blue peacock at the top
 
 - Market in lower district
 - Dorasto's has store with theatre stuff, hair dyes

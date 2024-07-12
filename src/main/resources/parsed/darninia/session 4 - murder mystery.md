@@ -33,8 +33,10 @@
 + fought with 3 guys
 + caught by guards
 + [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) transformed into a ~house~ mouse, [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) and [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) escaped in the confusion
-+ [Eye of the Mountain](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) got letters in Buicks house; one apology from Andrea (wife); bank statements; and unreadable mess
-  with blue peacock at the top
++ [Eye of the Mountain](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) got letters in Buicks house
+    + one apology from Andrea (wife)
+    + bank statements
+    + an unreadable mess with blue peacock at the top
 
 - Market in lower district
 - Dorasto's has store with theatre stuff, hair dyes

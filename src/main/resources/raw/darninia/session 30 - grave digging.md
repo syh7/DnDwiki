@@ -110,13 +110,13 @@
 - natural 1 insight
 - "must have been the wind"
 - leave to exit
-- Fredrik stays behind to see if we're followed
+- Frederik stays behind to see if we're followed
 - 2 deep elves follow us
-- Fredrik attacks
+- Frederik attacks
 
 + Roll initiative!
 
-- Fredrik obliterates one of them
+- Frederik obliterates one of them
 - 44 damage to permakill it
 - Other one says they only wanted to be sure we reached the exit
 
@@ -162,9 +162,9 @@
 + Save pangolin
 + It runs away
 
-- Fredrik enters temple
+- Frederik enters temple
 - There are three dark, ghostly figures
-- Fredrik leaves
+- Frederik leaves
 
 + Decide to short rest
 + While short resting, try and decipher inscriptions on temple

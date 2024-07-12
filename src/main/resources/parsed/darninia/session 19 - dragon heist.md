@@ -8,7 +8,7 @@
 >
 > "Of course not" - Eef
 
-- [Fredrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) throws yellow stone on the ground
+- [Frederik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) throws yellow stone on the ground
 - it breaks in two: it's a black stone with gold painted on
 - put both sacks in bag of holding
 
@@ -54,7 +54,7 @@
 
 - Wacomar has other plans
 - sneaks out of the room where he and Faramar sleep
-- enters Dalynn and Fredriks room
+- enters Dalynn and Frederiks room
 - Dalynn wakes out of meditation
 - Wacomar closes the door and quickly goes to the toilet
 - pretends to be heavily constipated
@@ -87,7 +87,7 @@
 + an angry drakeguard joins the woodwoad
 + "I don;t protect you, I protect others from you"
 
-- Fredrik shoots a "warning arrow" near the woodwoad and drakeguard
+- Frederik shoots a "warning arrow" near the woodwoad and drakeguard
 - roll iniative
 
 + Faramar takes 13 damage in one hit in turn 1
@@ -112,7 +112,7 @@
 - portraits of silver dragon, Iuna, animals, guard drakes, woodwoads, and people we do not recognize
 
 + Detect Magic from Faramar
-+ Fredrik does not wait and picks up a book
++ Frederik does not wait and picks up a book
 + Detect Magic shows spells everywhere
 + a spell is triggered upon touching the book and suddenly everything goes black
 
@@ -167,7 +167,7 @@
 - later on says he actually can
 - big fucking liar
 
-+ Rhysand will make sure Fredrik will not die or turn into a campire when we leave
++ Rhysand will make sure Frederik will not die or turn into a campire when we leave
 + Rhysand leads us to the lair
 + there are small clouds that form stairs and a bridge
 + when we step up on a cloud, it holds our weight

@@ -43,7 +43,7 @@
 
 - next to mansion is warehouse
 - it's open to guests, you can see how canal works and is used for Itron
-- warehouse controls who enters, what enters and who will retrieve items
+- warehouse controls who enter, what enters and who will retrieve items
 - take book with above info
 - take it as warning
 

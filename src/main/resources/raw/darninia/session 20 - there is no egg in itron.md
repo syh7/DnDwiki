@@ -92,14 +92,14 @@
 - Saw andarin Dorian leave a while ago
 - Possibly Dorian = Wacomar
 - Dalynn transforms in a horse and Faramar rides her
-- Kora + Fredrik go to get horses
+- Kora + Frederik go to get horses
 
 + Catch up to Wacomar
 + Faramar and Wacomar struggle long enough to let Kora and EotM catch up
 + Eventually Faramar Hold Persons Wacomar
 
 - Get the bag and The Egg off of Wacomar
-- Fredrik + Kora leave with the egg.
+- Frederik + Kora leave with the egg.
 - Go to the watch tower to hide the egg
 - Everybody meets up to the compound
 - Wacomar has no energy left Faramar is weary
@@ -108,10 +108,10 @@
 + Kora retrieves Andarin Isa, a shrink
 + "Isa, you know what you have to do" - Kora
 + She meant talk, not kill or lobotomize
-+ Fredrik takes 2 silver scales and obsidian frown Wacomars bag
++ Frederik takes 2 silver scales and obsidian frown Wacomars bag
 + Wants to use it to say sorry to andarin
 + Dalynn wants to return it to Wacomar
-+ Fredrik returns obsidian to Wacomar, gives silver scales to Andarin, and keeps golden earnings for himself
++ Frederik returns obsidian to Wacomar, gives silver scales to Andarin, and keeps golden earnings for himself
 
 - Kora says that The Egg might unleash something if it is destroyed, so it has to be destroyed carefully
 - It contains essence from another, evil world

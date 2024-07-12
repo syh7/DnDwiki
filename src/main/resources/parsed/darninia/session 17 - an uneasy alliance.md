@@ -54,7 +54,7 @@
 
 > EotM becomes Khajit who sells wares for coin
 >
-> "I am a general store by myself" - Fredrik
+> "I am a general store by myself" - Frederik
 
 - after an hour get to front of the line
 - EotM goes first
@@ -70,7 +70,7 @@
 - feather is magically enchanted, so it looks like magically binding contracts
 - scary, so maybe best we didn't get a loan
 
-> "Bucketlist: samen met Fredrik ballen gelikt worden door een oude man" - Frank
+> "Bucketlist: samen met Frederik ballen gelikt worden door een oude man" - Frank
 
 - go back to ~~Andarin~~ weird elves
 

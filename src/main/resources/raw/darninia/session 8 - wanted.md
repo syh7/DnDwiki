@@ -70,7 +70,7 @@
 - guild hall is empty
 - Armani is still asleep
 - wait for him to wake up
-- look around market in the mean time
+- look around market in the meantime
     - dragon meat
     - alchemists
     - weapon shop

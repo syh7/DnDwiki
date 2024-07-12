@@ -6,13 +6,13 @@
 - he is not the chosen one
 - supposedly we all are
 
-+ [Fredrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) sneaks forward to scout
++ [Frederik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) sneaks forward to scout
 + Finds room with pillars, bookcases with books in Old Darninian and [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen) runes
 + pillars ahve roots around them that give off shadowy, smoky trails
 + also appearing and disappearing ghosts
 
 - as the group follows, the wall closes behind us
-- Fredrik sees a shiny object and rushes forward, but gets called back by the party
+- Frederik sees a shiny object and rushes forward, but gets called back by the party
 - Divine sense: roots are evil, but otherwise nothing
 - investigate the roots:
     - come from another plane "Nine hells"
@@ -20,7 +20,7 @@
     - have been growing for centuries
 - shiny object = shining black flower from metal
 - has hinge in the middle as if it can be opened
-- Fredrik opens it
+- Frederik opens it
 - adamantine metal dagger protrudes from the rose
 - it is a stiletto-rose
 
@@ -29,7 +29,7 @@
 + Dalynn is putting books from the floor back in the bookcases
 + [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) looks through the flute-book, it mentions a few places, contains maps, pictures of vials, jewelry, the stiletto-rose and the flute, animals (including fairy-dragons)
 
-- [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) + Fredrik move to the next room
+- [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) + Frederik move to the next room
 - altar with candelabra, silverware etc
 - also a potion with flickering fluid
 - big wings on a stand
@@ -46,20 +46,20 @@
 + see a person in front of us
 + everyone sees a different persion:
 + Faramar + Wacomar see [Heinz](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Heinz%20von%20Mackenbach) [von Mackenbach](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family), he taunts them about their mom [Esmeralda](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Esmeralda%20von%20Mackenbach)
-+ Fredrik sees tabaxi traders who are trying to trap him
++ Frederik sees tabaxi traders who are trying to trap him
 + Dalynn sees her betrothed Rowan who claims she is his
 
 - roll initiative!
 - because we see different people, it looks weird if others attack
 - as if they miss the attack but the person in front of us still looks hurt
 
-+ when Fredrik lays the killing blow, the world trembles, our sight goes hazy and then blind as there suddenly is too much light
++ when Frederik lays the killing blow, the world trembles, our sight goes hazy and then blind as there suddenly is too much light
 + we're in a world with a lot of bright colours and coloured animals
 + Detect Magic is still on: sensory overload, as everything is magical, not from a specific school
 
 - party looks different too:
 - Wacomar is a Winter Eladrin
-- Fredrik is a Spring Eladrin
+- Frederik is a Spring Eladrin
 - Faramar is a Summer Eladrin
 - Dalynn is a Autumn Eladrin
 
@@ -141,7 +141,7 @@
 - another person in front of us
 - Faramar sees his mom Esmeralda, and a scary, beautiful Wacomar, stretching their hands out "join me"
 - Wacomar sees his father "you woke up your mom, come and join me"
-- Fredrik sees his father
+- Frederik sees his father
 - Dalynn sees her beloved Mathan and says "join me"
 - Dalynn fails her wisdom save, goes to touch her beloved and is immediately downed
 

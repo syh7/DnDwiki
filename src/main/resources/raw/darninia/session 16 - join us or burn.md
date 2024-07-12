@@ -26,7 +26,7 @@
     - EotM: 3
     - DML: 1
 
-> "Fredrik is a sad wet kitty" - Noël
+> "Frederik is a sad wet kitty" - Noël
 
 > "You have all been watered" - Eef
 
@@ -84,7 +84,7 @@
 + bribe guard for 3GP, can pass through
 + go to forest
 
-- back to Fredrik
+- back to Frederik
 - get to west gate, really quiet
 - only one guard, reading a book
 - free tabaxi is unusual but acceptable
@@ -213,7 +213,7 @@
 
 - Wacomar hears voice of his father
 - "Bring The Egg to the temple of the Shining One"
-- Wacomar does not tell this but Faramar and Fredrik notice something is off
+- Wacomar does not tell this but Faramar and Frederik notice something is off
 
 + enter Matilda's magic shop
 + she is an old crone, a fortuneteller

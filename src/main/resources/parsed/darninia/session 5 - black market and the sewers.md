@@ -43,7 +43,7 @@
 
 - next to mansion is warehouse
 - it's open to guests, you can see how canal works and is used for [Itron](https://bookstack.hemels.me/books/Darninia/page/itron)
-- warehouse controls who enters, what enters and who will retrieve items
+- warehouse controls who enter, what enters and who will retrieve items
 - take book with above info
 - take it as warning
 

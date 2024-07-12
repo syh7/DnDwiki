@@ -164,14 +164,14 @@
 
 - roll initiative!
 
-+ Fredrik enters hallway at the start of battle
++ Frederik enters hallway at the start of battle
 + He obliterates the gazer
 
 > "It's beamy time!"- Dalynn
 
 + Hypnotic pattern is nice, systematically murder the hypnotised monsters before they can take a turn
 
-- Fredrik immediately turns tail and runs outside
+- Frederik immediately turns tail and runs outside
 - follow him
 - EotM explains what happened in side
 

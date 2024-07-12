@@ -12,7 +12,7 @@
 
 > "I think I like arson" - Jace
 
-- Fredrik counts the gold: 350 GP
+- Frederik counts the gold: 350 GP
 - Wacomar goes to meet Novellia to try and get help with spell ingredients
 - Novellia wears 4 pairs of glasses
 

@@ -15,7 +15,7 @@
 - Derek stole 3 rubies
 - Apparently small bad guys get sent here too
 
-+ Hippo Fredrik goes to the beach to "hide" in the sea
++ Hippo Frederik goes to the beach to "hide" in the sea
 + Shelby brings Rat in a Hat and Derek to the mountains and back
 
 > "Derek, if you ever steal again, Shelby will find you" - Faramar
@@ -89,8 +89,8 @@
 
 > "You are like the party pet " - Loes over Wacomar
 
-- Fredrik insults Kengradt to draw attention
-- Fredrik uses the feather of a roc to help
+- Frederik insults Kengradt to draw attention
+- Frederik uses the feather of a roc to help
 - It works and summons a gargantuan roc that draws the attention
 
 + party keeps telling EotM to run
@@ -98,7 +98,7 @@
 
 - Wacomar uses Fly on Faramar to try and get the body of Saphra anyway
 
-+ Fredrik is downed.
++ Frederik is downed.
 
 - Wacomar runs away
 

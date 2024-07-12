@@ -71,10 +71,10 @@
 - Dalynn sees all doors are trapdoors.
 - Disarms middle door and sees stone door wall
 - Vault door is opening
-- Fredrik takes Dalynn's hand and touches right door
+- Frederik takes Dalynn's hand and touches right door
 - get teleported to the cell again
 - Dalynn freaks out at decapitated guard
-- Fredrik takes keys from guard and locks prison behind them
+- Frederik takes keys from guard and locks prison behind them
 
 + Dalynn disarms door at end of hallway
 + Opens door
@@ -82,7 +82,7 @@
 + Closes door
 
 - Door is opened by guards & clerks
-- Fredrik: "Hello good sir!"
+- Frederik: "Hello good sir!"
 - Dalyun casts Moonbeam
 - 3 guards, man, ogre and goblin
 - Guards get killed by moonbeam

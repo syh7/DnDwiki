@@ -3,7 +3,7 @@
 - Go to mountains
 - Hide from cloakers
 
-- [Fredrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) makes Daramar draw a tarot card
+- [Frederik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) makes Daramar draw a tarot card
 - Four of Swords: heightened sense of activity and movement, ready to take on new challenges and opportunity
 
 - Should [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) accept becoming a wood elf?
@@ -56,7 +56,7 @@
 - First want to show us to Cheng Ling before they will allow us near Speaks with Dogs
 - long discussion about showing respect - mostly between us, the party
 
-> "Fredrik, this is a good moment to practice Silence"- Dalynn
+> "Frederik, this is a good moment to practice Silence"- Dalynn
 >
 > "Like the women in Darninia"- Eveline
 

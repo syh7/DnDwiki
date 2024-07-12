@@ -19,7 +19,7 @@
 
 - Start walking to Iuna
 - After half an hour, hear 3 cloakers
-- Fredrik is the only one that is scared
+- Frederik is the only one that is scared
 - Faramar tackles him to prevent him from running away
 - Cloakers see them
 - Roll initiative

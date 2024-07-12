@@ -6,9 +6,8 @@
 - bartender offers to carry us for 3SP for all of us
 - bartender has trouble carrying us, not as strong as expected
     - [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) barely makes it
-    - [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) is too haevy, so we plummet, take 1 bludgeoning damage - does not want to give 1 silver piece back for
-      damage
-    - [Fredrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) is very easy
+    - [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) is too haevy, so we plummet, take 1 bludgeoning damage - does not want to give 1 silver piece back for damage
+    - [Frederik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain) is very easy
     - Faramar tries again, and successful, albeit a little bit slow
     - Wacomar helps barkeep with Guidance
 

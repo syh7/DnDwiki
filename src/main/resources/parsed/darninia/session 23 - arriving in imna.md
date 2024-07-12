@@ -83,7 +83,7 @@
 
 + Long rest (or longer short rest)
 
-> "I bravely ran away " - [Fredrik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain), aka "Sir Robin"
+> "I bravely ran away " - [Frederik](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain), aka "Sir Robin"
 
 - Plan:
     - Go to capital.

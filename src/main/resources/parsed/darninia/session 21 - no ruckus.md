@@ -87,7 +87,7 @@
 
 + Mayor is a small, bald man with a monocle
 
-- Kora leaves the inn and Faramar + Fredrik follow her
+- Kora leaves the inn and Faramar + Frederik follow her
 - She leaves town and goes to Wedall
 - We let her leave
 
@@ -121,7 +121,7 @@
 - Including decks of cards.
 - not THE deck
 
-+ Fredrik buys a decks of animal cards
++ Frederik buys a decks of animal cards
 
 - Talk to Constance, get her apart to talk in private
 - Talk about Imna
@@ -131,7 +131,7 @@
 
 + Offers 10% discount on magic items.
 
-- Fredrik pulls a card of his animal deck
+- Frederik pulls a card of his animal deck
 - It's the death card: there is big change in your life coming, positivity
 - Wacomar draws High Priestess: follow your instincts and dreams (The Egg)
 - Dalynn draws The Star: there'll be positive and spiritual enlightenment, people will see you for who you are
@@ -142,7 +142,7 @@
 - Back to inn
 - Prepare for festival
 
-> "Er zijn niet veel vrachtwagens, maar er valt wel veel van af" - Frank over Fredriks eigendommen
+> "Er zijn niet veel vrachtwagens, maar er valt wel veel van af" - Frank over Frederiks eigendommen
 
 - Go to docks
 - Casino is on big boat
@@ -158,13 +158,13 @@
 - Says "Mackenbachs let us down"
 - 2 hours to mingle before game starts
 
-+ Dalynn + Fredrik go to upper deck
++ Dalynn + Frederik go to upper deck
 + Talk to few centaurs
 + "A talking cat?! We should have that as Golden Hooves for next year!"
 
 - Is dubbed "Flow the man cat" by them
 
-> "Swiper no swiping!" - Dalynn to Fredrik
+> "Swiper no swiping!" - Dalynn to Frederik
 
 - Wacomar & Faramar investigate possible opponents at the poker tables
 - Try to gain insight in their playing style to get an advantage later
@@ -189,7 +189,7 @@
 - find "Mane Stable"
 
 + It is a hue of stables with sleeping centaurs and a big wooden building next to it
-+ Fredrik climbs building and checks rooms through windows
++ Frederik climbs building and checks rooms through windows
 + Rooms are big, with regular and centaur beds
 + 2 rooms are filled
     - 1 with a centaur
@@ -199,24 +199,24 @@
 - Faun is playing music and fastfire is listening sleeping.
 - There are golden hooves in a corner
 
-+ Fredrik goes back to discuss with party
-+ fredrik goes back inside
++ Frederik goes back to discuss with party
++ Frederik goes back inside
 + Opens door and stands aside, asks faun at if he wants to leave
 + "Who are you?"
 + "I'm the tooth fairy, come to save fauns"
 + "Fastfire wake up"
 
-- Fredrik runs away
-- Party shames Fredrik for clumsiness
+- Frederik runs away
+- Party shames Frederik for clumsiness
 - faun opens door and walks outside
 
 + Dalynn goes to meet him
 + Fauns and centaurs are in on it together
 + Centaurs have no slaves
 
-- Fredrik in the meantime goes back to steal the hooves
+- Frederik in the meantime goes back to steal the hooves
 - Fastfire is awake
-- Fredrik returns unnoticed by Fastfire
+- Frederik returns unnoticed by Fastfire
 
 + Fastfire comes out as well
 + "What is this ruckus?"
