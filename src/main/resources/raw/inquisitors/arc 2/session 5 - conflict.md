@@ -21,7 +21,7 @@
 
 + Laïs, Baariq, Kwame, Nota, Freemo:
 + Lais and Kwame bury the dead
-+ Baarig fetches the humans in the trees
++ Baariq fetches the humans in the trees
 + Tree huggers are scared but come down
 
 - Freemo thinks about cleaning up the spider body but does nothing more than think
@@ -122,7 +122,7 @@
 + Meet in the middle
 + Sylraen accuses Baariq of mind tampering and slavery
 + Laïs denies the slavery and asks to hear Baariq's account
-+ Baarig is transformed back and denies slavery but admits the screaming
++ Baariq is transformed back and denies slavery but admits the screaming
 
 - Sylraen and Baariq have a very heated discussion
 - Sylraen gives up and they decide to wait for Idris to clear things up
