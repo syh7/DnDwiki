@@ -12,6 +12,7 @@ import java.nio.file.Files
 import java.nio.file.Paths
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
+import kotlin.io.path.createDirectories
 import kotlin.io.path.readText
 import kotlin.io.path.writeText
 
@@ -29,6 +30,8 @@ class CacheService {
         upLogOffset()
         val folderName = bookSetup.name.lowercase()
         val cacheFolder = Paths.get(CACHE_FOLDER, folderName)
+        cacheFolder.createDirectories()
+
         val now = LocalDateTime.now().format(dateTimeFormatter)
         val cacheFile = cacheFolder.resolve("$now.json")
         log("Writing cache file $cacheFile")

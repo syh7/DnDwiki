@@ -17,21 +17,28 @@ val cacheService = CacheService()
 val backupService = BackupService()
 
 fun main() {
-
-    val bookName = "Darninia"
-
-    refreshCache(bookName)
-
-    log("Starting handling book $bookName")
-    val bookSetup = getBookSetup(bookName)
-
-    parseAndAddSessionsToWiki(bookName, bookSetup)
-
-//    log("start backing up book $bookName")
-//    backupService.backupMarkdown(bookSetup)
-
     // TODO:
     // tests!
+
+    val bookNames = listOf(
+        "Darninia",
+        "Inquisitors",
+        "JeanDnDine"
+    )
+
+    bookNames.forEach { bookName ->
+
+//        refreshCache(bookName)
+
+        log("Starting handling book $bookName")
+        val bookSetup = getBookSetup(bookName)
+
+        parseAndAddSessionsToWiki(bookName, bookSetup)
+
+//        log("start backing up book $bookName")
+//        backupService.backupMarkdown(bookSetup)
+
+    }
 }
 
 private fun parseAndAddSessionsToWiki(bookName: String, bookSetup: CompleteBookSetup) {
