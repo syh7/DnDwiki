@@ -1,4 +1,4 @@
-# Sessie 1 - Capture the Abandoned Keep
+# Session 1 - Capture the Abandoned Keep
 
 - Allemaal ticket van mysterieuze man gekregen
 - Uitnodiging voor een onbekende, belangrijke, invloedrijke groep
@@ -58,7 +58,7 @@
 - Try to get inside but not allowed
 - Eventually combat
 
-+ Een vd lizards liep de arena in met een device
++ Een van de lizards liep de arena in met een device
 + Er flikkert een magic schild op rond de keep en de arena
 + Er spawnt een mummy in de arena
 + Lizard geeft t device aan de mummy en disintegrate in niks uit een

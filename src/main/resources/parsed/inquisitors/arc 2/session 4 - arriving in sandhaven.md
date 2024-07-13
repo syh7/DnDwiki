@@ -1,4 +1,4 @@
-# Sessie 4 - Arriving in Sandhaven
+# Session 4 - Arriving in Sandhaven
 
 - [Kwame](https://bookstack.hemels.me/books/Inquisitors/page/kwame) mag niet weg noch slapen van de boom
 - Kwame loopt dan maar verder de tuin in
@@ -14,7 +14,7 @@
 - Nog een Hands of Healing om de gaten te dichten
 - De treant begint te bloeien, en bloemen zijn klein beetje lichtgevend
 
-+Kwame gaat long resten
++ Kwame gaat long resten
 
 - De treant is nu blij en gerust
 - long rest
@@ -22,7 +22,7 @@
 + In the meantime
 + Een boot, zonder vlag of identificatie, komt aan in [Sandhaven](https://bookstack.hemels.me/books/Inquisitors/page/sandhaven)
 + hier in zitten de oude garde:
-    - Syraen
+    - [Sylraen](https://bookstack.hemels.me/books/Inquisitors/page/sylraen-morra)
     - [Aeleanor](https://bookstack.hemels.me/books/Inquisitors/page/aeleanor)
     - [Sumi](https://bookstack.hemels.me/books/Inquisitors/page/sumi)
     - [Sotark](https://bookstack.hemels.me/books/Inquisitors/page/sotark)
@@ -69,7 +69,7 @@
 + rest van wares zit onder een doek
 
 - Ask directions to Sand Sailors Rest from guards
-- [Sylraen](https://bookstack.hemels.me/books/Inquisitors/page/sylraen-morra) enters alone, to avoid drawing too much attention with a weird group
+- Sylraen enters alone, to avoid drawing too much attention with a weird group
 
 + Ask bartender who of transporters is most trustworthy
 + Says goliaths are useful in a fight

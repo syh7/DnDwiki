@@ -1,4 +1,4 @@
-# Sessie 3 - Keep of Requirements
+# Session 3 - Keep of Requirements
 
 - Go up the tower
 

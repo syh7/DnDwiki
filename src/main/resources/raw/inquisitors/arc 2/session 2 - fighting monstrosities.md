@@ -1,4 +1,4 @@
-# Sessie 2 - Fighting monstrosities
+# Session 2 - Fighting monstrosities
 
 - interrogate lizardfolk
 - doesn't say much except that they follow Odakgrinn

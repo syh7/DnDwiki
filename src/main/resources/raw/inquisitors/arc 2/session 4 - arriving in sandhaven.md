@@ -1,4 +1,4 @@
-# Sessie 4 - Arriving in Sandhaven
+# Session 4 - Arriving in Sandhaven
 
 - Kwame mag niet weg noch slapen van de boom
 - Kwame loopt dan maar verder de tuin in
@@ -14,7 +14,7 @@
 - Nog een Hands of Healing om de gaten te dichten
 - De treant begint te bloeien, en bloemen zijn klein beetje lichtgevend
 
-+Kwame gaat long resten
++ Kwame gaat long resten
 
 - De treant is nu blij en gerust
 - long rest
@@ -22,7 +22,7 @@
 + In the meantime
 + Een boot, zonder vlag of identificatie, komt aan in Sandhaven
 + hier in zitten de oude garde:
-    - Syraen
+    - Sylraen
     - Aeleanor
     - Sumi
     - Sotark
