@@ -10,6 +10,8 @@ import syh7.parse.SessionState
 import syh7.util.log
 import syh7.util.lowerLogOffset
 import syh7.util.upLogOffset
+import java.nio.file.Path
+import kotlin.io.path.name
 
 class BookstackService {
 
@@ -90,15 +92,19 @@ class BookstackService {
 
     fun updateSessions(bookSetup: CompleteBookSetup, sessions: List<HandledSession>) {
         upLogOffset()
-        val sessionsChapter = bookSetup.bookstackBook.contents.filterIsInstance<BookContentsChapter>().first { it.name.lowercase() == "sessions" }
-        log("sessions chapter in book ${bookSetup.name} is ${sessionsChapter.id}")
+        val sessionChapters = bookSetup.bookstackBook.contents
+            .filterIsInstance<BookContentsChapter>()
+            .filter { it.name.lowercase().contains("sessions") }
+        for (chapter in sessionChapters) {
+            log("${chapter.name} in book ${bookSetup.name} is ${chapter.id}")
+        }
 
         for (session in sessions) {
             log("handling new session ${session.path}")
             upLogOffset()
             when (session.state) {
-                SessionState.NEW -> handleNewSession(session, sessionsChapter)
-                SessionState.UPDATED -> handleUpdatedSession(session, sessionsChapter)
+                SessionState.NEW -> handleNewSession(session, sessionChapters)
+                SessionState.UPDATED -> handleUpdatedSession(session, sessionChapters)
                 SessionState.IGNORED -> log("session is not new nor updated, so skip it")
             }
             lowerLogOffset()
@@ -107,9 +113,10 @@ class BookstackService {
         lowerLogOffset()
     }
 
-    private fun handleUpdatedSession(session: HandledSession, sessionsChapter: BookContentsChapter) {
+    private fun handleUpdatedSession(session: HandledSession, sessionChapters: List<BookContentsChapter>) {
         log("handling updated session ${session.path}")
         val sessionName = session.path.toFile().nameWithoutExtension.lowercase()
+        val sessionsChapter = getRelevantSessionChapter(session.path, sessionChapters)
         val currentSessionPage = sessionsChapter.pages.first { it.name.lowercase() == sessionName }
         log("found page ${currentSessionPage.id} with the same session name '$sessionName'")
 
@@ -119,12 +126,29 @@ class BookstackService {
         log("updated page `${createdPage.name}` with id ${createdPage.id}")
     }
 
-    private fun handleNewSession(session: HandledSession, sessionsChapter: BookContentsChapter) {
+    private fun handleNewSession(session: HandledSession, sessionChapters: List<BookContentsChapter>) {
         log("handling new session ${session.path}")
         val markdown = session.path.toFile().readText()
+        val sessionsChapter = getRelevantSessionChapter(session.path, sessionChapters)
         val requestBody = createPageRequestBody(markdown, sessionsChapter)
         val createdPage = bookstackClient.addPage(requestBody)
         log("created page `${createdPage.name}` with id ${createdPage.id}")
+    }
+
+    private fun getRelevantSessionChapter(sessionPath: Path, sessionChapters: List<BookContentsChapter>): BookContentsChapter {
+        val parentDirectory = sessionPath.parent.name.lowercase()
+
+        if (parentDirectory.contains("arc")) {
+            val relevantChapter = sessionChapters.first { it.name.contains(parentDirectory) }
+            log("relevant chapter is ${relevantChapter.name}")
+            return relevantChapter
+        }
+
+        // if there are no arcs, then there should only be one session chapter
+        if (sessionChapters.size > 1) {
+            throw IllegalStateException("sessions are not divided into arcs but did find multiple session chapters")
+        }
+        return sessionChapters.first()
     }
 
     private fun createPageRequestBody(markdown: String, sessionsChapter: BookContentsChapter): PageRequestBody {
