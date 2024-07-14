@@ -1,4 +1,4 @@
-# Sessie 10: Dancing in Geneva
+# Session 10 - Dancing in Geneva
 
 - Guards are checking tents who is home
 - Want party to leave

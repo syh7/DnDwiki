@@ -1,4 +1,4 @@
-# Sessie 9 - Poolparty
+# Session 9 - Poolparty
 
 > "Vurzes is net als Beetlefeet" - Wouter
 

@@ -1,4 +1,4 @@
-# Sessie 11: Smugglers and Murderers
+# Session 11 - Smugglers and Murderers
 
 - Continue J&J's route
 - it's currently about 20:00
