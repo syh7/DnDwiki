@@ -116,8 +116,9 @@ class BookstackService {
     private fun handleUpdatedSession(session: HandledSession, sessionChapters: List<BookContentsChapter>) {
         log("handling updated session ${session.path}")
         val sessionName = session.path.toFile().nameWithoutExtension.lowercase()
+        val sessionNumber = getSessionNumber(sessionName)
         val sessionsChapter = getRelevantSessionChapter(session.path, sessionChapters)
-        val currentSessionPage = sessionsChapter.pages.first { it.name.lowercase() == sessionName }
+        val currentSessionPage = sessionsChapter.pages.first { getSessionNumber(it.name) == sessionNumber }
         log("found page ${currentSessionPage.id} with the same session name '$sessionName'")
 
         val markdown = session.path.toFile().readText()
@@ -125,6 +126,8 @@ class BookstackService {
         val createdPage = bookstackClient.updatePage(currentSessionPage.id, requestBody)
         log("updated page `${createdPage.name}` with id ${createdPage.id}")
     }
+
+    private fun getSessionNumber(sessionName: String) = sessionName.split(" - ")[0].split(" ")[1].toInt()
 
     private fun handleNewSession(session: HandledSession, sessionChapters: List<BookContentsChapter>) {
         log("handling new session ${session.path}")
