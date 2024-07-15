@@ -2,14 +2,14 @@
 
 > "Vurzes is net als Beetlefeet" - Wouter
 
-- Continue talking to Idris
+- Continue talking to Idrisse
 - Thinks most people are unaware of what's happening (regarding green light)
 - Be careful who you share info with
 - no enemies she's currently aware of
 - Sultan could go either way
 - inquisitor group is unknown by anyone so no image to adhere to
 
-+ Idris knows little of the hooded figures investigating us
++ Idrisse knows little of the hooded figures investigating us
 + they are called League of Assassins
 + Since Sotark wasn't mentioned, it is likely not inquisitor-based
 
@@ -23,10 +23,10 @@
 - Five from Sanos had help then. Maybe has help here and now
 - Those forces will oppose us if they find out we're looking
 
-+ Sylraen and Idris say goodbye
++ Sylraen and Idrisse say goodbye
 + Hope to see each other at the tower
 
-- Sotark decides not to go see Idris
+- Sotark decides not to go see Idrisse
 - Sylraen + Sotark go upstairs and outside
 
 + go to harbour, find a cheap restaurant with view of our boat
@@ -39,9 +39,9 @@
 > "Kwame is balling" - Jim
 
 - discuss plans over dinner
-- retcon that Idris gave pointers to where on the boat we should look
+- retcon that Idrisse gave pointers to where on the boat we should look
 - It's _near_, not _on_ the boat
-- Sylraen looks at the water, realizes one word Idris used was "weggedoken"
+- Sylraen looks at the water, realizes one word Idrisse used was "weggedoken"
 
 + Kwame has a smart plan to look for a diving store to help with equipment
 + Diving does not exist in this world

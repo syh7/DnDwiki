@@ -85,7 +85,7 @@ die er graag op in zouden prikken.
 ```
 
 - oude bekende = dagger
-- bazige opa = Vez-rin
+- bazige opa = Vusorin
 - zwemmen met drijfhout = varen op een boot
 - weg duiken van ogen = verstopt
 - hongerige vogels = dieven

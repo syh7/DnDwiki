@@ -26,14 +26,14 @@
     - Aeleanor
     - Sumi
     - Sotark
-+ Idris en beertje zijn er ook, ook de kids die we gered hebben
++ Idrisse en beertje zijn er ook, ook de kids die we gered hebben
 
-- Idris is bang, mage guild is jaren geleden weggejaagd uit de woestijn, en de mannen van Sultan zijn overal
-- Idris advises us to take off armour and weapons to avoid suspicion
+- Idrisse is bang, mage guild is jaren geleden weggejaagd uit de woestijn, en de mannen van Sultan zijn overal
+- Idrisse advises us to take off armour and weapons to avoid suspicion
 
 + We do so
 
-- Vez-rin had een "object" meegegeven
+- Vusorin had een "object" meegegeven
 - Komen er aan het einde achter wat het is
 - een spiegel
 
@@ -68,7 +68,7 @@
 + Merchant laat pair of winged boots zien
 + rest van wares zit onder een doek
 
-- Ask directions to Sand Sailors Rest from guards
+- Ask directions to Sand Sailor's Rest from guards
 - Sylraen enters alone, to avoid drawing too much attention with a weird group
 
 + Ask bartender who of transporters is most trustworthy
@@ -81,7 +81,7 @@
 + Travel to the wizard spire
 + Put on our armour
 
-- Beetle feet wants the empty boxes, we oblige, won't use them anyway
+- Beetlefeet wants the empty boxes, we oblige, won't use them anyway
 
 + Get ambushed by Yuan-Ti
 
@@ -91,4 +91,4 @@
 + Continue on towards Wizard Spire
 
 - Beetlefeet is a downie (begin van Downie Trade Empire?)
-- Beetlefeets turtle heet Tortie
+- Beetlefeets turtle heet Shelly

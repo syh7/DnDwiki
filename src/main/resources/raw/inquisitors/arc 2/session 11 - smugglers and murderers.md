@@ -25,7 +25,7 @@
 - do not see any sign of J&J on the way
 - nor along the edge of the sand sea
 
-+ arrive at Sand Sailors Rest
++ arrive at Sand Sailor's Rest
 + see lights on the Whispering Sands
 + the possible caravans are performing as party huts on the sand sea
 

@@ -125,7 +125,7 @@
 + Baariq is transformed back and denies slavery but admits the screaming
 
 - Sylraen and Baariq have a very heated discussion
-- Sylraen gives up and they decide to wait for Idris to clear things up
+- Sylraen gives up and they decide to wait for Idrisse to clear things up
 
 > "Just because you had a trauma, does not mean you have to give others a trauma" - Sylraen to Baariq
 

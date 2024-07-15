@@ -71,8 +71,8 @@
 
 - OG see Beetlefeet unload Miranda, Tommy and Annika
 - Say the refugees were put in a camp outside the city without their stuff
-- Idris was arrested for violating "the mage guild accords"
-- Tommy got a message from Idris ,and he wrote it down, then tore it up
+- Idrisse was arrested for violating "the mage guild accords"
+- Tommy got a message from Idrisse ,and he wrote it down, then tore it up
 
 + Puzzle time!
 
@@ -85,7 +85,7 @@ die er graag op in zouden prikken.
 ```
 
 - oude bekende = dagger
-- bazige opa = Vez-rin
+- bazige opa = Vusorin
 - zwemmen met drijfhout = varen op een boot
 - weg duiken van ogen = verstopt
 - hongerige vogels = dieven
@@ -104,14 +104,14 @@ die er graag op in zouden prikken.
 
 + festival is about their legend "Some will rise, others will fall"
 + Walk to the keep to get Miranda, Tommy + Annika and Beetlefeet safe and discuss with the NG
-+ Tell the NG about Idris, the camp and the stuff, not about the dagger and mirror
++ Tell the NG about Idrisse, the camp and the stuff, not about the dagger and mirror
 
 - Introduce Miranda / Tommy / Annika
 
 > "Maybe you can be saved" - Sylraen over Baariq
 
 + 2 sets of goals
-    1. Save Idris  
+    1. Save Idrisse  
        Save refugees  
        Save their stuff
     2. Build up the keep  

@@ -155,7 +155,7 @@
     - mr Abdul Stoneshell
     - mr Rashid Sandstrider
     - lady Soraya Featherwind
-    - Amir Amberforge
+    - mr Amir Amberforge
 + Thank her for information
 + Leave to prison
 
@@ -194,7 +194,7 @@
 - Otherwise, let her be
 - Do not jailbreak her, it gives too much trouble
 
-+ Idris says Vez-rin did intend for NG to join
++ Idris says Vusorin did intend for NG to join
 + Does not know who they are
 + Does recognize the names
 
