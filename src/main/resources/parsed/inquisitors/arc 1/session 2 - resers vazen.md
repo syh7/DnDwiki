@@ -1,10 +1,10 @@
 # Session 2 - Resers vazen
 
-- Praten met Vusorin
+- Praten met [Vusorin](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild#Vusorin%20Vehares)
 - Mors magie klinkt als stap verder dan necromancy, heel gevaarlijk en zo ver mogelijk wegblijven.
 - geen idee wie/wat/hoe
 - necromancy strikt verboden
-- kunnen paten met Ibuss Olarass, head scholar, weet veel van alles
+- kunnen paten met [[Ibuss](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild#Ibuss%20Olarass) Olarass](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild#Ibuss%20Olarass), head scholar, weet veel van alles
 
 + Praten met Ibuss
 + geen info over necromancy, beetje info over curses tegengaan
@@ -13,7 +13,7 @@
 + geeft 2 boeken over curses:
     - wat ze doen, herkennen en tegengaan
     - herkennen en tegengaan
-+ Wouter/[Sumi](https://bookstack.hemels.me/books/Inquisitors/page/sumi) blijft lezen en leren, rest gaat op zoek naar Reser
++ Wouter/[Sumi](https://bookstack.hemels.me/books/Inquisitors/page/sumi) blijft lezen en leren, rest gaat op zoek naar [Reser](https://bookstack.hemels.me/books/Inquisitors/page/sanos#Reser%20Glisk)
 
 - Bij Resers huis:
 - bloed onder raam aan buitenkant alsof er iemand tegenaan is gekomen op 1e verdieping
@@ -63,7 +63,7 @@
 - vragen of we register kunnen zien en laten de rest voor wat het is
 
 + lopen naar buiten, zie niemand die naar ons kijkt, maar wel veelgebruikte routes over daken
-+ lopen langs mage guild en halen Sumi op
++ lopen langs [Mage guild](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild) en halen Sumi op
 + willen wachten op Sumi, maar Reser heeft haast, is erg bang voor iets.
 
 - Aeleanor, Sylraen en Reser lopen door, Vayne wacht Sumi op en komt erachteraan
@@ -92,7 +92,7 @@
 - Er zijn 3 avonturiers gevonden die zullen helpen als we willen
 
 + Naar Smith's guild
-+ praten met gem trader, vragen wie Mor vervangt: de rest van de raad
++ praten met gem trader, vragen wie [Mor](https://bookstack.hemels.me/books/Inquisitors/page/sanos#Mor%20Ravav) vervangt: de rest van de raad
 + Crafters in de hoek maken de urns, zij weten meer
 + register wordt door iedereen bijgehouden
 + als iemand iets maakt, turven
@@ -120,12 +120,12 @@
 - checken andere council roosters
 
 + Roosters:
-+ Raymond altijd gek
-+ Vur-zes: bijna altijd hier
-+ Irena: bijna altijd hier, soms expeditions om te regelen
-+ Idrisse: zelfde als Vurzes
++ [Raymond](https://bookstack.hemels.me/books/Inquisitors/page/sanos#Raymond%20Staghorn) altijd gek
++ [Vur-zes](https://bookstack.hemels.me/books/Inquisitors/page/sanos#Vur-zes%20Lunzik): bijna altijd hier
++ [Irena](https://bookstack.hemels.me/books/Inquisitors/page/sanos#Irena%20Shirlee): bijna altijd hier, soms expeditions om te regelen
++ [Idrisse](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild#Idrisse%20Oqora): zelfde als Vurzes
 + Vezrin: vaak in keep, mage guild, hub
-+ Reagan: altijd military district, laatst naar dorp Alwin gestuurd
++ [Reagan](https://bookstack.hemels.me/books/Inquisitors/page/sanos#Reagan%20Staghorn): altijd military district, laatst naar dorp Alwin gestuurd
 
 - horen veel voetstappen in de buurt
 - Raymond met paar magiers en wat guards

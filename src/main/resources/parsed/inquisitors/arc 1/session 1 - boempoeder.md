@@ -1,6 +1,6 @@
 # Session 1 - Boempoeder
 
-- Mage guild hub in [Sanos](https://bookstack.hemels.me/books/Inquisitors/page/sanos)
+- [Mage guild](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild) hub in [Sanos](https://bookstack.hemels.me/books/Inquisitors/page/sanos)
 
 + novice rent naar binnen
 
@@ -44,8 +44,8 @@
 + hoorn geblazen in de buurt van mage guild, daarna kwamen goblins + rats
 
 - being in Dome, Irene light ernstig/bang
-- Mor is net overleden (Corrupt?)
-- Raymond is naar mage guild
+- [Mor](https://bookstack.hemels.me/books/Inquisitors/page/sanos#Mor%20Ravav) is net overleden (Corrupt?)
+- [Raymond](https://bookstack.hemels.me/books/Inquisitors/page/sanos#Raymond%20Staghorn) is naar mage guild
 - guards gaan rondlopen om putten te bekijken omdat sleutels kwijt zijn
 
 + vanavond naar mage guild om near Ezreal te kijken en morgen verder praten
@@ -56,7 +56,7 @@
 
 - Ezreals blood curse wordt goed behandeld
 
-+ Head alchemist Sanasix noch head mage Vusorin weten niks van boempoeder
++ Head alchemist [Sanasix](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild#Sanasix%20Azohra) noch head mage [Vusorin](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild#Vusorin%20Vehares) weten niks van boempoeder
 + Vusorin: random vage figuren bij farms in de buurt
 
 - slapen in herberg

@@ -26,14 +26,14 @@
     - [Aeleanor](https://bookstack.hemels.me/books/Inquisitors/page/aeleanor)
     - [Sumi](https://bookstack.hemels.me/books/Inquisitors/page/sumi)
     - [Sotark](https://bookstack.hemels.me/books/Inquisitors/page/sotark)
-+ Idris en beertje zijn er ook, ook de kids die we gered hebben
++ [Idrisse](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild#Idrisse%20Oqora) en beertje zijn er ook, ook de kids die we gered hebben
 
-- Idris is bang, mage guild is jaren geleden weggejaagd uit de woestijn, en de mannen van Sultan zijn overal
-- Idris advises us to take off armour and weapons to avoid suspicion
+- Idrisse is bang, [Mage guild](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild) is jaren geleden weggejaagd uit de woestijn, en de mannen van Sultan zijn overal
+- Idrisse advises us to take off armour and weapons to avoid suspicion
 
 + We do so
 
-- Vusorin had een "object" meegegeven
+- [Vusorin](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild#Vusorin%20Vehares) had een "object" meegegeven
 - Komen er aan het einde achter wat het is
 - een spiegel
 
@@ -54,7 +54,7 @@
 - Convince guards and other sailors to help us
 - Get away unnoticed without stuff in boxes
 
-+ Go to Sand Sailor's Rest
++ Go to [Sand Sailor's Rest](https://bookstack.hemels.me/books/Inquisitors/page/sandhaven#Sand%20Sailor's%20Rest)
 + City is [Vayne](https://bookstack.hemels.me/books/Inquisitors/page/vayne)'s dream
 + all manners of species living together peacefully
 
@@ -76,7 +76,7 @@
 + Says trikeen has the most trips, but in fight is not worth much
 + His ride is shabby, but he is cheap (5gp us 50gp per person)
 
-- Go with the trikeen, named Beetlefeet
+- Go with the trikeen, named [Beetlefeet](https://bookstack.hemels.me/books/Inquisitors/page/sandhaven#Beetlefeet%20Ko)
 
 + Travel to the wizard spire
 + Put on our armour

@@ -4,7 +4,7 @@
 
 > "Beetle feet? Beetle pimp!" - Wouter
 
-- [Sylraen](https://bookstack.hemels.me/books/Inquisitors/page/sylraen-morra) makes deal with Beetlefeet
+- [Sylraen](https://bookstack.hemels.me/books/Inquisitors/page/sylraen-morra) makes deal with [Beetlefeet](https://bookstack.hemels.me/books/Inquisitors/page/sandhaven#Beetlefeet%20Ko)
     - pay 50%
     - always use Beetlefeet if possible
     - help upgrade his ride
@@ -24,12 +24,12 @@
 - Sylraen feels sus
 
 + Baariq runs back to keep to get a few barrels for the trip to fill with food/water
-+ Sylraen askes Baariq what mage guild accords are
++ Sylraen askes Baariq what [Mage guild](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild) accords are
 
 - Sultan banished mage guild
 - killed the ones that didn't leave
 - banished mage guild practice
-- So plan is to persuade that Idris is doing ingisuitor work, not mage guild
+- So plan is to persuade that [Idrisse](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild#Idrisse%20Oqora) is doing ingisuitor work, not mage guild
 
 + Baariq teaches desert customs to the rest
 
@@ -82,12 +82,12 @@
     - 45 pound food = 15 food rations
     - 30 gallons water = 75 water rations (1 barrel)
 
-- Try and find prison because Idris will be there
+- Try and find prison because Idrisse will be there
 - Prison is tower on small island near dock, only bridge to get there
-- plan: just walk up and ask to get Idris free
+- plan: just walk up and ask to get Idrisse free
 
 + The closer we get, the more magic is clamped
-+ Persuade guards to let us talk to warden Keys
++ Persuade guards to let us talk to [Warden Keys](https://bookstack.hemels.me/books/Inquisitors/page/sandhaven#Warden%20Keys)
 
 - Only allow Sylraen to go through
 - Convince them [Sotark](https://bookstack.hemels.me/books/Inquisitors/page/sotark) is his assistant and Sylraen need him
@@ -109,7 +109,7 @@
 
 + While getting up to shake hands, Sylraen pretends to fall
 + While falling, bump paper off desk
-+ Grab Idris' arrest report to read how they found out she was part of the mage guild
++ Grab Idrisse' arrest report to read how they found out she was part of the mage guild
 + Read the name: Jerry
 + one of the reluctant soldiers from Alden, who followed to [Sanos](https://bookstack.hemels.me/books/Inquisitors/page/sanos), who is now a refugee
 + Try and help pick up papers

@@ -4,7 +4,7 @@
 - Refugees live in tents, with a chain linked fence to keep intruders out but also refugees in
 
 + Go to guarded entrance
-+ 2 guards, one is called Trace Mink
++ 2 guards, one is called [Trace Mink](https://bookstack.hemels.me/books/Inquisitors/page/sandhaven#Trace%20Mink)
 + [Sylraen](https://bookstack.hemels.me/books/Inquisitors/page/sylraen-morra) smooth talks his way through the gate
 + Guard writes down names of group that enters
 + Say our own names
@@ -26,7 +26,7 @@
 + Previous guard, Mike
 + Hushed she says "I'm so glad you're back"
 + Hushed Sylraen says "We're going to get you outta here"
-+ Gal says that Idris said not to mention a few names
++ Gal says that [Idrisse](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild#Idrisse%20Oqora) said not to mention a few names
 + Probably Inquisitor names
 
 - continue to Mike in the centre of camp
@@ -41,12 +41,12 @@
 
 - Mike knows the business of the camp, names and personalities of guards, who to talk to to get shit done
 
-+ ask how Idris was captured
++ ask how Idrisse was captured
 + Middle of the night
 + Purple light, deep growl between tents
-+ A creature with spikes on its back was facing Idris' tent
++ A creature with spikes on its back was facing Idrisse' tent
 + Guards followed
-+ Idris came out
++ Idrisse came out
 + Guards imprisoned her and left with her and the creature
 + Creature was centipede/scorpion/ spider combination, dog-sized
 + The NG fought a bigger version in the tower
@@ -120,7 +120,7 @@
 + Mike says we should be able to find sleeping places in town
 
 - Plan
-    - talk to Idris
+    - talk to Idrisse
     - get back to optionally talk to Jerry
     - Sleep
     - See about transporting refugees
@@ -183,36 +183,36 @@
 - We're under the harbour
 - Pass an aaracockra child in a cell
 
-+ Get to Idris
++ Get to Idrisse
 + Get put in the cell with her and guard leaves
-+ Talk to Idriss
++ Talk to Idrisses
 + Speak in code
 
-- Idriss says that we should focus on Jerry and prevent another out break of evil
+- Idrisses says that we should focus on Jerry and prevent another out break of evil
 - Let her fate be what it is
-- If we find answers and have spare time, then help Idris
+- If we find answers and have spare time, then help Idrisse
 - Otherwise, let her be
 - Do not jailbreak her, it gives too much trouble
 
-+ Idris says Vusorin did intend for NG to join
++ Idrisse says [Vusorin](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild#Vusorin%20Vehares) did intend for NG to join
 + Does not know who they are
 + Does recognize the names
 
-- Idris asks about for refugee camp
+- Idrisse asks about for refugee camp
 - Is shocked to hear about conditions
 - Says that they were not happy to have refugees so close to city so that might help
 
 + Is worried about guards going through the refugee stuff
 + Says the dagger can be accessed through the mirror carried by Sotark
 + Guards should be prevented from going through refugee properties
-+ Refugees could have some magic heirlooms that guards could use against Idris
++ Refugees could have some magic heirlooms that guards could use against Idrisse
 
-- Idris could make a teleport circle if she is outside
+- Idrisse could make a teleport circle if she is outside
 - Something for the door in the basement of the tower is hidden on the boat
 - A blueprint for inquisitor-rings is also on the boat
 
-+ Idris is familiar with the tale of 5 wizards
-+ She and mage guild believe in the story
++ Idrisse is familiar with the tale of 5 wizards
++ She and [Mage guild](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild) believe in the story
 
 - Sudden realisation
 - 5 wizards
@@ -220,4 +220,4 @@
 - Sano's was attacked by Five
 - coincidence?!
 
-+ Idris says the 5 panels at top of tower prove the library exists
++ Idrisse says the 5 panels at top of tower prove the library exists

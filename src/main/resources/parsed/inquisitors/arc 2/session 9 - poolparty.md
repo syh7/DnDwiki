@@ -1,15 +1,15 @@
 # Session 9 - Poolparty
 
-> "Vurzes is net als Beetlefeet" - Wouter
+> "Vurzes is net als [Beetlefeet](https://bookstack.hemels.me/books/Inquisitors/page/sandhaven#Beetlefeet%20Ko)" - Wouter
 
-- Continue talking to Idris
+- Continue talking to [Idrisse](https://bookstack.hemels.me/books/Inquisitors/page/mage-guild#Idrisse%20Oqora)
 - Thinks most people are unaware of what's happening (regarding green light)
 - Be careful who you share info with
 - no enemies she's currently aware of
 - Sultan could go either way
 - inquisitor group is unknown by anyone so no image to adhere to
 
-+ Idris knows little of the hooded figures investigating us
++ Idrisse knows little of the hooded figures investigating us
 + they are called League of Assassins
 + Since [Sotark](https://bookstack.hemels.me/books/Inquisitors/page/sotark) wasn't mentioned, it is likely not inquisitor-based
 
@@ -23,14 +23,14 @@
 - Five from [Sanos](https://bookstack.hemels.me/books/Inquisitors/page/sanos) had help then. Maybe has help here and now
 - Those forces will oppose us if they find out we're looking
 
-+ [Sylraen](https://bookstack.hemels.me/books/Inquisitors/page/sylraen-morra) and Idris say goodbye
++ [Sylraen](https://bookstack.hemels.me/books/Inquisitors/page/sylraen-morra) and Idrisse say goodbye
 + Hope to see each other at the tower
 
-- Sotark decides not to go see Idris
+- Sotark decides not to go see Idrisse
 - Sylraen + Sotark go upstairs and outside
 
 + go to harbour, find a cheap restaurant with view of our boat
-+ "Het gebakken visje"
++ "[Het Gebakken Visje](https://bookstack.hemels.me/books/Inquisitors/page/sandhaven#Het%20Gebakken%20Visje)"
 
 - Our boat is 160ft long with 3 masts
 - Sylraen + Sotark point out the boat to the rest
@@ -39,9 +39,9 @@
 > "[Kwame](https://bookstack.hemels.me/books/Inquisitors/page/kwame) is balling" - Jim
 
 - discuss plans over dinner
-- retcon that Idris gave pointers to where on the boat we should look
+- retcon that Idrisse gave pointers to where on the boat we should look
 - It's _near_, not _on_ the boat
-- Sylraen looks at the water, realizes one word Idris used was "weggedoken"
+- Sylraen looks at the water, realizes one word Idrisse used was "weggedoken"
 
 + Kwame has a smart plan to look for a diving store to help with equipment
 + Diving does not exist in this world
@@ -149,7 +149,7 @@
 - missing refugees might be a problem for the local government
 - go talk to Marge to ask about the route Jerry + Jermaine usually take
 - Marge does not know the exact way but knows some landmarks
-    - south-east to tavern Sand Sailor's Rest
+    - south-east to tavern [Sand Sailor's Rest](https://bookstack.hemels.me/books/Inquisitors/page/sandhaven#Sand%20Sailor's%20Rest)
     - along coast to the east to the desert
     - to centre of city
     - then back to camp

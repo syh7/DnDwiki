@@ -25,7 +25,7 @@
 - do not see any sign of J&J on the way
 - nor along the edge of the sand sea
 
-+ arrive at Sand Sailor's Rest
++ arrive at [Sand Sailor's Rest](https://bookstack.hemels.me/books/Inquisitors/page/sandhaven#Sand%20Sailor's%20Rest)
 + see lights on the Whispering Sands
 + the possible caravans are performing as party huts on the sand sea
 
@@ -58,7 +58,7 @@
 >
 > "En voor onze orgies" - Wouter
 
-- wave to Beetlefeet
+- wave to [Beetlefeet](https://bookstack.hemels.me/books/Inquisitors/page/sandhaven#Beetlefeet%20Ko)
 - leave
 
 + hear people start arguing about who can go next on the party hut
