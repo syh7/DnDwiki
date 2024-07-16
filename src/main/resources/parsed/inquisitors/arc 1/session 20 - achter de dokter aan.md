@@ -1,4 +1,4 @@
-# Sessie 20 - Achter de Dokter aan
+# Session 20 - Achter de Dokter aan
 
 - mastiffs uit shadow fell halen kost veel magie
 - dus vijand heeft high magic user
