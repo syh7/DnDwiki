@@ -14,8 +14,8 @@ class ParseService {
 
     private val digitRegex = Regex("\\d+")
     private val fileComparator: Comparator<Path> = Comparator { pathA, pathB ->
-        val padded1 = digitRegex.replace(pathA.name) { it.value.padStart(5, '0') }
-        val padded2 = digitRegex.replace(pathB.name) { it.value.padStart(5, '0') }
+        val padded1 = digitRegex.replace(pathA.pathString) { it.value.padStart(5, '0') }
+        val padded2 = digitRegex.replace(pathB.pathString) { it.value.padStart(5, '0') }
         padded1.compareTo(padded2)
     }
 
