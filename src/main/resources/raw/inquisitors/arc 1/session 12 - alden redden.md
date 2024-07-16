@@ -1,4 +1,4 @@
-# Sessie 12 - Alden Redden
+# Session 12 - Alden Redden
 
 - Vayne ziet hunters inpakken en start zijn plan
 - geeft Rug zijn Ring of Jumping

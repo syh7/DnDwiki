@@ -1,4 +1,4 @@
-# Sessie 15 - Nieuwe Vrienden en Oude Bekenden
+# Session 15 - Nieuwe Vrienden en Oude Bekenden
 
 - Komen aan by Sanos
 - Guards zeggen dat Vur-zes de raad bij elkaar roept en dat wij ook verwacht worden

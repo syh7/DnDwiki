@@ -1,4 +1,4 @@
-# Sessie 15 - Nieuwe Vrienden en Oude Bekenden
+# Session 15 - Nieuwe Vrienden en Oude Bekenden
 
 - Komen aan by [Sanos](https://bookstack.hemels.me/books/Inquisitors/page/sanos)
 - Guards zeggen dat [Vur-zes](https://bookstack.hemels.me/books/Inquisitors/page/sanos#Vur-zes%20Lunzik) de raad bij elkaar roept en dat wij ook verwacht worden

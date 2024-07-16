@@ -1,4 +1,4 @@
-# Sessie 14 - Alden Verdedigen
+# Session 14 - Alden Verdedigen
 
 - Sylraen niet aanwezig
 - Alden is verdedigd

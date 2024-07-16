@@ -1,4 +1,4 @@
-# Sessie 14 - Alden Verdedigen
+# Session 14 - Alden Verdedigen
 
 - [Sylraen](https://bookstack.hemels.me/books/Inquisitors/page/sylraen-morra) niet aanwezig
 - Alden is verdedigd

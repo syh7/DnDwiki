@@ -1,4 +1,4 @@
-# Sessie 13 - Alden Overnemen
+# Session 13 - Alden Overnemen
 
 - Vayne haalt beurten in en sneakt Invisible Alden in
 
