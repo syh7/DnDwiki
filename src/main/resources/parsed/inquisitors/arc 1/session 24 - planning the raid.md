@@ -30,7 +30,7 @@
 
 + Door achter Survivy aan
 
-> "Ik mis [Ezreal](https://bookstack.hemels.me/books/Inquisitors/page/ezreal) want die had in heel door gesneden" - [Sumi](https://bookstack.hemels.me/books/Inquisitors/page/sumi)
+> "Ik mis [Ezreal](https://bookstack.hemels.me/books/Inquisitors/page/ezreal) want die had z'n keel door gesneden" - [Sumi](https://bookstack.hemels.me/books/Inquisitors/page/sumi)
 >
 > "Ik luister alleen maar, en ik riskeer mijn leven, en wat krijg ik terug? Vijandigheid" - Survivy
 
