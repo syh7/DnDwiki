@@ -13,6 +13,7 @@ import kotlin.io.path.*
 class ParseService {
 
     private val digitRegex = Regex("\\d+")
+    private val arcRegex = Regex("sessions( arc \\d+)?")
     private val fileComparator: Comparator<Path> = Comparator { pathA, pathB ->
         val padded1 = digitRegex.replace(pathA.pathString) { it.value.padStart(5, '0') }
         val padded2 = digitRegex.replace(pathB.pathString) { it.value.padStart(5, '0') }
@@ -20,28 +21,41 @@ class ParseService {
     }
 
     @OptIn(ExperimentalPathApi::class)
-    fun parseDirectory(setup: CompleteBookSetup): List<HandledSession> {
+    fun parseArcs(setup: CompleteBookSetup): List<ArcSetup> {
         upLogOffset()
-        log("walking $RAW_SESSION_FOLDER")
-        val newSessions = Paths.get(RAW_SESSION_FOLDER, setup.name.lowercase())
+        log("walking $RAW_FOLDER")
+        val parsedFiles = Paths.get(RAW_FOLDER, setup.name.lowercase())
             .walk()
             .sortedWith(fileComparator)
             .map { rawFilePath ->
                 log("walking $rawFilePath")
-                val parsedFilePath = Paths.get(rawFilePath.pathString.replace("raw", "parsed"))
-
-                parsedFilePath.parent.createDirectories()
-
-
-                var (title, body) = rawFilePath.readText().split("\n", limit = 2)
-                setup.tagUrlMap.forEach { body = replaceTagsInBody(it, body) }
-                val fullText = "$title\n$body"
-                writeFile(parsedFilePath, fullText)
+                parseAndWriteFile(rawFilePath, setup)
             }
             .toList()
 
+        val arcs = divideInArcs(parsedFiles, setup)
+
         lowerLogOffset()
-        return newSessions
+        return arcs
+    }
+
+    private fun parseAndWriteFile(rawFilePath: Path, setup: CompleteBookSetup): ParsedFile {
+        val parsedFilePath = Paths.get(rawFilePath.pathString.replace("raw", "parsed"))
+
+        parsedFilePath.parent.createDirectories()
+
+        val fullText = if (rawFilePath.name.contains(" - ")) {
+            var (title, body) = rawFilePath.readText().split("\n", limit = 2)
+            setup.tagUrlMap.forEach { body = replaceTagsInBody(it, body) }
+
+            "$title\n$body"
+        } else {
+            rawFilePath.readText()
+        }
+
+        val parsedState = writeFile(parsedFilePath, fullText)
+
+        return ParsedFile(parsedState, parsedFilePath)
     }
 
     private fun replaceTagsInBody(tagMap: TagMap, body: String): String {
@@ -59,36 +73,51 @@ class ParseService {
 
     fun createPattern(it: String): Pattern = Pattern.compile("(?U)(?i)(\\b)($it)(\\b)")
 
-    private fun writeFile(path: Path, sessionText: String): HandledSession {
-        val state: SessionState
+    private fun writeFile(path: Path, sessionText: String): ParseState {
         if (path.exists()) {
             val currentParsedText = path.readText()
             if (currentParsedText == sessionText) {
-                state = SessionState.IGNORED
+                return ParseState.IGNORED
             } else {
-                state = SessionState.UPDATED
                 log("Updating previously parsed $path")
                 path.writeText(sessionText)
+                return ParseState.UPDATED
             }
         } else {
-            state = SessionState.NEW
             log("Parsed file, writing to $path")
             path.writeText(sessionText)
+            return ParseState.NEW
         }
-        return HandledSession(state, path)
+    }
+
+    private fun divideInArcs(parsedFiles: List<ParsedFile>, bookSetup: CompleteBookSetup): List<ArcSetup> {
+
+        val sessionsGroupedPerArc = parsedFiles.groupBy { arcRegex.find(it.path.pathString)?.value ?: throw IllegalStateException("no session in path") }
+
+        return sessionsGroupedPerArc.map { (_, files) ->
+            val chapterSetup = files.first { it.path.parent.name == bookSetup.name.lowercase() }
+            val sessions = files.filterNot { it.path.parent.name == bookSetup.name.lowercase() }
+            ArcSetup(chapterSetup, sessions)
+        }
+
     }
 
     companion object {
-        private const val RAW_SESSION_FOLDER = "src/main/resources/raw"
+        private const val RAW_FOLDER = "src/main/resources/raw"
     }
 
 }
 
-data class HandledSession(
-    val state: SessionState,
+data class ArcSetup(
+    val chapterSetup: ParsedFile,
+    val sessions: List<ParsedFile>
+)
+
+data class ParsedFile(
+    val state: ParseState,
     val path: Path
 )
 
-enum class SessionState {
+enum class ParseState {
     NEW, UPDATED, IGNORED
 }
