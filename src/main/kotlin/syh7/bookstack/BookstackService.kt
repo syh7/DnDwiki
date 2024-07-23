@@ -17,7 +17,6 @@ import kotlin.io.path.readText
 
 class BookstackService {
 
-    private val properties = BookstackProperties()
     private val bookstackClient = BookstackClient()
 
     fun getBooks(): SimpleBookContainer {
@@ -75,9 +74,8 @@ class BookstackService {
     }
 
     private fun createTagUrlMap(keyChapterPageMap: Map<BookContentsChapter, List<DetailedPage>>, book: String): List<TagMap> {
-        val bookUrl = "${properties.url}/books/$book"
         return keyChapterPageMap.values.flatten()
-            .map { createTagMap(it, bookUrl) }
+            .map { createTagMap(it, book) }
             .flatten()
     }
 

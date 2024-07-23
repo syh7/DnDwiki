@@ -1,19 +1,20 @@
 package syh7.parse
 
 import syh7.bookstack.CompleteBookSetup
-import syh7.bookstack.TagMap
 import syh7.util.log
 import syh7.util.lowerLogOffset
 import syh7.util.upLogOffset
 import java.nio.file.Path
 import java.nio.file.Paths
-import java.util.regex.Pattern
 import kotlin.io.path.*
 
 class ParseService {
 
+    private val sessionParser = SessionParser()
+    private val chapterParser = ChapterParser()
+
+    private val chapterRegex = Regex("sessions( arc \\d+)?")
     private val digitRegex = Regex("\\d+")
-    private val arcRegex = Regex("sessions( arc \\d+)?")
     private val fileComparator: Comparator<Path> = Comparator { pathA, pathB ->
         val padded1 = digitRegex.replace(pathA.pathString) { it.value.padStart(5, '0') }
         val padded2 = digitRegex.replace(pathB.pathString) { it.value.padStart(5, '0') }
@@ -44,34 +45,15 @@ class ParseService {
 
         parsedFilePath.parent.createDirectories()
 
-        val fullText = if (rawFilePath.name.contains(" - ")) {
-            var (title, body) = rawFilePath.readText().split("\n", limit = 2)
-            setup.tagUrlMap.forEach { body = replaceTagsInBody(it, body) }
-
-            "$title\n$body"
-        } else {
-            rawFilePath.readText()
+        val fullText = when (rawFilePath.extension) {
+            "md" -> sessionParser.parseSession(rawFilePath, setup)
+            "html" -> rawFilePath.readText()
+            else -> throw IllegalStateException("unsupported extension for path $rawFilePath")
         }
 
         val parsedState = writeFile(parsedFilePath, fullText)
-
         return ParsedFile(parsedState, parsedFilePath)
     }
-
-    private fun replaceTagsInBody(tagMap: TagMap, body: String): String {
-        var editableBody = body
-        tagMap.tags
-            .map {
-                val matcher = createPattern(it).matcher(editableBody)
-                matcher to it
-            }
-            .filter { (matcher, _) -> matcher.find() }
-            .minByOrNull { (matcher, _) -> matcher.start() }
-            ?.let { (matcher, tag) -> editableBody = matcher.replaceFirst("$1[$tag](${tagMap.url})$3") }
-        return editableBody
-    }
-
-    fun createPattern(it: String): Pattern = Pattern.compile("(?U)(?i)(\\b)($it)(\\b)")
 
     private fun writeFile(path: Path, sessionText: String): ParseState {
         if (path.exists()) {
@@ -91,8 +73,7 @@ class ParseService {
     }
 
     private fun divideInArcs(parsedFiles: List<ParsedFile>, bookSetup: CompleteBookSetup): List<ArcSetup> {
-
-        val sessionsGroupedPerArc = parsedFiles.groupBy { arcRegex.find(it.path.pathString)?.value ?: throw IllegalStateException("no session in path") }
+        val sessionsGroupedPerArc = parsedFiles.groupBy { chapterRegex.find(it.path.pathString)?.value ?: throw IllegalStateException("could not find chapter file") }
 
         return sessionsGroupedPerArc.map { (_, files) ->
             val chapterSetup = files.first { it.path.parent.name == bookSetup.name.lowercase() }
@@ -105,7 +86,6 @@ class ParseService {
     companion object {
         private const val RAW_FOLDER = "src/main/resources/raw"
     }
-
 }
 
 data class ArcSetup(

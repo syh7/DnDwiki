@@ -28,6 +28,10 @@ fun main() {
 
     bookNames.forEach { bookName ->
 
+        log("")
+        log("-------------------------")
+        log("")
+        
 //        refreshCache(bookName)
 
         log("Starting handling book $bookName")
