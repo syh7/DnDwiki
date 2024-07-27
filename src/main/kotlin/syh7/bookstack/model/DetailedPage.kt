@@ -11,14 +11,14 @@ data class DetailedPage(
     val updated_at: String,
     val created_by: User,
     val draft: Boolean,
-    val markdown: String,
     val revision_count: Long,
     val template: Boolean,
     val owned_by: User,
     val editor: String,
     val tags: List<Tag>,
 ) {
-    // explicitly put the html in the class to prevent very big toStrings while still having access to them
+    // explicitly put the html + markdown in the class to prevent very big toStrings while still having access to them
     var html: String = ""
     var raw_html: String = ""
+    var markdown: String = ""
 }
