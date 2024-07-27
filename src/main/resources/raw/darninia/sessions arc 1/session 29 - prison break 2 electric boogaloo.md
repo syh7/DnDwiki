@@ -1,4 +1,4 @@
-# Session 29 - Prison Break
+# Session 29 - Prison Break 2: Electric Boogaloo
 
 > "Shelby is basically an airplane" - Frank
 

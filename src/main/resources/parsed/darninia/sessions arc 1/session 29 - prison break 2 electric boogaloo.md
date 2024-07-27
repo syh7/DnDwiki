@@ -1,4 +1,4 @@
-# Session 29 - Prison Break
+# Session 29 - Prison Break 2: Electric Boogaloo
 
 > "[Shelby](https://bookstack.hemels.me/books/Darninia/page/imnahofo-sgoma#Hofo%20Sgoma) is basically an airplane" - Frank
 

@@ -39,6 +39,7 @@
 - Session 26 - Meeting Shelby
 - Session 27 - Stealing from a Beholder
 - Session 28 - Critiquing Kengradt
-- Session 29 - Prison Break
+- Session 29 - Prison Break 2: Electric Boogaloo
 - Session 30 - Grave Digging
 - Session 31 - Friends in the Faewild
+- Session 32 - Prison Br3ak

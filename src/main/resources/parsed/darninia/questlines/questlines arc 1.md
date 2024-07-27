@@ -39,6 +39,7 @@
 - [Session 26 - Meeting Shelby](https://bookstack.hemels.me/books/Darninia/page/session-26-meeting-shelby)
 - [Session 27 - Stealing from a Beholder](https://bookstack.hemels.me/books/Darninia/page/session-27-stealing-from-a-beholder)
 - [Session 28 - Critiquing Kengradt](https://bookstack.hemels.me/books/Darninia/page/session-28-critiquing-kengradt)
-- [Session 29 - Prison Break](https://bookstack.hemels.me/books/Darninia/page/session-29-prison-break)
+- [Session 29 - Prison Break 2: Electric Boogaloo](https://bookstack.hemels.me/books/Darninia/page/session-29-prison-break-2-electric-boogaloo)
 - [Session 30 - Grave digging](https://bookstack.hemels.me/books/Darninia/page/session-30-grave-digging)
 - [Session 31 - Friends in the Faewild](https://bookstack.hemels.me/books/Darninia/page/session-31-friends-in-the-faewild)
+- [Session 32 - Prison Br3ak](https://bookstack.hemels.me/books/Darninia/page/session-32-prison-br3ak)
