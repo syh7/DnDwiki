@@ -5,8 +5,8 @@ import syh7.bookstack.model.BookContentsChapter
 import syh7.bookstack.model.DetailedBook
 import syh7.bookstack.model.DetailedPage
 import syh7.bookstack.model.SimpleBookContainer
-import syh7.parse.HandledSession
-import syh7.parse.SessionState
+import syh7.parse.ParseState
+import syh7.parse.ParsedFile
 import syh7.util.log
 import syh7.util.lowerLogOffset
 import syh7.util.upLogOffset
@@ -90,7 +90,7 @@ class BookstackService {
         lowerLogOffset()
     }
 
-    fun updateSessions(bookSetup: CompleteBookSetup, sessions: List<HandledSession>) {
+    fun updateSessions(bookSetup: CompleteBookSetup, sessions: List<ParsedFile>) {
         upLogOffset()
         val sessionChapters = bookSetup.bookstackBook.contents
             .filterIsInstance<BookContentsChapter>()
@@ -103,9 +103,9 @@ class BookstackService {
             log("handling new session ${session.path}")
             upLogOffset()
             when (session.state) {
-                SessionState.NEW -> handleNewSession(session, sessionChapters)
-                SessionState.UPDATED -> handleUpdatedSession(session, sessionChapters)
-                SessionState.IGNORED -> log("session is not new nor updated, so skip it")
+                ParseState.NEW -> handleNewSession(session, sessionChapters)
+                ParseState.UPDATED -> handleUpdatedSession(session, sessionChapters)
+                ParseState.IGNORED -> log("session is not new nor updated, so skip it")
             }
             lowerLogOffset()
         }
@@ -113,7 +113,7 @@ class BookstackService {
         lowerLogOffset()
     }
 
-    private fun handleUpdatedSession(session: HandledSession, sessionChapters: List<BookContentsChapter>) {
+    private fun handleUpdatedSession(session: ParsedFile, sessionChapters: List<BookContentsChapter>) {
         log("handling updated session ${session.path}")
         val sessionName = session.path.toFile().nameWithoutExtension.lowercase()
         val sessionNumber = getSessionNumber(sessionName)
@@ -129,7 +129,7 @@ class BookstackService {
 
     private fun getSessionNumber(sessionName: String) = sessionName.split(" - ")[0].split(" ")[1].toInt()
 
-    private fun handleNewSession(session: HandledSession, sessionChapters: List<BookContentsChapter>) {
+    private fun handleNewSession(session: ParsedFile, sessionChapters: List<BookContentsChapter>) {
         log("handling new session ${session.path}")
         val markdown = session.path.toFile().readText()
         val sessionsChapter = getRelevantSessionChapter(session.path, sessionChapters)

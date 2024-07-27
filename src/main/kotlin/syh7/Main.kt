@@ -5,7 +5,7 @@ import syh7.bookstack.BookstackService
 import syh7.bookstack.CompleteBookSetup
 import syh7.cache.CacheService
 import syh7.parse.ParseService
-import syh7.parse.SessionState
+import syh7.parse.ParseState
 import syh7.util.log
 import syh7.util.lowerLogOffset
 import syh7.util.upLogOffset
@@ -48,7 +48,7 @@ private fun parseAndAddSessionsToWiki(bookName: String, bookSetup: CompleteBookS
     log("parsed ${sessions.size}, updating wiki")
     bookstackService.updateSessions(bookSetup, sessions)
 
-    if (sessions.any { it.state == SessionState.NEW }) {
+    if (sessions.any { it.state == ParseState.NEW }) {
         refreshCache(bookName)
     }
 }

@@ -1,16 +1,16 @@
 package syh7.parse
 
 import syh7.bookstack.CompleteBookSetup
-import syh7.bookstack.TagMap
 import syh7.util.log
 import syh7.util.lowerLogOffset
 import syh7.util.upLogOffset
 import java.nio.file.Path
 import java.nio.file.Paths
-import java.util.regex.Pattern
 import kotlin.io.path.*
 
 class ParseService {
+
+    private val sessionParser = SessionParser()
 
     private val digitRegex = Regex("\\d+")
     private val fileComparator: Comparator<Path> = Comparator { pathA, pathB ->
@@ -20,22 +20,18 @@ class ParseService {
     }
 
     @OptIn(ExperimentalPathApi::class)
-    fun parseDirectory(setup: CompleteBookSetup): List<HandledSession> {
+    fun parseDirectory(setup: CompleteBookSetup): List<ParsedFile> {
         upLogOffset()
-        log("walking $RAW_SESSION_FOLDER")
-        val newSessions = Paths.get(RAW_SESSION_FOLDER, setup.name.lowercase())
+        log("walking $RAW_FOLDER")
+        val newSessions = Paths.get(RAW_FOLDER, setup.name.lowercase(), "sessions")
             .walk()
             .sortedWith(fileComparator)
             .map { rawFilePath ->
                 log("walking $rawFilePath")
                 val parsedFilePath = Paths.get(rawFilePath.pathString.replace("raw", "parsed"))
 
-                parsedFilePath.parent.createDirectories()
+                val fullText = sessionParser.parseSession(rawFilePath, setup)
 
-
-                var (title, body) = rawFilePath.readText().split("\n", limit = 2)
-                setup.tagUrlMap.forEach { body = replaceTagsInBody(it, body) }
-                val fullText = "$title\n$body"
                 writeFile(parsedFilePath, fullText)
             }
             .toList()
@@ -44,51 +40,36 @@ class ParseService {
         return newSessions
     }
 
-    private fun replaceTagsInBody(tagMap: TagMap, body: String): String {
-        var editableBody = body
-        tagMap.tags
-            .map {
-                val matcher = createPattern(it).matcher(editableBody)
-                matcher to it
-            }
-            .filter { (matcher, _) -> matcher.find() }
-            .minByOrNull { (matcher, _) -> matcher.start() }
-            ?.let { (matcher, tag) -> editableBody = matcher.replaceFirst("$1[$tag](${tagMap.url})$3") }
-        return editableBody
-    }
-
-    fun createPattern(it: String): Pattern = Pattern.compile("(?U)(?i)(\\b)($it)(\\b)")
-
-    private fun writeFile(path: Path, sessionText: String): HandledSession {
-        val state: SessionState
+    private fun writeFile(path: Path, sessionText: String): ParsedFile {
+        val state: ParseState
         if (path.exists()) {
             val currentParsedText = path.readText()
             if (currentParsedText == sessionText) {
-                state = SessionState.IGNORED
+                state = ParseState.IGNORED
             } else {
-                state = SessionState.UPDATED
+                state = ParseState.UPDATED
                 log("Updating previously parsed $path")
                 path.writeText(sessionText)
             }
         } else {
-            state = SessionState.NEW
+            state = ParseState.NEW
             log("Parsed file, writing to $path")
             path.writeText(sessionText)
         }
-        return HandledSession(state, path)
+        return ParsedFile(state, path)
     }
 
     companion object {
-        private const val RAW_SESSION_FOLDER = "src/main/resources/raw"
+        private const val RAW_FOLDER = "src/main/resources/raw"
     }
 
 }
 
-data class HandledSession(
-    val state: SessionState,
+data class ParsedFile(
+    val state: ParseState,
     val path: Path
 )
 
-enum class SessionState {
+enum class ParseState {
     NEW, UPDATED, IGNORED
 }
