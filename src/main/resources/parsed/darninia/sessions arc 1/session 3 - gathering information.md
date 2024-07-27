@@ -1,6 +1,6 @@
 # Session 3 - Gathering Information
 
-- [Sclab Centre](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-sclab-centre%2C-poores):
+- [Sclab Centre](https://bookstack.hemels.me/books/Darninia/page/itron#bkmrk-sclab-centre%2C-poores):
     + workshops
     + lot of beggars
     + not a lot of shops
@@ -55,7 +55,7 @@
 - [Mohul](https://bookstack.hemels.me/books/Darninia/page/itron#notable%20people), friend of Flow of the River; do task for information
 
 + Voices:
-+ Malarit is trying to take over [Canal Village](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-canal-village%2C-expen)
++ Malarit is trying to take over [Canal Village](https://bookstack.hemels.me/books/Darninia/page/itron#bkmrk-canal-village%2C-expen)
 + Sign is quatl (flying serpent) then [Itron](https://bookstack.hemels.me/books/Darninia/page/itron) organisation of poor people, slaves
 + make money by selling tabaxi pelts
 + Given assignment:

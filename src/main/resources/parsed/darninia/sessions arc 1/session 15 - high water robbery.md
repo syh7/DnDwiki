@@ -57,13 +57,13 @@
 
 + back in carriage
 + get closer to Itron, see smoke arise
-+ smoke from east side, near [Canal Village](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-canal-village%2C-expen)
++ smoke from east side, near [Canal Village](https://bookstack.hemels.me/books/Darninia/page/itron#bkmrk-canal-village%2C-expen)
 + get dropped outside the city
 + east gate is shut, guards are actively piling stuff to try and keep something inside the city
 + hear people screaming
 + EotM climbs the wall and sees entire canal village is burning
 + people are trying to leave but east gate is closed
-+ fire is spreading to [Artists District](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-artists-district%2C-th)
++ fire is spreading to [Artists District](https://bookstack.hemels.me/books/Darninia/page/itron#bkmrk-artists-district%2C-th)
 + crowd wins and bursts through the gate
 
 - discuss plans

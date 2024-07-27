@@ -49,9 +49,9 @@
 + old, white man
 + maybe [Heinz](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family#Heinz%20von%20Mackenbach)?
 
-- all of [Canal Village](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-canal-village%2C-expen) has burned down
+- all of [Canal Village](https://bookstack.hemels.me/books/Darninia/page/itron#bkmrk-canal-village%2C-expen) has burned down
 - move towards [Mohul](https://bookstack.hemels.me/books/Darninia/page/itron#notable%20people)
-- [Artists District](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-artists-district%2C-th) is mostly undamaged, but some edges are burned
+- [Artists District](https://bookstack.hemels.me/books/Darninia/page/itron#bkmrk-artists-district%2C-th) is mostly undamaged, but some edges are burned
 
 + Mohuls pavilion is blackened but stone so mostly okay
 + the wooden buildings around it are burned down

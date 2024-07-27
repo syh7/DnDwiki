@@ -5,10 +5,10 @@
 + Lower/Middle/Upper districts
 
 - Lower:
-- [Artists District](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-artists-district%2C-th) (safe, expensive)
-- [Sclab Centre](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-sclab-centre%2C-poores) (less comfort but cheaper; routine searches)
-- [Canal Village](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-canal-village%2C-expen) (avoid, "no pirates")
-- [Hyraine Village](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-hyraine-village%2C-upc) (ancient temple in empty lake)
+- [Artists District](https://bookstack.hemels.me/books/Darninia/page/itron#bkmrk-artists-district%2C-th) (safe, expensive)
+- [Sclab Centre](https://bookstack.hemels.me/books/Darninia/page/itron#bkmrk-sclab-centre%2C-poores) (less comfort but cheaper; routine searches)
+- [Canal Village](https://bookstack.hemels.me/books/Darninia/page/itron#bkmrk-canal-village%2C-expen) (avoid, "no pirates")
+- [Hyraine Village](https://bookstack.hemels.me/books/Darninia/page/itron#bkmrk-hyraine-village%2C-upc) (ancient temple in empty lake)
 
 + Middle:
 + [Lusty Leopard](https://bookstack.hemels.me/books/Darninia/page/itron#Middle%20Level) (whore house/brothel)

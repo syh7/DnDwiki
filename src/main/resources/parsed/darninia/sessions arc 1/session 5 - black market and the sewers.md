@@ -30,7 +30,7 @@
 - Has a job for us:
 - some people wronged him + friends, he's in a discussion with people about prices,
 - wants revenge but cannot do it himself, wants 2 things stolen
-- party at mansion in [Canal Village](https://bookstack.hemels.me/books/Darninia/page/itron##bkmrk-canal-village%2C-expen), blue peacock feather
+- party at mansion in [Canal Village](https://bookstack.hemels.me/books/Darninia/page/itron#bkmrk-canal-village%2C-expen), blue peacock feather
 - [von Mackenbach](https://bookstack.hemels.me/books/Darninia/page/the-von-mackenbach-family) will be there, also Mayors son Eniores Iaran + Ando Iaran
 
 + important people at party:
