@@ -1,6 +1,6 @@
 # Session 8 - Wanted
 
-- Mohul says we are worthy of being cool
+- [Mohul](https://bookstack.hemels.me/books/Darninia/page/itron#notable%20people) says we are worthy of being cool
 - magic items are "lost" (next session)
 
 + trying to find a way to remove necklaces
@@ -9,11 +9,11 @@
 + put on by random guards at prison, so magic items were activated before
 + try to get a dagger in between,but lifting does not work
 
-- ancient Andarin Culoriana joins the group
+- ancient [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) [Culoriana](https://bookstack.hemels.me/books/Darninia/page/culorianacora) joins the group
 - was captured under the mountain
 - says documents are not beneath the mountain nor on or anywhwere near
 - hiding something about caves
-- does not know anything baout cave of the wailing drowned
+- does not know anything baout [Cave of the wailing drowned](https://bookstack.hemels.me/books/Darninia/page/nenen#cave%20of%20the%20wailing%20drowned)
 - Aaracockra "Ölö" joins, says there is a legend about the cave:
 
 + A child was lost in the caves, kept crying.
@@ -21,7 +21,7 @@
 + After a high tide, there was no sound anymore
 
 - Caves are a living being, changing entrances at will
-- If we go to Neuneun, talk to old, blind aaracockra who was supposedly in the caved (named Öfakkö)
+- If we go to [Neuneun](https://bookstack.hemels.me/books/Darninia/page/nenen), talk to old, blind aaracockra who was supposedly in the caved (named [Öfakkö](https://bookstack.hemels.me/books/Darninia/page/nenen#notable%20people))
 - to get to Neuneun, take boat from Öreö (also known as Orio)
 - Ölö got high on shrooms, bought magic items, got captured by guards
 
@@ -30,20 +30,20 @@
 
 - boat arrives at Stormhorn
 - lots of pirates there
-- there's a shelter on Stormhorn for animals (wolves of Laurence)
+- there's a shelter on Stormhorn for animals (wolves of [Laurence](https://bookstack.hemels.me/books/Darninia/page/lorelianlaurence))
 - hippogrifs live in the mountains of Neuneun
 
 + woman Salva brings us to the cellar
 + bunkbeds, lots of women and few men
 + women look allike despite different races
 
-- Wacomar looks at documents from the prison
+- [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) looks at documents from the prison
 - all a slightly different Remove Curse
 - identity documents of captured women
 - personal spell scroll
 
 + personal spell scroll:
-+ "Hello Wanzel"
++ "Hello Wancel"
 + spell in Elvish script but unknown language
 + letter from father of Wanzel saying he needs to get a music box from the Wailing Drowned cave in order to get him and mum back alive
 + the rest sees an empty scroll
@@ -58,11 +58,11 @@
 - points of interest:
     - talk to Armani
     - get puppies from Laurence
-    - go to mid level smithy for EotM
+    - go to mid level smithy for [EotM](https://bookstack.hemels.me/books/Darninia/page/eye-of-the-mountain)
     - go to Neuneun
 
 + split up
-+ Dalynn + Faramar to Armani + Laurence
++ [Dalynn](https://bookstack.hemels.me/books/Darninia/page/dalynn-lathrana) + [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) to Armani + Laurence
 + Wacomar + EotM to middle level
 
 - at Armani's
