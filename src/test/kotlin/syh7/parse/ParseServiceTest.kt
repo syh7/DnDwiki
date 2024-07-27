@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions.assertIterableEquals
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.MethodSource
 
-class SessionParserTest {
+class ParseServiceTest {
 
     private val foundWord = "found"
 
@@ -39,12 +39,12 @@ class SessionParserTest {
     }
 
     private fun invokePattern(strings: List<String>, testWord: String): List<String> {
-        val pattern = SessionParser().createPattern(testWord)
+        val pattern = ParseService().createPattern(testWord)
         return strings.map { pattern.matcher(it).replaceFirst(foundWord) }
     }
 
     private fun invokePattern(string: String, testWord: String): String {
-        val pattern = SessionParser().createPattern(testWord)
+        val pattern = ParseService().createPattern(testWord)
         return pattern.matcher(string).replaceFirst(foundWord)
     }
 
