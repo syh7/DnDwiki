@@ -8,8 +8,6 @@ import kotlin.io.path.readText
 
 class SessionParser {
 
-    private val digitRegex = Regex("\\d+")
-
     fun parseSession(rawFilePath: Path, setup: CompleteBookSetup): String {
         var (title, body) = rawFilePath.readText().split("\n", limit = 2)
         setup.tagUrlMap.forEach { body = replaceTagsInBody(it, body) }

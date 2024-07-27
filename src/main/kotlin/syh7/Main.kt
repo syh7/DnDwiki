@@ -27,10 +27,10 @@ fun main() {
     )
 
     bookNames.forEach { bookName ->
+        log("Starting handling book $bookName")
 
 //        refreshCache(bookName)
 
-        log("Starting handling book $bookName")
         val bookSetup = getBookSetup(bookName)
 
         parseAndAddSessionsToWiki(bookName, bookSetup)

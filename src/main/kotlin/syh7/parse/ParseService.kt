@@ -11,6 +11,7 @@ import kotlin.io.path.*
 class ParseService {
 
     private val sessionParser = SessionParser()
+    private val questlineParser = QuestlineParser()
 
     private val digitRegex = Regex("\\d+")
     private val fileComparator: Comparator<Path> = Comparator { pathA, pathB ->
@@ -23,14 +24,20 @@ class ParseService {
     fun parseDirectory(setup: CompleteBookSetup): List<ParsedFile> {
         upLogOffset()
         log("walking $RAW_FOLDER")
-        val newSessions = Paths.get(RAW_FOLDER, setup.name.lowercase(), "sessions")
+        val newSessions = Paths.get(RAW_FOLDER, setup.name.lowercase())
             .walk()
             .sortedWith(fileComparator)
             .map { rawFilePath ->
                 log("walking $rawFilePath")
                 val parsedFilePath = Paths.get(rawFilePath.pathString.replace("raw", "parsed"))
 
-                val fullText = sessionParser.parseSession(rawFilePath, setup)
+                val fullText = if (rawFilePath.pathString.contains("sessions")) {
+                    sessionParser.parseSession(rawFilePath, setup)
+                } else if (rawFilePath.pathString.contains("questlines")) {
+                    questlineParser.parseQuestlines(rawFilePath, setup)
+                } else {
+                    throw IllegalStateException("could not find parser for file '$rawFilePath'")
+                }
 
                 writeFile(parsedFilePath, fullText)
             }
