@@ -157,12 +157,13 @@ When you see me, I see you
 - they do not heal Wacomar
 - panik
 
-+ Dalynn plays her nature fluit
++ Dalynn plays her nature flute
 + Wacomar & Ember feel dead to the flute
 + panik
 
 - Search for books in library about potions
 - Find wrath curse oil section
+- it is actually Ratheker oil
 - 2 uses:
     - peaceful journey to afterlife if used in ritual
     - trance, peaceful sleep for 1 hour if sniffed
