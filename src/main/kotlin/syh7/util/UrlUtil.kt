@@ -9,5 +9,5 @@ fun createBookUrl(bookName: String) = "${properties.url}/books/$bookName"
 
 fun createPageUrl(bookName: String, pageSlug: String, heading: String? = null): String {
     val headingSuffix = heading?.let { "#$heading" } ?: ""
-    return createBookUrl(bookName) + "/page/$pageSlug" + heading
+    return createBookUrl(bookName) + "/page/$pageSlug" + headingSuffix
 }

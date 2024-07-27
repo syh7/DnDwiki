@@ -46,7 +46,7 @@ private fun parseAndAddSessionsToWiki(bookName: String, bookSetup: CompleteBookS
     val sessions = parseService.parseDirectory(bookSetup)
 
     log("parsed ${sessions.size}, updating wiki")
-    bookstackService.updateSessions(bookSetup, sessions)
+    bookstackService.updateWiki(bookSetup, sessions)
 
     if (sessions.any { it.state == ParseState.NEW }) {
         refreshCache(bookName)

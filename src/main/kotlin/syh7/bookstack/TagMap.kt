@@ -1,6 +1,7 @@
 package syh7.bookstack
 
 import syh7.bookstack.model.DetailedPage
+import syh7.util.createPageUrl
 
 data class TagMap(val tags: List<String>, val url: String) {
     override fun toString(): String {
@@ -8,21 +9,20 @@ data class TagMap(val tags: List<String>, val url: String) {
     }
 }
 
-fun createTagMap(page: DetailedPage, bookUrl: String): List<TagMap> {
+fun createTagMap(page: DetailedPage, book: String): List<TagMap> {
     if (page.tags.isEmpty()) {
         return emptyList()
     }
-
-    val pageUrl = "$bookUrl/page/${page.slug}"
 
     return page.tags
         .groupBy { it.value }
         .map { (tagValue, subTags) ->
             val tagNames = subTags.map { it.name }
             if (tagValue.isEmpty()) {
-                listOf(TagMap(tagNames, pageUrl))
+                listOf(TagMap(tagNames, createPageUrl(book, page.slug)))
             } else {
-                val tagUrl = "$pageUrl#${tagValue.replace(" ", "%20")}"
+                val tag = tagValue.replace(" ", "%20")
+                val tagUrl = createPageUrl(book, page.slug, tag)
                 tagNames.map { TagMap(listOf(it), tagUrl) }
             }
         }

@@ -15,7 +15,6 @@ import kotlin.io.path.name
 
 class BookstackService {
 
-    private val properties = BookstackProperties()
     private val bookstackClient = BookstackClient()
 
     fun getBooks(): SimpleBookContainer {
@@ -30,14 +29,7 @@ class BookstackService {
         upLogOffset()
         val detailedBook = bookstackClient.getBook(bookId)
 
-        val keyChapterPageMap = createChapterPageMap(detailedBook)
-        keyChapterPageMap.forEach { (chapter, pages) ->
-            log("chapter ${chapter.name} has pages")
-            pages.forEach { log("${it.name} had tags: ${it.tags}") }
-            println()
-        }
-
-        val tagUrlMap = createTagUrlMap(keyChapterPageMap, detailedBook.name)
+        val tagUrlMap = createTagUrlMap(detailedBook)
         tagUrlMap.forEach { log(it) }
         lowerLogOffset()
 
@@ -48,34 +40,29 @@ class BookstackService {
         )
     }
 
-    private fun createChapterPageMap(book: DetailedBook): Map<BookContentsChapter, List<DetailedPage>> {
+    private fun createTagUrlMap(book: DetailedBook): List<TagMap> {
         upLogOffset()
         val map = book.contents
             .filterIsInstance<BookContentsChapter>()
             .filter { it.name.lowercase() in KEY_CHAPTERS }
             .also { log("key chapter: $it") }
-            .associateWith { keyChapter ->
-                keyChapter.pages.filterNot {
-                    if (it.draft) {
-                        log("page ${it.id}: ${it.name} is a draft page")
-                    }
-                    it.draft
-                }.map {
-                    log("retrieving page ${it.id}: ${it.name} ")
-                    val detailedPage = bookstackClient.getPage(it.id)
-                    log("detailed page $detailedPage")
-                    detailedPage
-                }
-            }
+            .map { keyChapter -> retrievePagesForChapter(keyChapter) }
+            .flatten()
+            .map { createTagMap(it, book.name) }
+            .flatten()
         lowerLogOffset()
         return map
     }
 
-    private fun createTagUrlMap(keyChapterPageMap: Map<BookContentsChapter, List<DetailedPage>>, book: String): List<TagMap> {
-        val bookUrl = "${properties.url}/books/$book"
-        return keyChapterPageMap.values.flatten()
-            .map { createTagMap(it, bookUrl) }
-            .flatten()
+    private fun retrievePagesForChapter(keyChapter: BookContentsChapter): List<DetailedPage> {
+        return keyChapter.pages
+            .filterNot { it.draft }
+            .map {
+                log("retrieving page ${it.id}: ${it.name} ")
+                val detailedPage = bookstackClient.getPage(it.id)
+                log("detailed page $detailedPage")
+                detailedPage
+            }
     }
 
     fun emptyChapter(bookSetup: CompleteBookSetup, chapterName: String) {
@@ -89,7 +76,7 @@ class BookstackService {
         lowerLogOffset()
     }
 
-    fun updateSessions(bookSetup: CompleteBookSetup, parsedFiles: List<ParsedFile>) {
+    fun updateWiki(bookSetup: CompleteBookSetup, parsedFiles: List<ParsedFile>) {
         upLogOffset()
 
         for (parsedFile in parsedFiles) {
