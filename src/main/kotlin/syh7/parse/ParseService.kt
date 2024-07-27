@@ -39,7 +39,8 @@ class ParseService {
                     throw IllegalStateException("could not find parser for file '$rawFilePath'")
                 }
 
-                writeFile(parsedFilePath, fullText)
+                val parseState = writeFile(parsedFilePath, fullText)
+                ParsedFile(parseState, parsedFilePath)
             }
             .toList()
 
@@ -47,23 +48,21 @@ class ParseService {
         return newSessions
     }
 
-    private fun writeFile(path: Path, sessionText: String): ParsedFile {
-        val state: ParseState
+    private fun writeFile(path: Path, sessionText: String): ParseState {
         if (path.exists()) {
             val currentParsedText = path.readText()
             if (currentParsedText == sessionText) {
-                state = ParseState.IGNORED
+                return ParseState.IGNORED
             } else {
-                state = ParseState.UPDATED
                 log("Updating previously parsed $path")
                 path.writeText(sessionText)
+                return ParseState.UPDATED
             }
-        } else {
-            state = ParseState.NEW
-            log("Parsed file, writing to $path")
-            path.writeText(sessionText)
         }
-        return ParsedFile(state, path)
+
+        log("Parsed file, writing to $path")
+        path.writeText(sessionText)
+        return ParseState.NEW
     }
 
     companion object {
