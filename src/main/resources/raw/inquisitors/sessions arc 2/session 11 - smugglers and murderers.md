@@ -9,7 +9,7 @@
 + Baariq, Kwame, nota approach one of the houses
 
 - "Who is there?" - uncertain, scared voice
-- " Anew employee"- Baariq
+- "A new employee" - Baariq
 - are not let in, even after Kwame asks what the neighbour looks like
 
 + guard looks at the group
