@@ -266,7 +266,7 @@
 
 + enter valley
 + dead flora everywhere
-+ it is the place we went to during Öfakko's challenge of Kalaaf!
++ it is the place we went to during [Öfakkö](https://bookstack.hemels.me/books/Darninia/page/nenen#notable%20people)'s challenge of Kalaaf!
 + only we did not save anybody apparently, houses are ruins, plants are dead
 + ours was just a dream :(
 
