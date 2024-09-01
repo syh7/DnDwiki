@@ -4,7 +4,7 @@
 >
 > "I am going to use Divine Sense" - [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris)
 
-+ faramar sneaks in
++ Faramar sneaks in
 
 - in the middle of temple is blue bonsai tree
 - hole in ceiling shines sunlight on tree

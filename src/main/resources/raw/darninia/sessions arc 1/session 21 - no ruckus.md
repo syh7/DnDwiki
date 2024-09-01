@@ -33,7 +33,7 @@
 + She was put in prison when she was discovered to be a witch
 + Kora got her out of prison break
 
-- Trista, Dalynn and faramar fix the boat
+- Trista, Dalynn and Faramar fix the boat
 - Trista and Dalynn talk about the Forgotten Realms
 
 + While 2 days on boat to Dembé we learn Old Darninian

@@ -66,7 +66,7 @@
 + does not find any
 
 - Dalynn notices 2 quicklings who suddenly arrived in the prison
-- Ember knows they're switches
+- Ember knows they're snitches
 - eyes + ears of Casgrad
 
 > "Snitches. Stitches?" - Ember
@@ -140,7 +140,7 @@
 >
 > "Ik heb dark vision!" - Anneloes
 >
-> "Ik HeB DaRkuIsiOn" - Sjoerd tegelijkertijd met Anneloes
+> "Ik HeB DaRkViSiOn" - Sjoerd tegelijkertijd met Anneloes
 
 - suddenly an oil trap is sprung
 - Dalynn falls down and is fully oiled
@@ -155,7 +155,7 @@
 
 > "Een echte vrouw kan ruzie maken, ook als de man niet wil. Skill issue" - Loes tegen Eef
 
-> "Ik wel disadvantage geven want je bent aan het vallen" - Eef
+> "Ik wil disadvantage geven want je bent aan het vallen" - Eef
 >
 > "Dat snap ik wel" - Frank
 
@@ -271,10 +271,10 @@
 + ours was just a dream :(
 
 - Dalynn + Ember run through door into the big tree
-- Wacomar + faramar notice enemies don't follow
+- Wacomar + Faramar notice enemies don't follow
 - stop to cut off a piece of bark
 
-+ Wacomar + faramar hear giggles
++ Wacomar + Faramar hear giggles
 + turn around
 + See tiny, black creatures with white masks
 + creatures don't respond to "hello"
@@ -383,7 +383,7 @@
 >
 > Noël
 
-> "Ik vind jou de patriarchy -Noël over faramar
+> "Ik vind jou de patriarchy" - Noël over Faramar
 
 - decide to read the letters between Abigor and Casgrad
 - find plans to start another war against Andarin

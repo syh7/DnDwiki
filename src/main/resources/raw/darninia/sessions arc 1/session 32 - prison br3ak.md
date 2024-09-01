@@ -50,7 +50,7 @@
 + can stand on air
 + carefully walk through the void
 
-- 2 torches float after Wacomar + faramar
+- 2 torches float after Wacomar + Faramar
 
 + arrive in room with few chests and a closed door
 + Wacomar tries to open the door

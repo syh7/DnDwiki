@@ -1,6 +1,6 @@
 # Session 32 - Prison Br3ak
 
-- [Ember](https://bookstack.hemels.me/books/Darninia/page/ember-cinderquarry) does reconnaissance with their familiar Hephaistos
+- [Ember](https://bookstack.hemels.me/books/Darninia/page/ember-cinderquarry) does reconnaissance with their familiar [Hephaistos](https://bookstack.hemels.me/books/Darninia/page/ember-cinderquarry#Hephaistos)
 - [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) changes into an orcopussy to try the well-used guard + prisoner trick
 
 + suddenly 3 orcupussies approach from behind
@@ -50,7 +50,7 @@
 + can stand on air
 + carefully walk through the void
 
-- 2 torches float after Wacomar + faramar
+- 2 torches float after Wacomar + Faramar
 
 + arrive in room with few chests and a closed door
 + Wacomar tries to open the door
