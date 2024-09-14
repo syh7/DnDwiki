@@ -19,3 +19,5 @@
 - Session 9 - Poolparty
 - Session 10 - Dancing in Geneva
 - Session 11 - Smugglers and Murderers
+- Session 12 - Playing Games of Chance
+- Session 13 - Finding a Flower

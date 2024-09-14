@@ -190,7 +190,7 @@
 - Baariq says they must be the smugglers
 
 + blue/black is workmen from merchant guild
-+ -white/gold are merchants
++ white/gold are merchants
 
 - Nora heard that thieves guild will be in touch tomorrow
 

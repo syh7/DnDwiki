@@ -19,3 +19,5 @@
 - [Session 9 - Poolparty](https://bookstack.hemels.me/books/Inquisitors/page/session-9-poolparty)
 - [Session 10 - Dancing in Geneva](https://bookstack.hemels.me/books/Inquisitors/page/session-10-dancing-in-geneva)
 - [Session 11 - Smugglers and Murderers](https://bookstack.hemels.me/books/Inquisitors/page/session-11-smugglers-and-murderers)
+- Session 12 - Playing Games of Chance
+- Session 13 - Finding a Flower
