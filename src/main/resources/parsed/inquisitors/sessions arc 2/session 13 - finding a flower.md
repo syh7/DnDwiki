@@ -1,4 +1,4 @@
-# Sessie 13 - Finding a Flower
+# Session 13 - Finding a Flower
 
 > "Lycanthropy is just forced druidism" - Sjoerd
 
@@ -105,7 +105,7 @@
 + See Baariq's flower write message in the sand
 + "Hi, I'm Abel, master send me :)"
 
-- out of game discussion to see how Sylraen feels about Baarig
+- out of game discussion to see how Sylraen feels about Baariq
 - it's Complicated(TM)
 
 + Sylraen decides Abel should not be judged on Baariq's behaviour

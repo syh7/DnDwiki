@@ -1,4 +1,4 @@
-# Sessie 12 - Playing Games of Chance
+# Session 12 - Playing Games of Chance
 
 - inventory rule changed:
     - all items are one sot, no longer multiple slots for larger items
