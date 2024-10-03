@@ -6,6 +6,9 @@
 
 > "17 is gewoon verantwoordelijk voor je eigen acties" - Loes
 
+- short rest before leaving
+- level up to level 8!
+
 - chwinga's take us up
 - end up back at tower prison, with Ulaf & Ola
 
