@@ -392,4 +392,4 @@
 - last letter is Abigor being happy about Cora's Capture
 - ships for the attack/war will leave in 1 month
 
-+ their source is
++ their source is Andonorotes
