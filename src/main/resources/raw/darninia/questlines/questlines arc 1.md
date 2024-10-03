@@ -43,3 +43,5 @@
 - Session 30 - Grave Digging
 - Session 31 - Friends in the Faewild
 - Session 32 - Prison Br3ak
+- Session 33 - Straight into the Nether
+- Session 34 - Straight outta the Nether

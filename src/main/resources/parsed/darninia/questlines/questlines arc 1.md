@@ -43,3 +43,5 @@
 - [Session 30 - Grave digging](https://bookstack.hemels.me/books/Darninia/page/session-30-grave-digging)
 - [Session 31 - Friends in the Faewild](https://bookstack.hemels.me/books/Darninia/page/session-31-friends-in-the-faewild)
 - [Session 32 - Prison Br3ak](https://bookstack.hemels.me/books/Darninia/page/session-32-prison-br3ak)
+- [Session 33 - Straight into the Nether](https://bookstack.hemels.me/books/Darninia/page/session-33-straight-into-the-nether)
+- [Session 34 - Straight outta the Nether](https://bookstack.hemels.me/books/Darninia/page/session-34-straight-outta-the-nether)

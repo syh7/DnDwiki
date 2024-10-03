@@ -31,7 +31,7 @@
 - some people wronged him + friends, he's in a discussion with people about prices,
 - wants revenge but cannot do it himself, wants 2 things stolen
 - party at mansion in canal village, blue peacock feather
-- Von Mackenbach will be there, also Mayors son Eniores Iaran + Ando Iaran
+- Von Mackenbach will be there, also Mayor's son Ando Iarann
 
 + important people at party:
     - someone from Mackenbach
