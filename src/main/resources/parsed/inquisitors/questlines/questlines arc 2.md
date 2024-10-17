@@ -22,3 +22,4 @@
 - [Session 12 - Playing Games of Chance](https://bookstack.hemels.me/books/Inquisitors/page/session-12-playing-games-of-chance)
 - [Session 13 - Finding a Flower](https://bookstack.hemels.me/books/Inquisitors/page/session-13-finding-a-flower)
 - [Session 14 - A Stroll with Grandma](https://bookstack.hemels.me/books/Inquisitors/page/session-14-a-stroll-with-grandma)
+- [Session 15 - Whack a Monk](https://bookstack.hemels.me/books/Inquisitors/page/session-15-whack-a-monk)

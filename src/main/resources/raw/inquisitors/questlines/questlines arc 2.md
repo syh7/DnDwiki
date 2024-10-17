@@ -22,3 +22,4 @@
 - Session 12 - Playing Games of Chance
 - Session 13 - Finding a Flower
 - Session 14 - A Stroll with Grandma
+- Session 15 - Whack a Monk
