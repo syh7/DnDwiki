@@ -212,3 +212,5 @@
 - white + purple crystals around the cradle
 - dome reminds of [Vayne](https://bookstack.hemels.me/books/Inquisitors/page/vayne)'s fight in [Sanos](https://bookstack.hemels.me/books/Inquisitors/page/sanos)
 - like we're looking in a different plane
+- a plane filled with stardust
+- at each end of the pentagram a monk is standing, with fire in a brazier behin him

@@ -24,3 +24,4 @@
 - Session 14 - A Stroll with Grandma
 - Session 15 - Whack a Monk
 - Session 16 - Pull the Laver
+- Session 17 - Why is Six afraid of Seven
