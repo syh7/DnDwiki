@@ -47,3 +47,4 @@
 - Session 34 - Straight outta the Nether
 - Session 35 - Holle bolle Boldor
 - Session 36 - Mr Bones Wild Ride
+- Session 37 - Gravity Falls

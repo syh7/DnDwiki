@@ -46,4 +46,5 @@
 - [Session 33 - Straight into the Nether](https://bookstack.hemels.me/books/Darninia/page/session-33-straight-into-the-nether)
 - [Session 34 - Straight outta the Nether](https://bookstack.hemels.me/books/Darninia/page/session-34-straight-outta-the-nether)
 - [Session 35 - Holle bolle Boldor](https://bookstack.hemels.me/books/Darninia/page/session-35-holle-bolle-boldor)
-- Session 36 - Mr Bones Wild Ride
+- [Session 36 - Mr Bones Wild Ride](https://bookstack.hemels.me/books/Darninia/page/session-36-mr-bones-wild-ride)
+- [Session 37 - Gravity Falls](https://bookstack.hemels.me/books/Darninia/page/session-37-gravity-falls)
