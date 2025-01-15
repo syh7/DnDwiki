@@ -82,7 +82,7 @@
 + Ragout pretends to be a friendly neighbourhood monk
 
 - Nota + Baariq arrive just in time
-- two figures are almost out of the dame
+- two figures are almost out of the dome
 - Sylraen has a plan
 
 + Baariq casts Create food and Water so Water is spawned in the container where Ragout's fire was
@@ -171,6 +171,6 @@
 
 + do find treasure
     - 5 art objects of 25 GP each
-    - 1st lul spell scroll (player's choice)
-    - 1st lul spell scroll (player's choice)
+    - 1st lvl spell scroll (player's choice)
+    - 1st lvl spell scroll (player's choice)
     - 1 potion of healing (given to Jim/Sotark)

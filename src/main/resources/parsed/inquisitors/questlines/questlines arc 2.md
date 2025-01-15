@@ -24,4 +24,4 @@
 - [Session 14 - A Stroll with Grandma](https://bookstack.hemels.me/books/Inquisitors/page/session-14-a-stroll-with-grandma)
 - [Session 15 - Whack a Monk](https://bookstack.hemels.me/books/Inquisitors/page/session-15-whack-a-monk)
 - [Session 16 - Pull the Laver](https://bookstack.hemels.me/books/Inquisitors/page/session-16-pull-the-laver)
-- Session 17 - Why is Six afraid of Seven
+- [Session 17 - Why is Six afraid of Seven](https://bookstack.hemels.me/books/Inquisitors/page/session-17-why-is-six-afraid-of-seven)
