@@ -17,6 +17,9 @@
 - Session 7 - Eyeing up Keys
 - Session 8 - Spidermike
 - Session 9 - Poolparty
+
+### The Resurgence of Five
+
 - Session 10 - Dancing in Geneva
 - Session 11 - Smugglers and Murderers
 - Session 12 - Playing Games of Chance
@@ -25,3 +28,4 @@
 - Session 15 - Whack a Monk
 - Session 16 - Pull the Laver
 - Session 17 - Why is Six afraid of Seven
+- Session 18 - Receiving Elowyn's Heritage

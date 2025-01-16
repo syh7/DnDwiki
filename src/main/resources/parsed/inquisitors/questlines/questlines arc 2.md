@@ -17,6 +17,9 @@
 - [Session 7 - Eyeing up Keys](https://bookstack.hemels.me/books/Inquisitors/page/session-7-eyeing-up-keys)
 - [Session 8 - SpiderMike](https://bookstack.hemels.me/books/Inquisitors/page/session-8-spidermike)
 - [Session 9 - Poolparty](https://bookstack.hemels.me/books/Inquisitors/page/session-9-poolparty)
+
+### The Resurgence of Five
+
 - [Session 10 - Dancing in Geneva](https://bookstack.hemels.me/books/Inquisitors/page/session-10-dancing-in-geneva)
 - [Session 11 - Smugglers and Murderers](https://bookstack.hemels.me/books/Inquisitors/page/session-11-smugglers-and-murderers)
 - [Session 12 - Playing Games of Chance](https://bookstack.hemels.me/books/Inquisitors/page/session-12-playing-games-of-chance)
@@ -25,3 +28,4 @@
 - [Session 15 - Whack a Monk](https://bookstack.hemels.me/books/Inquisitors/page/session-15-whack-a-monk)
 - [Session 16 - Pull the Laver](https://bookstack.hemels.me/books/Inquisitors/page/session-16-pull-the-laver)
 - [Session 17 - Why is Six afraid of Seven](https://bookstack.hemels.me/books/Inquisitors/page/session-17-why-is-six-afraid-of-seven)
+- [Session 18 - Receiving Elowyn's Heritage](https://bookstack.hemels.me/books/Inquisitors/page/session-18-receiving-elowyns-heritage)
