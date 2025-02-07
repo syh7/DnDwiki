@@ -29,3 +29,7 @@
 - [Session 16 - Pull the Laver](https://bookstack.hemels.me/books/Inquisitors/page/session-16-pull-the-laver)
 - [Session 17 - Why is Six afraid of Seven](https://bookstack.hemels.me/books/Inquisitors/page/session-17-why-is-six-afraid-of-seven)
 - [Session 18 - Receiving Elowyn's Heritage](https://bookstack.hemels.me/books/Inquisitors/page/session-18-receiving-elowyns-heritage)
+
+### Building the Keep
+
+- [Session 19 - Snapping Turtle](https://bookstack.hemels.me/books/Inquisitors/page/session-19-snapping-turtle)

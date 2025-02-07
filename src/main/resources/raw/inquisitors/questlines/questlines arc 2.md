@@ -29,3 +29,7 @@
 - Session 16 - Pull the Laver
 - Session 17 - Why is Six afraid of Seven
 - Session 18 - Receiving Elowyn's Heritage
+
+### Building the Keep
+
+- Session 19 - Snapping Turtle
