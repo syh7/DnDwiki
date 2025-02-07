@@ -119,7 +119,7 @@
 - Something or someone is trying to tie the party up
 - Darkness fades, everyone but Faramar is tied up (DC 24)
 - a vampire is standing in front of Faramar
-- he is named Rhysand Rice
+- he is named [Rhysand](https://bookstack.hemels.me/books/Darninia/page/itron#Notable%20People) Rice
 - a vampire with wings
 - says he ties up unwanted visitors, so they can wait for Vector
 - Dalynn calls everyone impulsive (hypocrite)

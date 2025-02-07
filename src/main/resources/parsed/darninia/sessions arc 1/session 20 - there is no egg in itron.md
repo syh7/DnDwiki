@@ -11,7 +11,7 @@
 - [Wacomar](https://bookstack.hemels.me/books/Darninia/page/wacomar-illitris) + [Faramar](https://bookstack.hemels.me/books/Darninia/page/faramar-illitris) 860 GP
 
 + [Kora](https://bookstack.hemels.me/books/Darninia/page/culorianacora) comes to us at breakfast
-+ Says [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) went to Vector to see Rhysand
++ Says [Andarin](https://bookstack.hemels.me/books/Darninia/page/the-andarin) went to Vector to see [Rhysand](https://bookstack.hemels.me/books/Darninia/page/itron#Notable%20People)
 + There was no Rhysand - nor any proof that there ever was a vampire
 + Dalynn goes to talk to the andarin that went to Vector (Jaap + Mara)
 + Did not see any paintings or other humanoid stuff
