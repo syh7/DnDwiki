@@ -33,3 +33,6 @@
 ### Building the Keep
 
 - Session 19 - Snapping Turtle
+- Session 20 - Mirror Mirror in the Basement
+- Session 21 - The Beginning
+- Session 22 - Inquisitors inquisited

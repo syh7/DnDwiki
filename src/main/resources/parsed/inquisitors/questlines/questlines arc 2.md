@@ -33,3 +33,6 @@
 ### Building the Keep
 
 - [Session 19 - Snapping Turtle](https://bookstack.hemels.me/books/Inquisitors/page/session-19-snapping-turtle)
+- [Session 20 - Mirror Mirror in the Basement](https://bookstack.hemels.me/books/Inquisitors/page/session-20-mirror-mirror-in-the-basement)
+- [Session 21 - The Beginning](https://bookstack.hemels.me/books/Inquisitors/page/session-21-the-beginning)
+- [Session 22 - Inquisitors inquisited](https://bookstack.hemels.me/books/Inquisitors/page/session-22-inquisitors-inquisited)
