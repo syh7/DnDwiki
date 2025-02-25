@@ -6,15 +6,15 @@
     - 5% naar elke character die meedeed
     - eind van missie/quest alles of een hoop, pak wat je kan gebruiken, rest verdelen
 
-- verdelen de 50 titties van Elowyn
-- 40 naar party
-- 2 naar [Sylraen](https://bookstack.hemels.me/books/Inquisitors/page/sylraen-morra), [Baariq](https://bookstack.hemels.me/books/Inquisitors/page/baariq), Kuvame, [Sotark](https://bookstack.hemels.me/books/Inquisitors/page/sotark), [Nota](https://bookstack.hemels.me/books/Inquisitors/page/nota-deef)
++ verdelen de 50 titties van Elowyn
++ 40 naar party
++ 2 naar [Sylraen](https://bookstack.hemels.me/books/Inquisitors/page/sylraen-morra), [Baariq](https://bookstack.hemels.me/books/Inquisitors/page/baariq), Kuvame, [Sotark](https://bookstack.hemels.me/books/Inquisitors/page/sotark), [Nota](https://bookstack.hemels.me/books/Inquisitors/page/nota-deef)
 
 - beetje uitleg over bastions
 - dan gaan we daadwerkelijk DnD spelen
 
-- talk to Jermaine
-- does not know much
++ talk to Jermaine
++ does not know much
 
 - Baariq wants to check his body for marks
 - will do so in the keep
@@ -25,9 +25,9 @@
 - nightmares
 - blacked out for moments
 
-- Jermaine worked in construction/maintenance
-- Baariq wonders if there are other mind controlled refugees like Jerry
-- we'll have to verify each one is okay
++ Jermaine worked in construction/maintenance
++ Baariq wonders if there are other mind controlled refugees like Jerry
++ we'll have to verify each one is okay
 
 > "Wow! A wall. I am a human" - Baariq
 
@@ -35,8 +35,8 @@
 - will take 8 hours to read fully
 - journey will take 3 hours
 
-- Baariq wants to know what's the biggest kill of everyone
-- weird flex but okay
++ Baariq wants to know what's the biggest kill of everyone
++ weird flex but okay
 
 - Sotark is a Bulette in [Sanos](https://bookstack.hemels.me/books/Inquisitors/page/sanos)
 - Nota the monster in the Keep / a frog-man
@@ -44,9 +44,9 @@
 - [Kwame](https://bookstack.hemels.me/books/Inquisitors/page/kwame) a Hook in the south-east mountains
 - Baariq also the monster in the Keep
 
-- wind picks up
-- sounds like a voice saying things in unknown language
-- "That's why they call it Whispering Sands" - [Beetlefeet](https://bookstack.hemels.me/books/Inquisitors/page/sandhaven#Beetlefeet%20Ko)
++ wind picks up
++ sounds like a voice saying things in unknown language
++ "That's why they call it Whispering Sands" - [Beetlefeet](https://bookstack.hemels.me/books/Inquisitors/page/sandhaven#Beetlefeet%20Ko)
 
 - Sandstorm approaches
 - we have to prepare
@@ -67,15 +67,15 @@
 - "Get a grip" - Sylraen
 - "I didn't see the mother.... it's nasty snake-sies" - Beetlefeet
 
-- Counter charm is finally useful!
++ Counter charm is finally useful!
 
 - hear Shelly make noises
 - starts moving
 - also frightened
 
-- Baariq: "don't tell Lais about this"
-- uses Channel Divinity
-- 30 ft. radius dim light sphere to calm Shelly down
++ Baariq: "don't tell Lais about this"
++ uses Channel Divinity
++ 30 ft. radius dim light sphere to calm Shelly down
 
 - roll initiative
 
@@ -91,10 +91,10 @@
 - with 25 strength gets him up
 - barely
 
-- yuan-ti tries to get Baariq off Shelly
-- Shelly bites him for 26 damage
-- yuan-ti is still successful
-- Shelly trekt Baariq uit het zand
++ yuan-ti tries to get Baariq off Shelly
++ Shelly bites him for 26 damage
++ yuan-ti is still successful
++ Shelly trekt Baariq uit het zand
 
 - The fat yuan-ti moves closer
 - Whispering Sands sound gets louder
@@ -102,14 +102,14 @@
 - does it create the sound?
 - yuan-ti make the same sound?
 
-- probably do not cause sand storm
-- fat yuan-ti runs away
++ probably do not cause sand storm
++ fat yuan-ti runs away
 
 - Kwame runs after it of the desert in the middle
 - rest follows on Shelly
 - Kwame finishes it before the rest can move
 
-- Sandstorm does not dissipate
++ Sandstorm does not dissipate
 
 - Kwame starts sinking
 - Shelly slowly comes closer
@@ -121,7 +121,7 @@
 - grabs his hand
 - Dimension Door's in the carriage
 
-- loot the yuan-ti
++ loot the yuan-ti
     - 5 scimitars
     - 5 longbows
     - 1 PP + 13 GP + 33 SP + 16 CP
