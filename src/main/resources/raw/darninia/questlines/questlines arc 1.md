@@ -49,3 +49,4 @@
 - Session 36 - Mr Bones Wild Ride
 - Session 37 - Gravity Falls
 - Session 38 - Buffy Buffet
+- Session 39 - Defeating Casgrad

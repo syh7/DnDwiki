@@ -49,3 +49,4 @@
 - [Session 36 - Mr Bones Wild Ride](https://bookstack.hemels.me/books/Darninia/page/session-36-mr-bones-wild-ride)
 - [Session 37 - Gravity Falls](https://bookstack.hemels.me/books/Darninia/page/session-37-gravity-falls)
 - [Session 38 - Buffy Buffet](https://bookstack.hemels.me/books/Darninia/page/session-38-buffy-buffet)
+- [Session 39 - Defeating Casgrad](https://bookstack.hemels.me/books/Darninia/page/session-39-defeating-casgrad)
