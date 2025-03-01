@@ -49,7 +49,7 @@
 - decided to rob the party
 - wrong choice
 
-> "Houd je van dansen?" - Kwame\
+> "Houd je van dansen?" - Kwame
 
 - turns out yes, and good at it as well
 

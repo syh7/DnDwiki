@@ -53,7 +53,7 @@
 - flowers change colours
 - apparently different colours mean something
 - flowers get out of planter
-- run away in all different directions\
+- run away in all different directions
 - only regular plants left
 
 + Baariq has flower powers?

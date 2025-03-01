@@ -22,7 +22,7 @@
 - Sumi wordt gebeten en infected door misvormde wererat
 
 - in de buurt van Kaasje gebruiken we de sending stone om met hem te praten
-- proberen over te halen om over te geven maar lukt Vayne niet\
+- proberen over te halen om over te geven maar lukt Vayne niet
 
 - komen samen by Kaasjes base
 - pincer maneuver
@@ -33,7 +33,7 @@
 
 - Darius roept dat Kaasje de groetjes krijgt van iemand -> de client?!
 - Kaasje wordt invisible
-- is hij een caster? 
+- is hij een caster?
 - weet de party te ontwijken :(
 
 - roll initiative
