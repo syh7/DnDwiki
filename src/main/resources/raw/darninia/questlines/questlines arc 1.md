@@ -50,3 +50,7 @@
 - Session 37 - Gravity Falls
 - Session 38 - Buffy Buffet
 - Session 39 - Defeating Casgrad
+
+### Daguria
+
+- Session 40 - Leaving Imna
