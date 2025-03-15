@@ -239,9 +239,9 @@
 >
 > "Ja" - Eef
 
-> "Where did the pigeon come from?"- Sjoerd
+> "Where did the pigeon come from?" - Sjoerd
 >
-> "Fucking plotland" Frank
+> "Fucking plotland" - Frank
 
 - lengthy discussion about what to do
 - very lengthy
